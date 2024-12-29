@@ -1,2 +1,0 @@
-# Authentication errors and solutions
-

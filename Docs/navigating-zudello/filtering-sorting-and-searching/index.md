@@ -1,2 +1,0 @@
-# 	- Filtering/sorting and searching
-

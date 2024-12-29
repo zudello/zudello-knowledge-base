@@ -1,2 +1,0 @@
-# Configuring Keyword Coding Rules
-

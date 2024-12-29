@@ -1,2 +1,0 @@
-# User Security Best Practices
-

@@ -1,2 +1,0 @@
-# MYOB Accumatica
-

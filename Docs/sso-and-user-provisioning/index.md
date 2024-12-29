@@ -1,2 +1,0 @@
-# SSO and User provisioning
-

@@ -1,2 +1,0 @@
-# Managing delegation and default
-

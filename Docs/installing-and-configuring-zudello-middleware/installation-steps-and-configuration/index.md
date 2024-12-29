@@ -1,2 +1,0 @@
-# Installation steps and configuration
-

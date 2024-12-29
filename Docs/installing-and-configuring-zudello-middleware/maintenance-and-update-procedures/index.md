@@ -1,2 +1,0 @@
-# Maintenance and update procedures
-
