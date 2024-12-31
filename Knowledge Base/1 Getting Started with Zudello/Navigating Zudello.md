@@ -65,7 +65,7 @@ To add an advanced filtering option:
 
 1. Click **Add** under Advanced Filter
 2. Select the field to filter on
-3. Choose an operator (e.g. is, is not, contains, starts with)
+3. Select an operator (e.g. is, is not, contains, starts with)
 4. Enter your search value
 
 To remove an advanced filter:

@@ -202,17 +202,38 @@ Use apostrophes to form possessives:
 ## Log in vs login
 
 - "Log in" (two words) is a verb phrase - it's what you do when you enter your credentials to access an account:
-	- "I need to log in to my email"
-	- "Please log in to continue"
-- "Login" (one word) is a noun or adjective - it refers to the credentials or the process itself:
-	- "I forgot my login information"
-	- "The login page isn't loading"
-	- "Enter your login details below"
+	- I need to log in to my email  ✅ 
+	- Please log in to continue  ✅ 
+	- You will need to login again ❌
+- Login (one word) is a noun or adjective - it refers to the credentials or the process itself:
+	- The login page isn't loading  ✅ 
+	- Enter your login details below  ✅ 
+	- If you have forgotten your log in information ❌
 - An easy way to remember: if you can replace it with "sign in," use two words (log in). If you can replace it with "username" or "credentials," use one word (login).
 
-## Toggles
-- Refer to toggles as options only if required. Otherwise, just use the name of the toggle
-- Options are either selected or deselected
-- Bold the name of an option like you would a button
-	- Select the **Delegate duties** option
-	- Deselect **Are the line totals inclusive of tax?**
+## Toggles and radio buttons
+
+- Refer to toggles and radio buttons as options only if required. Otherwise, just use the name of the toggle/button.
+- Options are either turned on or turned off (not enabled, selected, toggled off, or anything else).
+- Turned on, turn on, turning on, turns on.
+- Bold the name of an option like you would a button.
+- Examples:
+	- Turn on the **Delegate duties** option ✅ 
+	- Turn off **Are the line totals inclusive of tax?** ✅ 
+	- Disable the **Verify email** option ❌
+
+## Checkboxes 
+
+- Refer to checkboxes as the name of the option if the name is short and each name is unique. Otherwise, refer to them as checkboxes.
+- If using the name of the option, bold the name and match the case in the UI.
+- Checkboxes are selected or deselected (not turned on, toggle off, unchecked, or enabled).
+- Examples:
+	- Select **Ready**, **User Review** and any other statuses you would like to view ✅ 
+	- Select the checkbox at the start of each row that you would like to delete ✅ 
+	- Check **Approval** to view only invoices awaiting approval ❌
+	- Select **Step Name** at the start of each dataset row you want to delete ❌
+
+## Drop-down menus
+
+- Drop-down, not drop down or dropdown.
+- Users select options from a drop-down menu. They don't pick, choose, or click

@@ -14,8 +14,8 @@ To view and edit your notification settings:
 
 1. Click the company menu at the top right of your screen
 2. Click **Notifications**
-3. Click the **For team** dropdown and select the team you want to configure notifications for
-6. Select or deselect the events you want to receive email notifications for
+3. Click the **For team** drop-down and select the team you want to configure notifications for
+6. Select the events you want to receive email notifications for
 7. Repeat steps 1-3 for each team you belong to
 8. Click **Close** 
 

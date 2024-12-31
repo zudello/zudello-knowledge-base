@@ -24,7 +24,7 @@ To set up approval delegation:
 
 1. Click the company menu at the top right of your screen
 2. Click **Profile**
-3. Click the **Team settings** dropdown and select the team you want to configure delegation for
+3. Click the **Team settings** drop-down and select the team you want to configure delegation for
 4. Click **Delegation** to expand the delegation menu
 5. Choose your delegate from the user list
 6. Set your delegation period:
@@ -42,7 +42,7 @@ Delegations automatically expire at the end of the day on the specified **Until 
 
 1. Click the company menu at the top right of your screen
 2. Click **Profile**
-3. Click the **Team settings** dropdown and select the team you want to remove delegation for
+3. Click the **Team settings** drop-down and select the team you want to remove delegation for
 4. Under the delegation section, click **Clear delegation**
 5. Repeat steps 3 and 4 for all teams you want to remove delegation for
 6. Click **Update** to save your changes
