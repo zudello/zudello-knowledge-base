@@ -1,3 +1,5 @@
+# Contacting Zudello support
+
 We provide ongoing support to help you get the most out of Zudello. This guide explains how best to contact support to get your questions answered quickly.
 
 ## Best practices for support requests
@@ -11,8 +13,8 @@ To help us resolve your queries quickly and efficiently please:
 - Attach any relevant screenshots or supporting files
 ## Support availability 
 
-Support is available from 9:00 am to 5:30 pm Australian Eastern Standard Time (AEST). 
-You can still send support requests outside of these hours, and you'll receive updates via email on the next business day (AEST).
+The support team are available from 9:00 am to 5:30 pm Australian Eastern Standard Time (AEST). 
+You can still send support requests outside of these hours. You will receive updates via email on the next business day (AEST) when a member of the support team responds.
 
 ## Contacting support
 

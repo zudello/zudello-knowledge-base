@@ -1,3 +1,5 @@
+# Logging in to Zudello
+
 We know that getting started with a new system can be challenging. This guide walks you through logging in to Zudello and managing your password.
 
 ### Best practices
@@ -13,18 +15,16 @@ We know that getting started with a new system can be challenging. This guide wa
 SSO allows you to login using your existing Entra AD (Microsoft) login. 
 
 1. Go to  **[https://app.zudello.io](https://app.zudello.io)**
-2. Enter your email address
-3. Click **Next**
-4. Zudello will redirect you to your orgnisation's Microsoft login page
+2. Enter your email address and click **Next**
+4. Zudello will redirect you to your organisation's Microsoft login page
 > If you have an active Microsoft session, you will be logged in automatically
 5. Sign in with your Microsoft credentials
 6. You will then be returned to Zudello
-7. 
+
 ### Logging in with a password
 
 1. Go to  **[https://app.zudello.io](https://app.zudello.io)**
-2. Enter your email address
-3. Click **Next**
+2. Enter your email address and click **Next**
 4. Enter your password
 5. Click **Next**
 
@@ -32,8 +32,11 @@ SSO allows you to login using your existing Entra AD (Microsoft) login.
 
 To reset your password:
 
-1. Click **Reset password** on the login screen
-2. Follow the prompts to create a new password
+1. Go to  **[https://app.zudello.io](https://app.zudello.io)**
+2. Enter your email address and click **Next**
+2. Click **Reset password** 
+3. An email will be sent with instructions to reset your password
+4. Follow the prompts to create a new password
 
 ## Switching teams
 

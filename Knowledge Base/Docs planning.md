@@ -12,9 +12,9 @@
 	- Best practices, hours of operation
 
 ## Managing Your Account - 2
-- Changing Your Password
+- ~~Resetting Your Password
 - Managing Notification Settings
-- Adding delegations
+- Adding delegations 
 - Adding default coding
 
 

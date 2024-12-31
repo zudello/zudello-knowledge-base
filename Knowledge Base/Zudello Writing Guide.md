@@ -198,3 +198,21 @@ Use apostrophes to form possessives:
 - Use "I" for user consent/permissions
 - Refer to Zudello as "we" when necessary
 - Don’t insert Zudello into content unnecessarily
+
+## Log in vs login
+
+- "Log in" (two words) is a verb phrase - it's what you do when you enter your credentials to access an account:
+	- "I need to log in to my email"
+	- "Please log in to continue"
+- "Login" (one word) is a noun or adjective - it refers to the credentials or the process itself:
+	- "I forgot my login information"
+	- "The login page isn't loading"
+	- "Enter your login details below"
+- An easy way to remember: if you can replace it with "sign in," use two words (log in). If you can replace it with "username" or "credentials," use one word (login).
+
+## Toggles
+- Refer to toggles as options only if required. Otherwise, just use the name of the toggle
+- Options are either selected or deselected
+- Bold the name of an option like you would a button
+	- Select the **Delegate duties** option
+	- Deselect **Are the line totals inclusive of tax?**
