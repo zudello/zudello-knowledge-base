@@ -4,7 +4,7 @@ We know that managing your organisation settings is crucial for maintaining secu
 
 ## Understanding organisation-level control
 
-Organisation settings control user management and security across your entire organisation. Only organisation administrators can access and modify these settings.
+Organisation-level settings control user management and security across your entire organisation. Only organisation administrators can access and modify these settings.
 
 ## Accessing organisation settings
 
