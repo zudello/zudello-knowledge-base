@@ -1,6 +1,13 @@
-# Managing users in Zudello
+# User management in Zudello
 
 Zudello makes it easy to manage your organisation's users, including creating new users, editing their settings, and managing team memberships. This guide explains how to perform common user management tasks.
+
+## Best practices
+
+- Review user permissions and team memberships regularly
+- Document all significant changes made to user settings
+- Communicate any planned user access changes to affected team members in advance
+- Verify new user access by having them log in immediately after account creation
 
 ## Accessing user management
 
@@ -54,8 +61,8 @@ To edit an existing users settings:
 3. Click the **Team settings** drop-down and select the team you want to modify their settings for
 4. Make changes such as:
    - Adjusting user group membership using the **User groups** drop-down
-   - Updating delegation settings under the **Delegation** tab (see [[Managing user delegation and defaults]])
-   - Updating default settings under the **Default settings** tab (see [[Managing user delegation and defaults]])
+   - Updating delegation settings under the **Delegation** tab (see [[User delegation and defaults]])
+   - Updating default settings under the **Default settings** tab (see [[User delegation and defaults]])
 5. Repeat steps 3 and 4 for any additional team that need settings changed
 6. Click **Update** to save your changes
 

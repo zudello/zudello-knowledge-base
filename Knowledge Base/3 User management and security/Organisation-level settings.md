@@ -1,4 +1,4 @@
-# Managing organisation-level settings
+# Organisation-level settings
 
 We know that managing your organisation settings is crucial for maintaining security and control. This guide explains how to access and manage organisation-level settings in Zudello.
 
@@ -22,7 +22,7 @@ You will now see the following organisation settings menu on the left side of yo
 - Users
 	- The users tab allows you to create, view, and edit users
 	- You can also manage user access and permissions, as well as delegations and default settings
-	- For help with the users tab, see [[Managing users in Zudello]] 
+	- For help with the users tab, see [[User management in Zudello]] 
 - User groups
 	- The user groups tab allows you to create, view, and edit user groups
 	- User groups allows you to control what users can do, see and approve

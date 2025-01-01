@@ -1,4 +1,4 @@
-# Managing user delegation and defaults
+# User delegation and defaults
 
 While users can manage their own settings, we know that organisation administrators may need to control these settings for their team members from time to time. 
 This guide explains how organisation administrators can manage delegation, default coding, and default team settings for other users.

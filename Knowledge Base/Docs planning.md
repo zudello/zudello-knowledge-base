@@ -13,13 +13,13 @@
 
 ## Managing Your Account - 2
 - ~~Resetting Your Password
-- Managing Notification Settings
-- Adding delegations 
-- Adding default coding
+- ~~Managing Notification Settings
+- ~~Adding delegations 
+- ~~Adding default coding
 
 
 ## User Management and Security
-- User management
+- ~~User management
 - Understanding User Roles 
     - AP User Role
     - Approver Role 
@@ -29,7 +29,7 @@
     - Standard Data permissions
 - User Security Best Practices
 - SSO and User provisioning
-- Managing delegation and default
+- ~~Managing delegation and default
 
 ## Document Management
 - Duplicate checking
@@ -123,6 +123,10 @@
 - Processing Claims (Reimbursements)
 - Credit Card Reconciliation
 - Managing Refunds
+
+## Index pages for each section
+
+## Glossary
 
 ## Reporting and Analytics  - LEAVE FOR NOW
 - Using Reporting Dashboards
