@@ -52,7 +52,7 @@ Current import statuses are:
 - When referencing other Zudello data, use any of the the following fields:
 	- **UUID** - an auto-generated, unique system ID for all Zudello records
 	- **Code** - populated by the user or the integration, NOT currently enforced to be unique
-	- **External ID** - the unique ID of the record in your external system, usually populated when the record is fetched from your integration. Not currently enforced to be unique within Zudello, but usually required to be unique within your external integration
+	- **External ID** - the unique ID of the record in your ERP, usually populated when the record is fetched from your integration. Not currently enforced to be unique within Zudello, but usually required to be unique within your external integration
 > You cannot reference other records using their **Name**
 - Where records already exist within Zudello, importing can be used to update rather than create the records. When updating, provide the UUID of each record to ensure consistent and accurate updates
 

@@ -5,7 +5,7 @@ Keep your workspace free of unnecessary documents through deletion and archiving
 ## Best practices
 
 - Use deletion only for documents that should not have been uploaded to or created in Zudello
-- Archive documents that were uploaded to Zudello, but processed manually to your external system
+- Archive documents that were uploaded to Zudello, but processed manually to your ERP
 - Review documents carefully before deleting or archiving
 - Minimise use of bulk actions for deleting and archiving to avoid mistakes
 
@@ -31,7 +31,7 @@ We recommend archiving over deletion for documents that:
 
 - Were uploaded to Zudello but processed manually in another system
 - Need to be retained but no longer need to be processed
-- Should be separated from deleted documents and documents that were pushed from Zudello into your external system
+- Should be separated from deleted documents and documents that were pushed from Zudello into your ERP
 
 ### Archiving a single document
 

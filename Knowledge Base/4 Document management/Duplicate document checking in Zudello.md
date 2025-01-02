@@ -8,7 +8,7 @@ To ensure the fastest and most accurate duplicate checking within your teams:
 
 - Avoid creating new versions of documents (e.g. by printing to PDF) before uploading them to Zudello
 - Review potential duplicates carefully before deletion
-- Verify external system records when alerted to possible duplicates
+- Verify ERP records when alerted to possible duplicates
 - Ask customers and suppliers to use unique, non-repeated document numbers 
 - Ensure all users on your team are familiar with the following duplicate checking procedures
 
@@ -18,7 +18,7 @@ Zudello performs duplicate checking at three key points:
 
 1. When documents are uploaded
 2. When documents are opened, against other documents in Zudello
-3. When documents are opened, against your external accounting system
+3. When documents are opened, against your ERP
 
 ### On-upload duplicate detection
 
@@ -39,7 +39,7 @@ If a potential duplicate is found within Zudello, you'll see the following messa
 
 > A possible duplicate was found. **View duplicate**
 
-If a potential duplicate is found within your external system, you'll see the following message at the top of the document:
+If a potential duplicate is found within your ERP, you'll see the following message at the top of the document:
 
 > A possible duplicate was found in your accounting system
 
@@ -58,12 +58,12 @@ When a potential duplicate is identified within Zudello:
     - Ignore the warning
     - Continue processing the documents as normal
 
-### External system duplicates
+### ERP duplicates
 
-When Zudello identifies a potential duplicate in your external system:
+When Zudello identifies a potential duplicate in your ERP:
 
 1. Stop processing the document
-2. Check your external accounting system
+2. Check your ERP
 3. Verify whether you have already received and processed the document
 4. Determine if further processing is needed
 5. If the document is a duplicate, archive it within Zudello

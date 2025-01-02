@@ -25,7 +25,7 @@ To select records for bulk actions:
 > 
 > **Select all** will only select the records that are currently loaded (batches of 30). To load and select more, scroll down on records until the next batch of 30 appear. Once your desired number are loaded, click **Select all**.
 > 
-> For best performance, we recommend performing bulk actions on fewer than a maximum of 100 records at a time.
+> For best performance, we recommend performing bulk actions on a maximum of 100 records at a time.
 
 After selecting records, the bulk action bar appears at the bottom of your screen, showing the number of available actions.
 
