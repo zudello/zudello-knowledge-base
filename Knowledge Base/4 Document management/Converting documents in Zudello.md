@@ -37,7 +37,7 @@ To convert a document:
    - Turn on the **Duplicate** option
 7. Click **Convert**
 
-The system then begins converting the document. You will be redirected to a new tab with the converted document opened. 
+The system then begins converting the document. Once complete, you will be redirected to a new tab with the converted document opened. 
 
 ### Working with duplicated conversions
 
