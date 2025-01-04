@@ -1,24 +1,29 @@
 # Exporting data in Zudello
 
-We know that getting your data out of Zudello in the right format is crucial for analysis and reporting. This guide explains how to create and manage custom exports for your transaction, relationship, and dimension data.
+Getting your data out of Zudello in the right format is crucial for your analysis and reporting. This guide explains how to create and manage custom exports for your transaction, relationship, and dimension data.
 
 ## Best practices
 
 To ensure efficient and effective use of exports:
 
 - Only add necessary fields to keep exports fast and manageable
-- Use filters when exporting from large datasets to improve performance
+- Use filters when exporting from submodules with a large number of records
 - Avoid running the same export repeatedly in quick succession
-- Schedule exports during off-peak hours when possible
+- Use clear, descriptive names when creating export templates
 
 ## Required permissions
 
-To access and manage exports, you need these permissions:
+To access and run exports, you will need the following permissions:
 
-- Export View
-- Export Create
-- Export List
-- Export Download
+- System Export View
+- System Export Create
+- System Export Update
+- Export Template List
+- Export Template View
+- Export Template Visible
+- Export Template Edit (optional if required to create and update export templates)
+- For each submodule you need to export, you will need:
+	- Module Submodule Export
 
 ## Accessing exports
 
@@ -28,14 +33,16 @@ To access and manage exports, you need these permissions:
 
 In the exports section, you'll find:
 
-- Templates: Your saved export configurations
-- Ready exports: Previously generated export files
+- Templates
+	- Your team's saved export templates
+- Ready exports 
+	- Previously generated export files
 
-To view only your exports, turn on **Show mine only** at the top of the page.
+To view only the export files that you have generated, turn on **Show mine only**.
 
-## Creating an export template
+## Managing export templates
 
-### For original files
+### Creating an export for original files
 
 1. Click **Build export template**
 2. Enter a template name
@@ -43,33 +50,33 @@ To view only your exports, turn on **Show mine only** at the top of the page.
     - Click **Download all** to export everything
     - Click **Download selected** to export specific items
 4. If downloading selected items:
-    - Select a module from the **Modules** drop-down
-    - Select a sub-module from the **Sub-modules** drop-down
-    - Add any desired filters
-5. Click **Save**
+    - Select from the **Modules** drop-down
+    - Select from the **Submodules** drop-down
+5. To add filters 
+	1. Click **Add**
+	2. Select from the **Select field** drop-down
+	3. Select from the **Operator** drop-down
+	4. Enter the value to filter on
+	5. Repeat steps 1-4 for any additional filters
+6. Click **Save**
 
-### For CSV exports
+### Creating a CSV export
 
 1. Click **Build export template**
 2. Enter a template name
-3. Select a module from the **Modules** drop-down
-4. Select a sub-module from the **Sub-modules** drop-down
+3. Select from the **Modules** drop-down
+4. Select  from the **Submodules** drop-down
 5. Add your desired fields:
     - Click **Add**
     - Search or scroll to find fields
     - Select the checkbox next to each field you want to include
-6. Add filters if needed:
-    - Select a filter from the drop-down
-    - Click the operator drop-down to change from the default "is" if needed
-    - Enter your filter value
-7. Click **Save**
-
-To remove filters:
-
-- Click the bin icon next to individual filters
-- Click **Clear all** to remove all filters at once
-
-## Managing export templates
+6. To add filters 
+	1. Click **Add**
+	2. Select from the **Select field** drop-down
+	3. Select from the **Operator** drop-down
+	4. Enter the value to filter on
+	5. Repeat steps 1-4 for any additional filters
+6. Click **Save**
 
 ### Editing a template
 
@@ -78,20 +85,23 @@ To remove filters:
 3. Make your desired changes
 4. Click **Save**
 
+## Exporting data
+
 ### Running an export
 
 1. Find the template in your templates list
 2. Click the play icon
-3. Click **Start**
-4. Wait for the "Export queued" message
+3. Adjust any filters if needed
+4. Click **Start**
+5. Wait for the "Export queued" message
 
 ### Accessing export results
 
 1. Click the refresh icon to update the list of ready exports
 2. Monitor the export status
 3. Once completed:
-    - Click **Download export** to save the CSV to your local machine
-    - Click **Delete export** to remove the export file
+    - Click the download icon to download the export file
+    - Click **Delete export** to delete the export file
 
 ## Need help?
 

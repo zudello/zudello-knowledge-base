@@ -18,7 +18,7 @@
 - ~~Adding default coding
 
 
-## User Management and Security
+## ~~User Management and Security
 - ~~User management
 - Understanding User Roles 
     - AP User Role
@@ -31,7 +31,7 @@
 - SSO and User provisioning
 - ~~Managing delegation and default
 
-## Document Management
+## ~~Document Management
 - Duplicate checking
 - Bulk actions
 - Document Processing and Data Extraction
@@ -48,7 +48,7 @@
 - Reverting and rejecting
 - Apply trained rules
 
-## Business Rules
+## ~~Business Rules
 - Setting Up Default Coding Rules
 - Configuring Keyword Coding Rules
 - Creating Sentence Automations
@@ -57,20 +57,20 @@
 	- Managing dependencies
 - Troubleshooting Automation Issues
 
-## Relationship Management
+## ~~Relationship Management
 - Managing Supplier Records
 - Managing Customer Records
 - Managing Employee Records
 - Relationship Types and Categories
 
-## Approval Management
+## ~~Approval Management
 - Managing Delegation of Authority Datasets
 - Approval Process Overview
 - Managing Approval Limits
 - Approval History and Audit Trails
 - Requests page
 
-## Data Management
+## ~~Data Management
 - Viewing and managing dimension data
 - Bulk Import/Export Operations
 
