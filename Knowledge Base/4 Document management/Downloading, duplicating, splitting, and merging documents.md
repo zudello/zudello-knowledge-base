@@ -1,4 +1,4 @@
-# Document actions (downloading, duplicating, splitting, merging)
+# Downloading, duplicating, splitting, and merging documents
 
 Zudello provides several document management functions to help you process documents quickly and efficiently. This guide explains how to download, duplicate, split and merge documents.
 

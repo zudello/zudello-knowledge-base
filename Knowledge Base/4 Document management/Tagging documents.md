@@ -1,4 +1,4 @@
-# Document tags
+# Tagging documents
 
 Zudello makes it easy to organise and filter your documents using tags. Tags provide visual cues that help your team track documents and get quick updates. This guide explains how to create, apply, and manage document tags.
 
