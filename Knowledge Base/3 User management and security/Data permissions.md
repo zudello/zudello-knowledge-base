@@ -12,8 +12,7 @@ Ensuring users can see only the information they need is crucial for your organi
 
 Data permissions work with user groups to control what users can see within Zudello. 
 
-Each data permission is given access to certain resources within Zudello. Data permissions are then assigned to one or more user groups. Users within those user groups will then inherit the data permissions, giving them access to all resources selected under the data permission
-.
+Each data permission is given access to certain resources within Zudello. Data permissions are then assigned to one or more user groups. Users within those user groups will then inherit the data permissions, giving them access to all resources selected under the data permission.
 Some important things to remember are:
 
 - Permissions are controlled at the team level

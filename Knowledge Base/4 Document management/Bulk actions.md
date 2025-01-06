@@ -23,7 +23,7 @@ To select records for bulk actions:
 
 > Some bulk actions can only be performed on records within the same module.
 > 
-> **Select all** will only select the records that are currently loaded (batches of 30). To load and select more, scroll down on records until the next batch of 30 appear. Once your desired number are loaded, click **Select all**.
+> **Select all** will only select the records that are currently loaded (batches of 30). To load and select more, scroll down on records until the next batch of 30 appears. Once your desired number are loaded, click **Select all**.
 > 
 > For best performance, we recommend performing bulk actions on a maximum of 100 records at a time.
 

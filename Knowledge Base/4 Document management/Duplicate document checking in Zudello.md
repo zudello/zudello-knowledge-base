@@ -14,11 +14,11 @@ To ensure the fastest and most accurate duplicate checking within your teams:
 
 ## Understanding duplicate checks
 
-Zudello performs duplicate checking at three key points:
+Zudello performs duplicate checking:
 
-1. When documents are uploaded
-2. When documents are opened, against other documents in Zudello
-3. When documents are opened, against your ERP
+1. When a document is uploaded
+2. Against other documents in Zudello when a document is opened
+3. Against your ERP when a document is opened
 
 ### On-upload duplicate detection
 

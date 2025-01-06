@@ -26,7 +26,7 @@ To reject a document and email it back to the supplier:
 9. The document attaches automatically - deselect **Attach document** if you don't want to include it
 10. Click **Reject and Send**
 
-The document moves to **Rejected** status automatically. Email responses will come to the inbox the email was sent from.
+The document moves to **Rejected** status automatically. Email responses will come to the inbox from which the email was sent.
 
 ## Rejecting documents without email
 

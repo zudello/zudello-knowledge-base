@@ -9,7 +9,7 @@ To apply trained rules to a document:
 1. Click **...** at the top of the document
 2. Click **Apply trained rules**
 3. Wait while the document refreshes and the rules are applied
-4. When a message appears saying "A new version of this Invoice is available", click **Refresh Invoice** to view the updated invoice
+4. When "A new version of this Invoice is available" appears, click **Refresh Invoice** to view the updated invoice
 
 You can then continue processing the document as normal.
 
@@ -24,7 +24,7 @@ Apply trained rules when you have:
 ## Best practices
 
 - Wait for the document to fully refresh after applying trained rules
-- Double-check that all information has updated correctly
+- Double-check that all information has been updated correctly
 - Review any changes to ensure they align with your expectations
 
 ## Need help?

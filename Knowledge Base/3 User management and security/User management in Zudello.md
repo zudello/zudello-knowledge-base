@@ -72,9 +72,9 @@ To deactivate a user:
 
 1. Click the edit icon next to the user
 2. For each team:
-   - Click the team settings drop-down
+   - Click the **Team settings** drop-down
    - Select the team
-   - Turn off the is active option
+   - Turn off **Is active**
    - Confirm the deactivation
 3. Click **Update**
 4. Click **Advanced**

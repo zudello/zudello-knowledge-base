@@ -36,7 +36,7 @@ After validation, Zudello extracts information from your document:
 During enrichment, Zudello matches and enhances the extracted information using your existing data:
 
 1. Supplier matching
-    - Matches supplier details using extracted information
+    - Matches supplier details using the extracted information
     - Checks against supplier name, ABN, email, and phone number
 2. Line item processing
     - Matches line items to your item codes

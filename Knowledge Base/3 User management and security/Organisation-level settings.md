@@ -15,8 +15,8 @@ You will now see the following organisation settings menu on the left side of yo
 - Organisation
 	- The organisation tab lets you manage and update core organisation settings like your name and logo
 - Teams
-	- The teams tab contains team-specific settings, such:
-		- Team names, logos and contact information
+	- The teams tab contains team-specific settings, such as:
+		- Team names, logos, and contact information
 		- Team-level notifications
 		- Default timezones and currencies
 - Users
@@ -25,7 +25,7 @@ You will now see the following organisation settings menu on the left side of yo
 	- For help with the users tab, see [[User management in Zudello]] 
 - User groups
 	- The user groups tab allows you to create, view, and edit user groups
-	- User groups allows you to control what users can do, see and approve
+	- User groups allows you to control what users can do, see, and approve
 	- For help with the user groups tab, see [[User groups in Zudello]]
 - Group membership
 	- The group membership tab allows you to view and edit user group membership in bulk

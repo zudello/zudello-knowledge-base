@@ -2,7 +2,7 @@
 
 Zudello makes it easy to organise and filter your documents using tags. Tags provide visual cues that help your team track documents and get quick updates. This guide explains how to create, apply, and manage document tags.
 
-> Tags can also be applied to relationship records, like suppliers, and dimensions like accounts and departments.
+> Tags can also be applied to relationship records, like suppliers, and dimensions.
 
 ## Best practices
 
@@ -70,7 +70,7 @@ You can filter your documents to find those with specific tags:
 
 1. Click the filter icon at the top of the submodule
 2. Under **Advanced Filter**, click **Add**
-3. Find **Tags** in the drop-down, and lick the arrow to expand it
+3. Find **Tags** in the drop-down, and click the arrow to expand it
 5. Click **Tags - Tag**
 6. **Operator** will be set to **Is**, but can be changed by selecting from the drop-down
 7. Select the tag value you want to filter to
@@ -78,9 +78,7 @@ You can filter your documents to find those with specific tags:
 To remove a tag filter:
 
 1. Click the filter icon at the top of the submodule
-2. Click the bin icon next to the filter 
-   or
-   Click **Clear all** to remove all advanced filters
+2. Click the bin icon next to the filter, or click **Clear all** to remove all advanced filters
 
 ## Need help?
 

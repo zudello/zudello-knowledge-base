@@ -27,7 +27,7 @@ Related documents help you track connections between different records in Zudell
 6. Select the checkbox next to the document you want to relate
 7. Click **Select**
 
-The documents are now linked, and you'll see a link to open the related document. Zudello automatically creates the reverse relationship, so there's no need to repeat this process from the other document.
+The documents are now linked. To open the related document click the open document icon. Zudello automatically creates the reverse relationship, so there's no need to repeat this process from the other document.
 
 ### Removing related documents
 

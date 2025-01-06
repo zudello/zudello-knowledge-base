@@ -2,12 +2,12 @@
 
 Converting lets you move resources between different modules and submodules in Zudello. This guide explains how to convert documents and what to expect during the conversion process.
 
-> Currently conversion is only available for transaction-based modules (Sales, Purchasing, and Expenses)
+> Currently, conversion is only available for transaction-based modules (Sales, Purchasing, and Expenses)
 
 ## Best practices
 
 - Review the target module and submodule before converting
-- Consider whether you need to convert the original document, or create a converted duplicate
+- Consider whether you need to convert the original document or create a converted duplicate
 - Double-check your selection before starting the conversion
 
 ## Understanding document conversion
@@ -16,7 +16,7 @@ Zudello offers two types of document conversion:
 
 - Convert
 	- Moves the resource to your selected module and submodule
-- Convert with duplicate 
+- Duplicate and convert 
 	- Creates a copy of the resource in the new module/submodule and creates a link between both documents
 
 Note that conversion is currently restricted to transaction-based modules and submodules. You cannot convert records in the following modules:
@@ -41,7 +41,7 @@ The system then begins converting the document. Once complete, you will be redir
 
 ### Working with duplicated conversions
 
-When you use convert with duplicate:
+When you use duplicate and convert:
 
 - Zudello creates a duplicate in your selected location
 - Both documents are linked to each other via the **Related documents** tab

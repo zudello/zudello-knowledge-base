@@ -34,7 +34,7 @@ To change your default team:
 1. Follow the steps above to remove the user's default team
 2. Follow the steps above to set a user's default team
 
-Your changes will take effect immediately. The next time you log into Zudello, you'll automatically access your default team.
+Your changes will take effect immediately. The next time you log in to Zudello, you'll automatically access your default team.
 
 ## Need help?
 

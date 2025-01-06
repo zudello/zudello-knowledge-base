@@ -1,8 +1,8 @@
 # Setting up default coding
 
-Default coding automatically applies specific dimensions (subsidiary and location) to documents you manually upload. You can have have different default coding settings for each team you belong to.
+Default coding automatically applies specific dimensions (subsidiary and location) to documents you manually upload. You can set different default coding settings for each team you belong to.
 
-> Note: the subsidiary and location dimensions may be named differently within your team.
+> Note: your team may use different names for the subsidiary and location dimensions.
 
 ### Key points about default coding
 
