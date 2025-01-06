@@ -1,4 +1,4 @@
-# Contacting Zudello support
+# Contacting Zudello support THE RIGHT WAY
 
 We provide ongoing support to help you get the most out of Zudello. This guide explains how best to contact support to get your questions answered quickly.
 
