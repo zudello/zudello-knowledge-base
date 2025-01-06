@@ -4,8 +4,8 @@ We know that new systems take some getting used to. This short guide will teach 
 
 ## Modules and submodules
 
-Zudello's modules keep separate areas of your business separate, so you can focus on what's important right now. Within each module, submodules further organise specific record types. Within each module, you can either click a specific submodule, or click **All** to see every record within the module.
-> E.g. in the purchasing module, click **Purchase Orders** to view only purchase orders, or click **All** to see all purchasing documents including purchase orders, invoices, credits, and more.
+Zudello's modules keep separate areas of your business separate, so you can focus on what's important right now. Within each module, submodules further organise specific record types. Within each module, you can either click a specific submodule or click **All** to see every record within the module.
+> E.g. in the purchasing module, click **Purchase Orders** to view only purchase orders or click **All** to see all purchasing documents including purchase orders, invoices, credits, and more.
 
 ## Understanding document status
 
@@ -77,7 +77,7 @@ To remove an advanced filter:
 
 ### Using the search bar
 
-Use the search bar to find specific records by number or reference number. The search always starts from the beginning of the field. For example, for invoice number ABC123, searching for "ABC" or "ABC123" will return the record. Searching for "123" won't return the record, and will instead return an y records beginning with "123".
+Use the search bar to find specific records by number or reference number. The search always starts from the beginning of the field. For example, for invoice number ABC123, searching for "ABC" or "ABC123" will return the record. Searching for "123" won't return the record, and will instead return any records beginning with "123".
 
 ## Zudello glossary
 

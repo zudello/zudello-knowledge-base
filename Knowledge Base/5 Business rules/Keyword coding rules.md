@@ -1,4 +1,4 @@
-# Document coding (keyword) rules
+# Keyword coding rules
 
 We know that manual data entry is a key source of frustration and errors your business. 
 

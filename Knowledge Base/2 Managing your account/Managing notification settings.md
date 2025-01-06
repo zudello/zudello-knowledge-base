@@ -16,7 +16,7 @@ To view and edit your notification settings:
 2. Click **Notifications**
 3. Click the **For team** drop-down and select the team you want to configure notifications for
 6. Select the events you want to receive email notifications for
-7. Repeat steps 1-3 for each team you belong to
+7. Repeat steps 1-4for each team you belong to
 8. Click **Close** 
 
 ## Need help?

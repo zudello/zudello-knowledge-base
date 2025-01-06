@@ -14,7 +14,7 @@ To help us resolve your queries quickly and efficiently please:
 ## Support availability 
 
 The support team are available from 9:00 am to 5:30 pm Australian Eastern Standard Time (AEST). 
-You can still send support requests outside of these hours. You will receive updates via email on the next business day (AEST) when a member of the support team responds.
+You can still send support requests outside of these hours. You will receive updates via email on the next business day (AEST) when a support team member responds.
 
 ## Contacting support
 

@@ -8,7 +8,7 @@ This article will help you change your password whether you've forgotten it or y
 
 To reset your password from the login screen:
 
-1. Go to  **[https://app.zudello.io](https://app.zudello.io)**
+1. Go to **[https://app.zudello.io](https://app.zudello.io)**
 2. Enter your email address and click **Next**
 4. Click **Reset password** 
 5. An email will be sent with instructions to reset your password
