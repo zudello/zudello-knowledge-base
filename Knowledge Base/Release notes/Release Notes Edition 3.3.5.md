@@ -12,7 +12,7 @@ Zudello's importing feature now supports bulk transactions, allowing you to impo
 ### Creating Goods Receipts
 
 We have added functionality to our goods receipting process, allowing you to choose the quantity or amount to receive when creating a new goods receipt. You can also receive all remaining quantity or amount on a purchase order by clicking **Receive all remaining**
-For more information see [[Creating a Goods Receipt]]
+For more information see [[Creating and coding a goods receipt]]
 
 ### Price comparison alerts
 
