@@ -25,13 +25,10 @@ To change your password when you are already logged in to Zudello:
 5. Enter your new password and confirm it
 6. Click **Update**
 
-Alternatively, to reset your password via email follow steps 1-3 above and then:
-4. Click **Reset password**
-
-5. Click **Yes**
-
-6. An email will be sent with instructions to reset your password
-
+Alternatively, to reset your password via email follow steps 1-3 above and then:  
+4. Click **Reset password**  
+5. Click **Yes**  
+6. An email will be sent with instructions to reset your password  
 7. Follow the prompts to create a new password
 
 ## Need help?
