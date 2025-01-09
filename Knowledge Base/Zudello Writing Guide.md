@@ -64,7 +64,7 @@ To use title case:
 - Do not capitalise articles like 'a', 'an', or 'the' unless they begin or end the title
 - Do not capitalise prepositions like 'in', 'to' or 'from'
 - Do not capitalise conjunctions like 'and' or 'or'
-- Always capitalise the first and last word, regardless of their function
+- Always capitalise the first and last words, regardless of their function
 
 ### Sentence Case
 
@@ -88,6 +88,7 @@ Use Title Case for:
 
 Use sentence case for:
 
+- Buttons, toggles, drop-down menus
 - Field names
 - Field placeholders
 - System messages, regardless of length
@@ -106,9 +107,18 @@ Use sentence case for:
 - When describing the 'Zudello Platform', use a capital P
 - Don't capitalise generic features
 
-  
-
 ### System buttons and functions
+
+#### Creating buttons and toggles
+
+- Buttons need to be clear and predictable
+- Users should be able to anticipate what will happen when they click a button
+- User sentence case
+- Don't use verbs like 'view', 'go', or 'read'
+- Don't use articles like 'a', 'an', or 'the'
+- Don't use punctuation
+
+#### Referencing buttons in documentation
 
 - Match case formatting exactly and use bold when directly referencing buttons, toggles, drop-down menus or specific options in drop-down menus. 
 - Don’t capitalise or bold when referencing variable options  
