@@ -54,18 +54,53 @@ Use contractions for a casual tone, except when they sound awkward:
 
 ## Capitalisation
 
-### Headings
+The two types of capitalisation that Zudello uses are title case and sentence case. Details of each case, and when to use them (the case for each case, if you will) can be found below:
 
-Use sentence case:
+### Title Case
+
+To use title case:
+
+- Begin major words with a capital letter, including nouns, pronouns, verbs, adjectives and adverbs
+- Do not capitalise articles like 'a', 'an', or 'the' they begin or end the title
+- Do not capitalise prepositions like 'in', 'to' or 'from'
+- Do not capitalise conjunctions like 'and' or 'or'
+- Always capitalise the first and last word, regardless of their function
+
+### Sentence Case
+
+To use sentence case:
 
 - Capitalise the first word 
 - Capitalise proper/trademarked nouns
 - Lowercase everything else
+
+### Zudello UI
+
+Use Title Case for:
+
+- Headers (modules and submodules)
+- Sidebars
+- Toolbars
+- Section Titles
+- Statuses
+
+Use sentence case for:
+
+- Field names
+- Field placeholders
+- System messages, regardless of length
+
+### Headings
+
+- Use sentence case
 - Headings don’t require a full stop at the end
 
 ### Product and feature names
 
 - Capitalise if unique to Zudello and marketable as its own product
+  E.g. Extraction can be fine tuned with the AI Assistant ✅ 
+  User permissions can be controlled through user groups ✅
+  This can be configured within User Groups ❌
 - When describing the 'Zudello Platform', use a capital P
 - Don't capitalise generic features
 
@@ -85,6 +120,8 @@ Use sentence case:
 	- Quotes are found under the Purchasing module. ❌
 
 ### Statuses
+
+- When creating statuses use Title Case (see Zudello UI section above for more information)
 - Match case formatting exactly and use bold when directly referencing statuses
 - Don't bold or capitalise the word 'status'
 	  E.g. The invoice will move to **Completed** status ✅  
