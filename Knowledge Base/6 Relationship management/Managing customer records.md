@@ -20,7 +20,7 @@ To locate specific customers quickly:
 
 1. Open the customers submodule
 2. Use one of these search methods:
-    - Type the customer name or code in the search bar
+    - Type the customer's name or code in the search bar
     - Filter by specific criteria
     - Change your view layout
     - Sort by different fields
@@ -29,7 +29,7 @@ To locate specific customers quickly:
 
 ## Managing customer records
 
-Before making any customer changes, ensure that your business allows editing of customers within Zudello. If not, you will need to make your changes directly within your ERP.
+Before making any customer changes, ensure that your business allows for the editing of customers within Zudello. If not, you must make changes directly within your ERP.
 
 If you are unsure of your business's rules around maintaining customer records, please contact your organisation administrator.
 

@@ -1,6 +1,6 @@
 # Creating and coding a purchase order
 
-Save time on purchasing with Zudello's lightning fast purchase order creation. This guide explains how to create and code purchase orders and submit them for approval.
+Save time on purchasing with Zudello's lightning-fast purchase order creation. This guide explains how to create and code purchase orders and submit them for approval.
 ## Best practices
 
 To ensure smooth document processing:
@@ -13,15 +13,15 @@ To ensure smooth document processing:
 
 ## Creating a purchase order
 
-This article details how to create a purchase order directly and submit it for approval. This process can also be used to code and submit purchase orders that were converted from a quote or duplicated from an existing purchase order. 
+This article details how to create a purchase order directly and submit it for approval. This process can also be used to code and submit purchase orders converted from a quote or duplicated from an existing purchase order. 
 
-> If your team is creating requisitions which are converted to purchase orders once they are fully approved, see [[Creating and coding a requisition]].
+> If your team creates requisitions that are converted to purchase orders once fully approved, see [[Creating and coding a requisition]].
 
 Contact your organisation administrator if you are unsure of the document flow for your team.
 
 ### Creating and coding a purchase order
 
-To begin coding a new purchase order you can either:
+To begin coding a new purchase order, you can either:
 
 - Create a new purchase order
 	1. Click the **Purchase Order** submodule
@@ -50,14 +50,14 @@ Code the purchase order:
 	    - Search and select the supplier from the drop-down menu
 	- Add a delivery address, or choose from an existing address
 3. Enter line level information
-	- Double click the stock code field and search by SKU or description
+	- Double-click the stock code field and search by SKU or description
 	- Enter or edit the line description if required
 	- Fill in any required coding fields by double-clicking the field and selecting from the drop-down
 	- Fill in required quantities and check or enter pricing
     - Line totals will calculate automatically
 4. Document totals will automatically calculate based on line items
 	- If line prices include tax, turn on **Are the line totals inclusive of tax?** 
-	- Double check all totals 
+	- Double-check all totals 
 5. Click **Save and submit**
 
 The purchase order will then move through your team's approval process. Once approved, it will continue through the purchasing document flow. 

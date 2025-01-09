@@ -33,11 +33,11 @@ To reject a document in Zudello:
 2. Enter a detailed rejection message explaining your concerns
 3. Click **Confirm**
 
-The document will be moved into the **Reject Review** status and assigned to the submitter. Your rejection message helps the team handle rejected documents efficiently, so include as much detail as possible.
+The document will be moved to the **Reject Review** status and assigned to the submitter. Your rejection message helps the team handle rejected documents efficiently, so include as much detail as possible.
 
 ## Approving via email
 
-When you have approval notifications enabled, you'll receive an email from noreply@zudello.com whenever a document needs your approval. The email includes:
+If your approval notifications are enabled, you'll receive an email from noreply@zudello.com whenever a document needs your approval. The email includes:
 
 - The document module, submodule and form type
 - Supplier name

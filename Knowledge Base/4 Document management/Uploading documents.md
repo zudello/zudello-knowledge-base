@@ -30,7 +30,7 @@ To find your team's mailbox address:
 	- Email addresses to send documents to appear on the right
 	- Click the copy icon to copy an email address
 
-If your permissions don't allow you to view inbox settings, please contact your organisation administrator. 
+Please contact your organisation administrator if your permissions don't allow you to view inbox settings. 
 
 ### Manual upload
 

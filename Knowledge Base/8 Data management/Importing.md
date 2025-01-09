@@ -17,7 +17,7 @@ To use the importing function, you will need the following permissions:
 - System Import View
 - System Import Create
 - System Import Update
-- System Import Delete (optional, for deleting previous imports)
+- System Import Delete (optional for deleting previous imports)
 - And for each submodule you want to import to:
 	- Module Submodule Import
 	- Module Submodule Create
@@ -71,8 +71,8 @@ Monitor your import's status in the Imports tab. Import statuses are:
 ## General rules and restrictions
 
 - Not all columns need to be mapped
-- When referencing Zudello data (e.g. referencing default Tax Rate when importing Items) all referenced values must already exist within Zudello (e.g. the import tool will NOT create a new Tax Rate when importing Items if the referenced Tax rate does not exist)
-- When referencing Zudello data, use any of the the following fields:
+- When referencing Zudello data (e.g. referencing default Tax Rate when importing Items), all referenced values must already exist within Zudello (e.g. the import tool will NOT create a new Tax Rate when importing Items if the referenced Tax rate does not exist)
+- When referencing Zudello data, use any of the following fields:
     - **UUID** 
     - **Code**
     - **External ID**
@@ -106,7 +106,7 @@ When updating transactions:
 - Ensure UUIDs match existing records exactly
 ## Supported record types for importing
 
-The following list details all record types that are currently available for use with the Zudello importing feature.  
+Record types currently available for use with the Zudello importing feature are:
 
 - Relationships
     - Suppliers
@@ -124,7 +124,7 @@ The following list details all record types that are currently available for use
     - Location
     - Warehouses
     - Zones
-    - Expense Catgeories
+    - Expense Categories
     - Tax Rates
     - Tax Solutions
     - Projects
@@ -147,7 +147,7 @@ The following list details all record types that are currently available for use
     - Supplier Categories
     - Supplier Groups
     - Countries
-    - Timezones
+    - Time zones
 - Purchasing
     - Quotes
     - Requisitions

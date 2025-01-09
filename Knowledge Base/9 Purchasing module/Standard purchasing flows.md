@@ -79,15 +79,15 @@ The standard invoice flow is:
 
 ### Credits
 
-Credits are standalone documents that cannot be allocated to invoices, purchase orders, or goods receipts. In the standard flow, credits do not require approval regardless of amount.
+Credits are standalone documents that cannot be allocated to invoices, purchase orders, or goods receipts. In the standard flow, credits do not require approval, regardless of the total.
 
-The standard credit flows is:
+The standard credit flow is:
 
-1. An Invoice is uploaded and extracted (**Scanning** status)
-2. A user reviews and codes the invoice (**Ready** or **User Review** status)
-5. The user submits the credit for processing
-6. The credit is created in your ERP
-7. The credit moves to **Completed** status
+1. A credit is uploaded and extracted (**Scanning** status)
+2. A user reviews and codes the credit (**Ready** or **User Review** status)
+3. The user submits the credit for processing
+4. The credit is created in your ERP
+5. The credit moves to **Completed** status
 
 Credits can be related to invoices or purchase orders using the related documents and attachments feature. For more information, see [[Related documents and attachments]].
 

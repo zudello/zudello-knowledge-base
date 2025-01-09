@@ -1,4 +1,4 @@
-**
+# Zudello Writing Guide
 
 This guide is for anyone writing public-facing content or communication for Zudello. Aligning all documentation with this guide ensures a consistent experience for our customers across all Zudello communication. 
 
@@ -10,11 +10,18 @@ Write in the active voice:
 
 Subject (person/thing acting) verb (the action) object (receives the action)
 
+The **active voice** has the subject taking the initiative, performing the action, and (usually) achieving a result.  
+e.g. Zudello (subject) makes (strong, present tense verb) manual data entry (object) a thing of the past (result).  ✅
+
+The **passive voice** has the object being acted upon by a subject. It makes the object of the sentence appear to lack agency and seem weak and submissive. The subject is relegated to the end of the sentence.  
+e.g. Manual data entry (object) has been made (weak, past tense, compound verb) a thing of the past by Zudello (subject). ❌
+
 Signs of passive voice:
 
 - Object before subject (e.g., "the item was purchased by the customer")
 - Past tense verbs ("was added", "was created")
 - Forms of "to be" ("was", "is", "were")
+- The word ‘by’ is often found in passive sentences
 
 Use passive voice only when:
 
@@ -54,22 +61,36 @@ Use sentence case:
 - Capitalise the first word 
 - Capitalise proper/trademarked nouns
 - Lowercase everything else
+- Headings don’t require a full stop at the end
 
 ### Product and feature names
 
 - Capitalise if unique to Zudello and marketable as its own product
+- When describing the 'Zudello Platform', use a capital P
 - Don't capitalise generic features
 
   
 
 ### System buttons and functions
 
-- Match case formatting exactly and use bold when directly referencing buttons or system actions.  
-    E.g. Scroll down on the sidebar, and click Data sets. ✅
-- Don't capitalise the name of system functions, areas, or items.  
-    Select the purchase order that you want to match to the invoice. ✅  
-    Bulk updates can be performed using the importing feature. ✅  
-    Go to the Purchasing submodule. ❌
+- Match case formatting exactly and use bold when directly referencing buttons, toggles, drop-down menus or specific options in drop-down menus. 
+- Don’t capitalise or bold when referencing variable options  
+    e.g. Scroll down on the sidebar, and click Datasets ✅  
+    Select Invoices from the drop-down menu ✅  
+    Select the relevant module from the Module drop-down ✅  
+    Click the Dataset you want to edit ❌
+- Don't capitalise the name of system functions, areas, or items, for example:.
+	- Select the purchase order that you want to match to the invoice. ✅
+	- Bulk updates can be performed using the importing feature. ✅
+	- Quotes are found under the Purchasing module. ❌
+
+### Statuses
+- Match case formatting exactly and use bold when directly referencing statuses
+- Don't bold or capitalise the word 'status'
+	  E.g. The invoice will move to **Completed** status ✅  
+	  Select the checkbox next to each status you would like to view ✅ 
+	  This will filter to the **Status** you selected ❌
+	  Purchase orders start in **Draft Status** ❌
 
 ### Job titles
 

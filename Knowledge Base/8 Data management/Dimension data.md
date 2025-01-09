@@ -1,6 +1,6 @@
 # Dimension data
 
-Dimensions are the values that you code against transactions and transaction lines within Zudello. Common examples include accounts, departments, and tax rates. 
+Dimensions are the values you code against transactions and transaction lines within Zudello. Common examples include accounts, departments, and tax rates. 
 
 Keeping your dimension data up-to-date ensures accuracy and efficiency when processing documents. This guide explains how to view and manage dimension data effectively. 
 
@@ -10,7 +10,7 @@ To maintain data integrity across your systems:
 
 - Manage dimension data within your ERP and let changes sync to Zudello
 - Review dimension data regularly to ensure accuracy and remove unnecessary values
-- Where possible, inactivate dimension data rather than deleting to maintain accurate historical transactions
+- Where possible, inactivate dimension data rather than deleting it to maintain accurate historical transactions
 - Use consistent naming conventions when creating new dimension records
 
 ## Viewing dimensions
@@ -24,7 +24,7 @@ To access dimension data:
 
 ### Required permissions
 
-To view dimension data you will need the following permissions:
+To view dimension data, you will need the following permissions:
 
 - Dimensions View
 - Dimensions Visible
@@ -51,16 +51,17 @@ Dimension data automatically syncs from your ERP system as part of your integrat
 
 As standard, Zudello fetches dimension data from your ERP daily at midnight UTC. 
 
-Dimension data management should be handled within the ERP. All updates will then flow through to Zudello at the time of the next sync. If you need to urgently trigger a fetch, please contact Zudello support for assistance. 
+Dimension data management should be handled within the ERP. All updates will flow through to Zudello at the time of the next sync. If you need to trigger a fetch urgently, please contact Zudello support for assistance. 
 
-Some dimension fields may not exist in your ERP, or may not be available via the integration. To manage dimension records within Zudello:
+Some dimension fields may not exist in your ERP or may not be available via the integration. To manage dimension records within Zudello:
 
 1. Use the search or filtering options to find the dimension you need
 2. Click a dimension record to open it
 3. Make your changes
 4. Click **Save**
 
-To edit permissions within Zudello you will need the following permissions
+To edit dimensions within Zudello, you will need the following permissions:
+
 - Dimensions View
 - Dimensions Visible
 - For each dimension, you will then need:

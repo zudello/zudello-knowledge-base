@@ -28,7 +28,7 @@ To locate specific suppliers quickly:
 
 ## Managing supplier records
 
-Before making any supplier changes, ensure that your business allows editing of suppliers within Zudello. If not, you will need to make your changes directly within your ERP.
+Before making any supplier changes, ensure that your business allows editing of suppliers within Zudello. If not, you must make changes directly within your ERP.
 
 If you are unsure of your business's rules around maintaining supplier records, please contact your organisation administrator. 
 
@@ -80,7 +80,7 @@ To inactivate a single supplier:
 
 To inactivate multiple suppliers:
 
-1. Select the checkboxes next to relevant suppliers
+1. Select the checkboxes next to the relevant suppliers
 2. Click **Status** in the bulk actions bare at the bottom of the screen
 3. Select **Inactive** 
 

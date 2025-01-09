@@ -2,7 +2,7 @@
 
 We know that manual data entry is a key source of frustration and errors your business. 
 
-Zudello's document coding removes the pain by applying predefined values when specific keywords are found in your documents. This guide explains how to set up and manage document coding rules to save time and ensure consistent coding across your organisation.
+Zudello's keyword coding rules remove the pain by applying predefined values when specific keywords are found in your documents. This guide explains how to set up and manage document coding rules to save time and ensure consistent coding across your organisation.
 
 ## Best practices
 
@@ -62,9 +62,10 @@ You can quickly find specific rules using the search bar at the top of the page.
 3. Click **Save** at the top right
 
 Rules will then be applied to any documents uploaded in future. 
+
 ## Important notes
 
-- Rules only to documents uploaded after you save your changes
+- Each rule will only apply to documents uploaded after the rule is configured
 - Rules are set at the team-level and will apply to all future documents in your team, regardless of how they are uploaded
 - Consult with your team before making significant changes
 

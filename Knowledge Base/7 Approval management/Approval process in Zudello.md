@@ -45,7 +45,7 @@ If you have the right permissions, you can reassign approvals to different users
 
 ## Additional notes
 
-- Documents within the approval flow appear in Approval status by default, though your team may have custom status configurations. 
+- Documents within the approval flow appear in Approval status by default, though your team may have custom status configurations
 - Rejected documents will restart the approval process when resubmitted
 
 ## Need help?

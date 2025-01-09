@@ -8,7 +8,6 @@ We know that managing business relationships across different areas can be compl
 - Keep relationship data up to date across all systems
 - Review relationship settings regularly to ensure they reflect current business needs
 - Document any significant changes made to relationship settings
-- Keep relationship data up to date 
 
 ## Understanding the Relationships module
 

@@ -1,6 +1,6 @@
 # Converting a quote to a requisition or purchase order
 
-Save time on your purchasing by converting supplier quotes into requisitions or purchase orders. This guide explains how to convert quotes and what to expect during the conversion process.
+Save time on purchasing by converting supplier quotes into requisitions or purchase orders. This guide explains how to convert quotes and what to expect during the conversion process.
 
 ## Best practices
 

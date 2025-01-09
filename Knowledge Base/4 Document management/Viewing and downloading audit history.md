@@ -25,12 +25,12 @@ Zudello offers two ways to view audit history:
 	- Presents changes in a table format
 
 Both views show the same comprehensive information for every change ever made to a document or record:
-	- Time of change
-	- User who made the change
-	- Modified fields
-	- For each field:
-		- Original value
-		- New value
+- Time of change
+- User who made the change
+- Modified fields
+- For each field:
+	- Original value
+	- New value
 
 ## Downloading audit logs
 

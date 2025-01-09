@@ -28,7 +28,7 @@ To locate specific employees quickly:
 
 ## Managing employee records
 
-Before making any employee changes, ensure that your business allows editing of employees within Zudello. If not, you will need to make your changes directly within your ERP.
+Before making any employee changes, ensure that your business allows editing of employees within Zudello. If not, you must make changes directly within your ERP.
 
 If you are unsure of your business's rules around maintaining employee records, please contact your organisation administrator.
 

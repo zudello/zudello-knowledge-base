@@ -18,7 +18,7 @@ To ensure smooth document processing:
 
 To upload documents via email, simply send your documents as email attachments to your Zudello mailbox. That's it!
 
-Zudello will automatically identify and extract any valid documents. The submodule for each document is identified as part of extraction, allowing you to use one central mailbok for all documents in each Zudello module.  
+Zudello will automatically identify and extract any valid documents. The submodule for each document is identified as part of extraction, allowing you to use one central mailbox for all documents in each Zudello module.  
 
 To find your team's mailbox address:
 

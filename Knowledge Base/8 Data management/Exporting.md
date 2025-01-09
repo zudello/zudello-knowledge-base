@@ -47,11 +47,11 @@ To view only the export files that you have generated, turn on **Show mine only*
 1. Click **Build export template**
 2. Enter a template name
 3. Choose your export type:
-    - Click **Download all** to export everything
-    - Click **Download selected** to export specific items
+    1. Click **Download all** to export everything
+    2. Click **Download selected** to export specific items
 4. If downloading selected items:
-    - Select from the **Modules** drop-down
-    - Select from the **Submodules** drop-down
+    1. Select from the **Modules** drop-down
+    2. Select from the **Submodules** drop-down
 5. To add filters 
 	1. Click **Add**
 	2. Select from the **Select field** drop-down
@@ -67,9 +67,9 @@ To view only the export files that you have generated, turn on **Show mine only*
 3. Select from the **Modules** drop-down
 4. Select  from the **Submodules** drop-down
 5. Add your desired fields:
-    - Click **Add**
-    - Search or scroll to find fields
-    - Select the checkbox next to each field you want to include
+    1. Click **Add**
+    2. Search or scroll to find fields
+    3. Select the checkbox next to each field you want to include
 6. To add filters 
 	1. Click **Add**
 	2. Select from the **Select field** drop-down

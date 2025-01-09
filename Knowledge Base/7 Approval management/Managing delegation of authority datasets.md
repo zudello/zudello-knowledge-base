@@ -35,7 +35,7 @@ To edit datasets, you will also need the following permissions:
 
 DOA datasets contain several important columns that control how approvals are routed:
 - Step name
-	- Displays the name that will appear on each approval step when documents are sent for approval.
+	- Displays the name that appears on each approval step when documents are sent for approval.
 - User or User Group
 	- Specifies which user or user group will receive approval requests for each row in the dataset.
 - Limit

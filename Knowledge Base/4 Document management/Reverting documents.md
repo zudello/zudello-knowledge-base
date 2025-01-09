@@ -1,6 +1,6 @@
 # Reverting documents
 
-We know that sometimes you need to move documents back to an editable status. This guide explains how to revert documents and what permissions are needed to do so.
+We know that sometimes you need to move documents back to an editable status. This guide explains how to revert documents and what permissions are required to do so.
 
 ## Best practices
 

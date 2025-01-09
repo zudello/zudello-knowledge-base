@@ -1,6 +1,6 @@
 # Dependencies
 
-Dependencies help you create smart, contextual field relationships in Zudello. When configured, they automatically limit the available options in one field based on what you select in another field. This guide explains how to view and manage dependencies for your organisation.
+Dependencies help you create smart, contextual field relationships in Zudello. When configured, they automatically limit the options in one field based on what you select in another. This guide explains how to view and manage dependencies for your organisation.
 
 ## Best practices
 
@@ -39,11 +39,11 @@ To set up a new dependency manually:
 
 1. Click the company menu at the top right
 2. Click **Settings**
-3. Click the dependent dimension (e.g **Location**)
+3. Click the dependent dimension (e.g. location)
 4. Find and open the specific dimension value you want to configure
 5. Click the dependencies icon at the top right
 6. Click **Add** 
-7. Select the controlling resource (e.g. Subsidiary) from the **Depends on** drop-down
+7. Select the controlling resource (e.g. subsidiary) from the **Depends on** drop-down
 8. Select the specific value to depend on from the **Resources** drop-down
 9. Click **Save**
 
