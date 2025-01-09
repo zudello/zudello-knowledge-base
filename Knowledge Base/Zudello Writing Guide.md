@@ -61,7 +61,7 @@ The two types of capitalisation that Zudello uses are title case and sentence ca
 To use title case:
 
 - Begin major words with a capital letter, including nouns, pronouns, verbs, adjectives and adverbs
-- Do not capitalise articles like 'a', 'an', or 'the' they begin or end the title
+- Do not capitalise articles like 'a', 'an', or 'the' unless they begin or end the title
 - Do not capitalise prepositions like 'in', 'to' or 'from'
 - Do not capitalise conjunctions like 'and' or 'or'
 - Always capitalise the first and last word, regardless of their function
@@ -74,7 +74,9 @@ To use sentence case:
 - Capitalise proper/trademarked nouns
 - Lowercase everything else
 
-### Zudello UI
+### Within the Zudello UI
+
+The following rules apply for the Zudello UI only. For all other documentation and communication, follow the rules from the Headings section onwards.
 
 Use Title Case for:
 
