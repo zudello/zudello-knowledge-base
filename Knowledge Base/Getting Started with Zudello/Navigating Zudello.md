@@ -79,10 +79,10 @@ To remove an advanced filter:
 
 Use the search bar to find specific records by number or reference number. The search always starts from the beginning of the field. For example, for invoice number ABC123, searching for "ABC" or "ABC123" will return the record. Searching for "123" won't return the record, and will instead return any records beginning with "123".
 
-## Zudello glossary
+<!-- ## Zudello glossary
 
-We know that you may not have come across some of our terms before, or you may use them differently than we do. We've compiled a glossary of Zudello terms to help you understand Zudello better. Access it here.  
-
+We know that you may not have come across some of our terms before, or you may use them differently than we do. The Zudello glossary will help you better understand commonly used Zudello terms.   
+-->
 ## Need help?
 
 Contact your organisation administrator or Zudello support for assistance with navigation and viewing options.

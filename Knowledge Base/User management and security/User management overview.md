@@ -4,19 +4,19 @@ Zudello helps you maintain strong security while keeping user management simple.
 
 Simplify how you manage user access with:
 
-- [[Organisation-level settings]]
+- [Organisation-level settings](Organisation-level%20settings.md)
     - Manage core organisation settings, team configurations, and security controls from one place
     - Control user access and permissions across your entire organisation
-- [[User management]]
+- [User management](User%20management.md)
     - Create and manage users easily through a central interface
     - Configure team memberships and access levels
-- [[User groups]]
+- [User groups](User%20groups.md)
     - Control what users can see, do, and approve through customisable user groups
     - Get a consolidated view of which users are in which groups with the group membership page
-- [[Data permissions]]
+- [Data permissions](Data%20permissions.md)
     - Set granular visibility permissions to control who sees what
     - Apply data permissions at the team level for flexible multi-team setups
-- [[User delegation and defaults]]
+- [User delegation and defaults](User%20delegation%20and%20defaults.md)
     - Let users safely hand over duties when they're away
     - Configure default teams and coding options to speed up document processing
 

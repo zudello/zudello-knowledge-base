@@ -10,7 +10,7 @@ Ensuring users can see only the information they need is crucial for your organi
 
 ## Understanding data permissions
 
-Data permissions work with user groups to control what users can see within Zudello. 
+Data permissions work with [User groups](User%20groups.md) to control what users can see within Zudello. 
 
 Each data permission is given access to certain resources within Zudello. Data permissions are then assigned to one or more user groups. Users within those user groups will then inherit the data permissions, giving them access to all resources selected under the data permission.
 Some important things to remember are:

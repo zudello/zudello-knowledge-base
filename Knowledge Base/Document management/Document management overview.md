@@ -8,22 +8,22 @@ From the moment a document enters Zudello through email or manual upload, you ge
 
 Learn more about these powerful document management features:
 
-- [[Applying trained rules]]
-- [[Assigning users to documents]]
-- [[Bulk actions]]
-- [[Converting documents in Zudello]]
-- [[Deleting and archiving documents]]
+- [Applying trained rules](Applying%20trained%20rules.md)
+- [Assigning users to documents](Assigning%20users%20to%20documents.md)
+- [Bulk actions](Bulk%20actions.md)
+- [Converting documents in Zudello](Converting%20documents%20in%20Zudello.md)
+- [Deleting and archiving documents](Deleting%20and%20archiving%20documents.md)
 <!-- * [[Document errors]] -->
-- [[Downloading, duplicating, splitting, and merging documents]]
-- [[Duplicate document checking in Zudello]]
+- [Downloading, duplicating, splitting, and merging documents](Downloading,%20duplicating,%20splitting,%20and%20merging%20documents.md)
+- [Duplicate document checking in Zudello](Duplicate%20document%20checking%20in%20Zudello.md)
 - [Inboxes within Zudello](Inboxes%20within%20Zudello)
-- [[Rejecting documents]]
-- [[Related documents and attachments]]
-- [[Reverting documents]]
-- [[Tagging documents]]
-- [[Uploading documents]]
-- [[Chat function]]
-- [[Using the inbox tab on documents]]
-- [[Viewing and downloading audit history]]
+- [Rejecting documents](Rejecting%20documents.md)
+- [Related documents and attachments](Related%20documents%20and%20attachments.md)
+- [Reverting documents](Reverting%20documents.md)
+- [Tagging documents](Tagging%20documents.md)
+- [Uploading documents](Uploading%20documents.md)
+- [Chat function](Chat%20function.md)
+- [Using the inbox tab on documents](Using%20the%20inbox%20tab%20on%20documents.md)
+- [Viewing and downloading audit history](Viewing%20and%20downloading%20audit%20history.md)
 
 As your business grows, Zudello's document management features ensure you always have the right tools to stay on top of things.

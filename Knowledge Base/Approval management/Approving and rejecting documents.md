@@ -13,7 +13,7 @@ Zudello makes it easy to review and approve documents, whether you're working fr
 
 ## Approving in Zudello
 
-Documents requiring approval will show in Approval status in their respective submodules. To view all of your outstanding approvals in a particular, click the **Requests** submodule. For more information on the Requests page, see [[[Requests page]]]
+Documents requiring approval will show in Approval status in their respective submodules. To view all of your outstanding approvals in a particular, click the **Requests** submodule (see [Requests submodule](Requests%20submodule.md)).
 
 To approve documents directly in Zudello:
 

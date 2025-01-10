@@ -61,8 +61,8 @@ To edit an existing users settings:
 3. Click the **Team settings** drop-down and select the team you want to modify their settings for
 4. Make changes such as:
    - Adjusting user group membership using the **User groups** drop-down
-   - Updating delegation settings under the **Delegation** tab (see [[User delegation and defaults]])
-   - Updating default settings under the **Default settings** tab (see [[User delegation and defaults]])
+   - Updating delegation settings under the **Delegation** tab (see [User delegation and defaults](User%20delegation%20and%20defaults.md))
+   - Updating default settings under the **Default settings** tab (see [User delegation and defaults](User%20delegation%20and%20defaults.md))
 5. Repeat steps 3 and 4 for any additional team that need settings changed
 6. Click **Update** to save your changes
 

@@ -29,8 +29,8 @@ To view dimension data, you will need the following permissions:
 - Dimensions View
 - Dimensions Visible
 - For each dimension, you will then need:
-	- Dimensions [DIMENSION NAME] View
-	- Dimensions [DIMENSION NAME] Visible
+	- Dimensions DIMENSION NAME View
+	- Dimensions DIMENSION NAME Visible
 
 ### Understanding dimension statuses
 
@@ -65,9 +65,9 @@ To edit dimensions within Zudello, you will need the following permissions:
 - Dimensions View
 - Dimensions Visible
 - For each dimension, you will then need:
-	- Dimensions [DIMENSION NAME] View
-	- Dimensions [DIMENSION NAME] Visible
-	- Dimensions [DIMENSION NAME] Update
+	- Dimensions DIMENSION NAME View
+	- Dimensions DIMENSION NAME Visible
+	- Dimensions DIMENSION NAME Update
 
 ## Need help?
 

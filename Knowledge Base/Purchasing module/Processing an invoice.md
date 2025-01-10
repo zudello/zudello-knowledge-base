@@ -13,7 +13,7 @@ To ensure smooth invoice processing:
 
 ## Processing an invoice
 
-Processing an invoice begins with uploading the document to Zudello. For help with uploading invoices, see [[Uploading purchasing documents]].
+Processing an invoice begins with uploading the document to Zudello. For help with uploading invoices, see [Uploading purchasing documents](Uploading%20purchasing%20documents.md).
 
 Once an invoice has been uploaded and extracted, a user will need to:
 
@@ -40,7 +40,7 @@ To code an invoice:
 7. Complete any outstanding line line level coding by:
 	- Selecting stock codes or dimensions from drop-down menus
 	- Entering descriptions, quantities or prices
-8. Allocate invoice lines to a purchase order and/or goods receipt if applicable (see [[Two-way matching]])
+8. Allocate invoice lines to a purchase order and/or goods receipt if applicable <!-- (see [[Two-way matching]]) -->
 9. Review the overall document totals
 	- Check that the document total matches the original invoice
 	- If line prices include tax, turn on **Are the line totals inclusive of tax?**

@@ -22,14 +22,14 @@ You will now see the following organisation settings menu on the left side of yo
 - Users
 	- The users tab allows you to create, view, and edit users
 	- You can also manage user access and permissions, as well as delegations and default settings
-	- For help with the users tab, see [[User management]] 
+	- For help with the users tab, see [User management](User%20management.md). 
 - User groups
 	- The user groups tab allows you to create, view, and edit user groups
 	- User groups allows you to control what users can do, see, and approve
-	- For help with the user groups tab, see [[User groups]]
+	- For help with the user groups tab, see [User groups](User%20groups.md).
 - Group membership
 	- The group membership tab allows you to view and edit user group membership in bulk
-	- For help with the group membership tab, see [[User groups]]
+	- For help with the group membership tab, see [User groups](User%20groups.md).
 
 ## Need help?
 

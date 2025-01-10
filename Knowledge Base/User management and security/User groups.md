@@ -14,7 +14,7 @@ User groups are classified into the following types:
 - Visibility 
 	- Visibility groups are used in conjunction with data permissions to determine what information users can see
 	- Visibility user groups should not have any permissions assigned
-	- For more information on data permissions, see [[Data permissions]]
+	- For more information on data permissions, see [Data permissions](Data%20permissions.md)
 - Approval 
 	- Approval groups are used in conjunction with approval automations to route documents to the correct approver
 	- Approval user groups should not have any permissions

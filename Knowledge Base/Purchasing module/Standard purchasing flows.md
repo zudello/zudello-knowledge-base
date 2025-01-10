@@ -18,7 +18,7 @@ This guide covers standard flows for the following document types:
 - Invoices
 - Credits
 
-This guide references standard document statuses. For more information on statuses, see [[NEEDS WORK Document statuses]].
+<!-- This guide references standard document statuses. For more information on statuses, see [[ Document statuses]]. -->
 
 ### Quotes
 
@@ -28,7 +28,7 @@ The standard quote flow is:
 2. A user reviews the quote (**Ready** or **User Review** status)
 3. The quote is converted into a requisition or purchase order
 
-For more information on converting quotes, see [[Converting documents in Zudello]]
+For more information on converting quotes, see [Converting a quote to a requisition or purchase order](Converting%20a%20quote%20to%20a%20requisition%20or%20purchase%20order.md). 
 
 ### Requisitions
 
@@ -89,7 +89,7 @@ The standard credit flow is:
 4. The credit is created in your ERP
 5. The credit moves to **Completed** status
 
-Credits can be related to invoices or purchase orders using the related documents and attachments feature. For more information, see [[Related documents and attachments]].
+Credits can be related to invoices or purchase orders using the related documents and attachments feature. For more information, see [Related documents and attachments](Related%20documents%20and%20attachments.md).
 
 ## Need help?
 

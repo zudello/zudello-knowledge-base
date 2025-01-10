@@ -24,7 +24,7 @@ To locate specific suppliers quickly:
    - Filter by specific criteria
    - Change your view layout
    - Sort by different fields
-> For help with filtering or sorting options, see [[Navigating Zudello]]
+> For help with filtering or sorting options, see [Navigating Zudello](Navigating%20Zudello.md).
 
 ## Managing supplier records
 
@@ -88,23 +88,24 @@ To inactivate multiple suppliers:
 
 ### Default coding
 
-Configure supplier default coding options to streamline transaction processing. For more information, see [[Supplier default coding]].
+Configure supplier default coding options to streamline transaction processing. For more information, see [Supplier default coding](Supplier%20default%20coding.md).
 
+<!-- ### Supplier alternatives -->
 ### Dependencies
 
-View and manage supplier dependencies by clicking the **Dependencies** tab. For more information, see [[Dependencies]].
+View and manage supplier dependencies by clicking the **Dependencies** tab. For more information, see [Dependencies](Dependencies.md).
 
 ### Chat function
 
-Use the chat feature to discuss supplier-related changes. For more information, see [[Chat function]].
+Use the chat feature to discuss supplier-related changes. For more information, see [Chat function](Chat%20function.md).
 
 ### Audit history
 
-Track changes to supplier records through the audit history. For more information, see [[Viewing and downloading audit history]].
+Track changes to supplier records through the audit history. For more information, see [Viewing and downloading audit history](Viewing%20and%20downloading%20audit%20history.md).
 
 ### Attachments
 
-Add and view related information in the related documents and related attachments sections. For more information, see [[Related documents and attachments]].
+Add and view related information in the related documents and related attachments sections. For more information, see [Related documents and attachments](Related%20documents%20and%20attachments.md).
 
 ## Need help?
 
