@@ -12,7 +12,7 @@ Learn more about these powerful document management features:
 - [[Assigning users to documents]]
 - [[Bulk actions]]
 - [[Converting documents in Zudello]]
-- [[Deleting and archiving document]]
+- [[Deleting and archiving documents]]
 - [[NEEDS WORK Document errors]]
 - [[Downloading, duplicating, splitting, and merging documents]]
 - [[Duplicate document checking in Zudello]]
@@ -22,7 +22,7 @@ Learn more about these powerful document management features:
 - [[Reverting documents]]
 - [[Tagging documents]]
 - [[Uploading documents]]
-- [[Using chat in documents]]
+- [[Chat function]]
 - [[Using the inbox tab on documents]]
 - [[Viewing and downloading audit history]]
 

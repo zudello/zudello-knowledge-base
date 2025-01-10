@@ -13,7 +13,7 @@ Stop wasting time on approvals with:
 - [[Managing delegation of authority datasets]]
     - Update approval rules at any time to fit your growing business
     
-- [[Requests submodule for approvals]]
+- [[Requests submodule]]
     - Save time by viewing all of your pending approvals in one place 
     
 - [[Approval history and audit trails]]

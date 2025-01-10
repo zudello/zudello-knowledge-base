@@ -1,4 +1,4 @@
-# Using chat in documents
+# Chat function
 
 Effective team communication is essential for document collaboration. This guide explains how to use Zudello's document chat to communicate with your team members directly within documents.
 

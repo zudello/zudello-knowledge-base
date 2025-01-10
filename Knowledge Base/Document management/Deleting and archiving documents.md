@@ -1,4 +1,4 @@
-# Deleting and archiving document
+# Deleting and archiving documents
 
 Keep your workspace free of unnecessary documents through deletion and archiving. This guide explains when and how to use these features effectively.
 

@@ -97,7 +97,7 @@ View and manage supplier dependencies by clicking the **Dependencies** tab. For 
 
 ### Chat function
 
-Use the chat feature to discuss supplier-related changes. For more information, see [[Using chat in documents]].
+Use the chat feature to discuss supplier-related changes. For more information, see [[Chat function]].
 
 ### Audit history
 

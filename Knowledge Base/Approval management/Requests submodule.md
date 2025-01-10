@@ -1,4 +1,4 @@
-# Requests submodule for approvals
+# Requests submodule
 
 Zudello makes it easy to stay on top of your approval tasks by consolidating all outstanding approvals into dedicated requests submodules. This guide explains how to view and manage your pending approvals efficiently.
 
