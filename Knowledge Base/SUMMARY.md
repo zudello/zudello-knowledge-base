@@ -34,7 +34,7 @@
 <!-- * Document statuses --> 
 * [Downloading, duplicating, splitting, and merging documents](Downloading,%20duplicating,%20splitting,%20and%20merging%20documents.md)
 * [Duplicate document checking in Zudello](Duplicate%20document%20checking%20in%20Zudello.md)
-* [NEEDS WORK Inboxes within Zudello](NEEDS%20WORK%20Inboxes%20within%20Zudello)
+- [Inboxes in Zudello](Inboxes%20in%20Zudello.md)
 * [Moving documents between teams](Moving%20documents%20between%20teams.md)
 * [Rejecting documents](Rejecting%20documents.md)
 * [Related documents and attachments](Related%20documents%20and%20attachments.md)

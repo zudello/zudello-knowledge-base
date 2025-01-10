@@ -13,10 +13,10 @@ Learn more about these powerful document management features:
 - [[Bulk actions]]
 - [[Converting documents in Zudello]]
 - [[Deleting and archiving documents]]
-- [[NEEDS WORK Document errors]]
+<!-- * [[Document errors]] -->
 - [[Downloading, duplicating, splitting, and merging documents]]
 - [[Duplicate document checking in Zudello]]
-- [[NEEDS WORK Inboxes within Zudello]]
+- [Inboxes within Zudello](Inboxes%20within%20Zudello)
 - [[Rejecting documents]]
 - [[Related documents and attachments]]
 - [[Reverting documents]]
