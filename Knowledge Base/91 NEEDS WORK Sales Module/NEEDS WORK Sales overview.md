@@ -1,6 +1,6 @@
-# Purchasing module overview
+# Sales overview
 
-The purchasing module is your home of all purchasing and accounts payable (AP) processes within Zudello. The purchasing module will let you manage all purchasing and AP documents, from supplier quotes  and purchase orders through to invoices and supplier statements. 
+The purchasing module is your home of all purchasing and accounts payable (AP) processes within Zudello. The purchasing module will let you manage all purchasing and AP documents, from supplier quotes  and purchase orders  to invoices and supplier statements. 
 
 ## Understanding the Purchasing module
 
@@ -15,7 +15,7 @@ The Purchasing module centralises your purchasing and accounts payable documents
 
 ## Managing purchasing workflows
 
-The Purchasing module supports your complete purchasing workflow from initial request through to payment processing. This includes:
+The Purchasing module supports your complete purchasing workflow from initial request to payment processing. This includes:
 
 - Uploading and converting quotes
 - Creating and approving requisitions

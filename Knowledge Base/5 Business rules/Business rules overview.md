@@ -6,7 +6,7 @@ Transform how you handle incoming documents with:
 
 - [[Keyword coding rules]]
     - Automatically apply predefined values to a document when specific words or phrases are extracted.
-      E.g. *When **Line Description** contains **Cleaning** set **Account** to* **4050 - Office Cleaning**.  
+      E.g. *When **Line Description** contains **Cleaning** set **Account** to* **4050 - Office Cleaning**. 
 
 - [[Supplier default coding]]
     - Automatically apply values such as account, department, or tax rate to all documents for a supplier.

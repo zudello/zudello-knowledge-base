@@ -44,7 +44,7 @@ To code an invoice:
 9. Review the overall document totals
 	- Check that the document total matches the original invoice
 	- If line prices include tax, turn on **Are the line totals inclusive of tax?**
-	- Review any document total validation errors (see [[Document validation errors]])
+	- Review any document total validation errors (see [[NEEDS WORK Document errors]])
 10. Click **Save and Submit** to submit the invoice for approval
 
 ## Need help?

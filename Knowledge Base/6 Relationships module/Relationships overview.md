@@ -1,4 +1,4 @@
-# Relationships module
+# Relationships overview
 
 We know that managing business relationships across different areas can be complex. Zudello makes it easy by centralising your business relationships. This guide explains how to use the Relationships module to efficiently manage your suppliers, customers, and employees.
 

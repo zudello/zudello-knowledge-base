@@ -1,3 +1,5 @@
+# Inboxes within Zudello
+
 Ensure your documents are extracted as soon as possible by setting up customised Zudello inboxes. 
 #### Unlimited, customisable inboxes 
 

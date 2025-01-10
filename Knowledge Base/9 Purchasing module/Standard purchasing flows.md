@@ -18,7 +18,7 @@ This guide covers standard flows for the following document types:
 - Invoices
 - Credits
 
-This guide references standard document statuses. For more information on statuses, see [[Standard document statuses]].
+This guide references standard document statuses. For more information on statuses, see [[NEEDS WORK Document statuses]].
 
 ### Quotes
 
