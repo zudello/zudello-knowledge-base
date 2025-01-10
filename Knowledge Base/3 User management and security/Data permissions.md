@@ -1,4 +1,4 @@
-# Understanding and managing data permissions
+# Data permissions
 
 Ensuring users can see only the information they need is crucial for your organisation's security. This guide explains how to manage data permissions to ensure users have the right level of visibility across different teams.
 

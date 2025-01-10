@@ -1,6 +1,6 @@
 Next steps 
 
-- Example of spelling correction in UI so mapping team can record them all
+~~- Example of spelling correction in UI so mapping team can record them all
 - Finish purchasing and sales
 - Split out the knowledge base into a live and a working
 - Glossary and overviews

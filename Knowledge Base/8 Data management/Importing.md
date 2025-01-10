@@ -82,13 +82,9 @@ Monitor your import's status in the Imports tab. Import statuses are:
 
 ## Importing transactions
 
-Transaction imports allow you to:
+Transaction imports allow you to import single or multiple transactions and their lines. You can select the appropriate module and submodule for each import. For transactions that do not have exisitng document numbers, you can enable auto-generation of document numbers.
 
-- Import single or multiple transactions and their lines
-- Select the appropriate module and submodule
-- Optionally enable auto-generation of document numbers
-
-Simply follow the same importing process as detailed above.
+Importing transactions follows the same importing process detailed above. There are additional requirements when importing multi-line transactions or updating existing transactions. These are detailed in the following sections. 
 
 ### Creating multi-line transactions
 
