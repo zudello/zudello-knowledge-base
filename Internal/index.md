@@ -38,7 +38,7 @@
 - [Document statuses](Document%20statuses.md)
 - [Downloading, duplicating, splitting, and merging documents](Downloading,%20duplicating,%20splitting,%20and%20merging%20documents.md)
 - [Duplicate document checking in Zudello](Duplicate%20document%20checking%20in%20Zudello.md)
-- [Inboxes within Zudello](Inboxes%20within%20Zudello.md)
+- [Inboxes in Zudello](Inboxes%20in%20Zudello.md)
 - [Rejecting documents](Rejecting%20documents.md)
 - [Related documents and attachments](Related%20documents%20and%20attachments.md)
 - [Reverting documents](Reverting%20documents.md)
