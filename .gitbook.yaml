@@ -2,4 +2,15 @@ root: ./
 
 structure:
   readme: README.md
-  summary: SUMMARY.md
+  summary: Knowledge Base/SUMMARY.md
+
+redirects:
+  Approval management/: ./Knowledge Base/Approval management/
+  Business rules/: ./Knowledge Base/Business rules/
+  Data management/: ./Knowledge Base/Data management/
+  Document management/: ./Knowledge Base/Document management/
+  Getting Started with Zudello/: ./Knowledge Base/Getting Started with Zudello/
+  Managing your account/: ./Knowledge Base/Managing your account/
+  Purchasing module/: ./Knowledge Base/Purchasing module/
+  Relationships module/: ./Knowledge Base/Relationships module/
+  User management and security/: ./Knowledge Base/User management and security/
