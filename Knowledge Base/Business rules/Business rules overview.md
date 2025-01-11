@@ -4,11 +4,11 @@ Zudello's business rules automate routine coding to help your team work smarter,
 
 Transform how you handle incoming documents with:
 
-- [Keyword coding rules](Keyword%20coding%20rules.md)
+- [Keyword coding rules](/Knowledge%20Base/Keyword%20coding%20rules.md)
     - Automatically apply predefined values to a document when specific words or phrases are extracted.
       E.g. *When **Line Description** contains **Cleaning** set **Account** to* **4050 - Office Cleaning**. 
 
-- [Supplier default coding](Supplier%20default%20coding.md)
+- [Supplier default coding](/Knowledge%20Base/Supplier%20default%20coding)
     - Automatically apply values such as account, department, or tax rate to all documents for a supplier.
 
   - [Item default coding](Item%20default%20coding.md)
