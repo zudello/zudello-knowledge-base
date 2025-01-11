@@ -11,7 +11,7 @@ Transform how you handle incoming documents with:
 - [Supplier default coding](/Knowledge%20Base/Business%20rules/Supplier%20default%20coding.md)
     - Automatically apply values such as account, department, or tax rate to all documents for a supplier.
 
-  - [Item default coding](/Knowledge%20Base/Business%20rules/Item%20default%20coding.md)
+- [Item default coding](/Knowledge%20Base/Business%20rules/Item%20default%20coding.md)
     - Automatically apply line values such as account or tax rate when an item is selected. 
 
 - [Dependencies](/Knowledge%20Base/Business%20rules/Dependencies.md)
