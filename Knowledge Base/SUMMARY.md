@@ -2,6 +2,7 @@
 
 ## Getting started with Zudello
 * [Logging in to Zudello](Logging%20in%20to%20Zudello.md)
+* [Moving around Zudello](Moving%20around%20Zudello.md)
 * [Navigating Zudello](Navigating%20Zudello.md)
 * [Contacting Zudello support](Contacting%20Zudello%20support.md)
 <!-- * Zudello Glossary --> 
