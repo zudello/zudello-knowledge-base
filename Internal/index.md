@@ -22,7 +22,7 @@
 - [Organisation-level settings](Organisation-level%20settings.md)
 - [User security best practices](User%20security%20best%20practices.md)
 - [User management](User%20management.md)
-- [SSO and user provisioning](SSO%20and%20user%20provisioning.md)
+- [Microsoft Entra (Azure AD) - SSO](Microsoft%20Entra%20(Azure%20AD)%20-%20SSO.md)
 - [User groups](User%20groups.md)
 - [Data permissions](Data%20permissions.md)
 - [User delegation and defaults](User%20delegation%20and%20defaults.md)
