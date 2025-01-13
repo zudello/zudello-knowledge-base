@@ -36,11 +36,11 @@ To set up Entra ID SSO for your Zudello team, you will first need to:
 
 Example registration page
 
-![](Pasted%20image%2020250113093632.png)
+![](../images/Pasted%20image%2020250113093632.png)
 
 Example Application (client) ID and Directory (tenant) ID
 
-![](Pasted%20image%2020250113093644.png)
+![](../images/Pasted%20image%2020250113093644.png)
 ### Adding a client secret
 
 To generate a new client secret to authenticate your user:
@@ -52,7 +52,7 @@ To generate a new client secret to authenticate your user:
 5. Copy the secret value
 > Ensure you copy the secret now as you will not be able to see it again 
 
-![](Pasted%20image%2020250113093653.png)
+![](../images/Pasted%20image%2020250113093653.png)
 
 ### Configuring token settings
 
@@ -66,7 +66,7 @@ Configure the token to return required user information:
     - given_name
     - preferred_username
 
-![](Pasted%20image%2020250113093710.png)
+![](../images/Pasted%20image%2020250113093710.png)
 
 ### Setting up API permissions
 
@@ -79,11 +79,11 @@ Configure the correct API permissions to enable all required functionality:
     - User.Read
     - openid
 
-![](Pasted%20image%2020250113093741.png)
+![](../images/Pasted%20image%2020250113093741.png)
 
 3. Click **Grant consent** to apply the permissions
 
-![](Pasted%20image%2020250113093755.png)
+![](../images/Pasted%20image%2020250113093755.png)
 
 ## Completing implementation
 
