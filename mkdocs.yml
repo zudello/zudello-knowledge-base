@@ -1,0 +1,14 @@
+site_name: Your Documentation
+theme:
+  name: material
+  features:
+    - navigation.path
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - search.highlight
+    - search.suggest
+
+nav:
+  - Home: index.md
+  - Knowledge Base: knowledge-base/
