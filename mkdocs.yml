@@ -1,4 +1,4 @@
-site_name: Your Documentation
+site_name: Zudello Documentation
 theme:
   name: material
   features:
@@ -8,7 +8,37 @@ theme:
     - navigation.top
     - search.highlight
     - search.suggest
+  palette:
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  
+  # Custom color settings
+  custom_dir: overrides
+
+extra_css:
+  - stylesheets/extra.css
 
 nav:
-  - Home: index.md
-  - Knowledge Base: knowledge-base/
+- Home: index.md
+- Getting Started:
+  - 'Logging in to Zudello': 'Knowledge Base/Logging in to Zudello.md'
+  - 'Navigating Zudello': 'Knowledge Base/Navigating Zudello.md'
+  - 'Contacting Zudello Support': 'Knowledge Base/Contacting Zudello support.md'
+- Managing Your Account:
+  - 'Overview': 'Knowledge Base/Overview.md'
+  - 'Resetting Your Password': 'Knowledge Base/Resetting your password.md'
+  - 'Managing Notification Settings': 'Knowledge Base/Managing notification settings.md'
