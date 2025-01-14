@@ -1,9 +1,9 @@
 # Table of contents
 
 ## Getting started with Zudello
-* [Logging in to Zudello](Logging%20in%20to%20Zudello.md)
-* [Navigating Zudello](Navigating%20Zudello.md)
-* [Contacting Zudello support](Contacting%20Zudello%20support.md)
+* [logging-in-to-zudello](Getting%20Started%20with%20Zudello/logging-in-to-zudello.md)
+* [navigating-zudello](Getting%20Started%20with%20Zudello/navigating-zudello.md)
+* [contacting-zudello-support](Getting%20Started%20with%20Zudello/contacting-zudello-support.md)
 <!-- * Zudello Glossary --> 
 ## Managing your account
 * [Overview](Overview.md)

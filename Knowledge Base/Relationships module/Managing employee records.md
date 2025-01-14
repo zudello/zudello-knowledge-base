@@ -24,7 +24,7 @@ To locate specific employees quickly:
     - Change your view layout
     - Sort by different fields
 
-> For help with filtering or sorting options, see [Navigating Zudello](Navigating%20Zudello.md).
+> For help with filtering or sorting options, see [navigating-zudello](../Getting%20Started%20with%20Zudello/navigating-zudello.md).
 
 ## Managing employee records
 
