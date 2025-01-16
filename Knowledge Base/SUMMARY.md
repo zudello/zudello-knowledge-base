@@ -1,7 +1,7 @@
 # Table of contents
 
 ## Getting started with Zudello
-* [logging-in-to-zudello](Getting%20Started%20with%20Zudello/logging-in-to-zudello.md)
+* [Logging into Zudello](Getting%20Started%20with%20Zudello/logging-in-to-zudello.md)
 * [navigating-zudello](Getting%20Started%20with%20Zudello/navigating-zudello.md)
 * [contacting-zudello-support](Getting%20Started%20with%20Zudello/contacting-zudello-support.md)
 <!-- * Zudello Glossary --> 
