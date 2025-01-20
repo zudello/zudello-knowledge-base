@@ -32,7 +32,7 @@ You can create new documents or upload existing ones directly into each submodul
 - [Creating and coding a purchase order](Creating%20and%20coding%20a%20purchase%20order.md)
 - [Creating and coding a requisition](Creating%20and%20coding%20a%20requisition.md)
 - [Uploading purchasing documents](Uploading%20purchasing%20documents.md)
-- [Converting documents in Zudello](Converting%20documents%20in%20Zudello.md)
+- [Converting documents in Zudello](../document-management/Converting%20documents%20in%20Zudello.md)
 - [Processing an invoice](Processing%20an%20invoice.md)
 - [Processing a credit](Processing%20a%20credit.md)
 <!-- - Two-way matching

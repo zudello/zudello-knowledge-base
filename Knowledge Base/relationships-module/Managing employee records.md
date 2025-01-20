@@ -24,7 +24,7 @@ To locate specific employees quickly:
     - Change your view layout
     - Sort by different fields
 
-> For help with filtering or sorting options, see [navigating-zudello](../Getting%20Started%20with%20Zudello/navigating-zudello.md).
+> For help with filtering or sorting options, see [navigating-zudello](../getting-started-with-zudello/navigating-zudello.md).
 
 ## Managing employee records
 
@@ -89,19 +89,19 @@ To inactivate multiple employees:
 
 ### Dependencies
 
-View and manage employee dependencies by clicking the **Dependencies** tab. For more information, see [Dependencies](Dependencies.md).
+View and manage employee dependencies by clicking the **Dependencies** tab. For more information, see [Dependencies](../business-rules/Dependencies.md).
 
 ### Chat function
 
-Use the chat feature to discuss employee-related changes. For more information, see [Chat function](Chat%20function.md).
+Use the chat feature to discuss employee-related changes. For more information, see [Chat function](../document-management/Chat%20function.md).
 
 ### Audit history
 
-Track changes to employee records through the audit history. For more information, see [Viewing and downloading audit history](Viewing%20and%20downloading%20audit%20history.md).
+Track changes to employee records through the audit history. For more information, see [Viewing and downloading audit history](../document-management/Viewing%20and%20downloading%20audit%20history.md).
 
 ### Attachments
 
-Add and view related information in the related documents and related attachments sections. For more information, see [Related documents and attachments](Related%20documents%20and%20attachments.md).
+Add and view related information in the related documents and related attachments sections. For more information, see [Related documents and attachments](../document-management/Related%20documents%20and%20attachments.md).
 
 ## Need help?
 

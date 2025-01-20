@@ -26,7 +26,7 @@ To access your pending approvals:
 2. Click **Requests** in the submodule menu
 3. View your list of outstanding approval requests
 
-The Requests submodule shows only documents awaiting your approval, helping you focus on items that need your attention. Review each document carefully before approving or rejecting it. See [Approving and rejecting documents](Approving%20and%20rejecting%20documents.md) for more information on approving documents.
+The Requests submodule shows only documents awaiting your approval, helping you focus on items that need your attention. Review each document carefully before approving or rejecting it. See [approving-and-rejecting-documents](approving-and-rejecting-documents.md) for more information on approving documents.
 
 Once you action an approval request, it disappears from your requests submodule, helping you maintain a clean and current view of outstanding items.
 

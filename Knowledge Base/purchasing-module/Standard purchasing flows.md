@@ -89,7 +89,7 @@ The standard credit flow is:
 4. The credit is created in your ERP
 5. The credit moves to **Completed** status
 
-Credits can be related to invoices or purchase orders using the related documents and attachments feature. For more information, see [Related documents and attachments](Related%20documents%20and%20attachments.md).
+Credits can be related to invoices or purchase orders using the related documents and attachments feature. For more information, see [Related documents and attachments](../document-management/Related%20documents%20and%20attachments.md).
 
 ## Need help?
 

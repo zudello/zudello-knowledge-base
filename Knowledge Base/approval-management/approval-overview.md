@@ -4,19 +4,19 @@ Send every document to the right approver, right away. Zudello's approval automa
 
 Stop wasting time on approvals with:
 
-- [Approval process in Zudello](Approval%20process%20in%20Zudello.md)
+- [approval-process-in-Zudello](approval-process-in-Zudello.md)
     - Handle complex flows with ease and send transactions to the right approver, every time
 
-- [Approving and rejecting documents](Approving%20and%20rejecting%20documents.md)
+- [approving-and-rejecting-documents](approving-and-rejecting-documents.md)
     - Review and approve documents within Zudello or straight from the notification email
 
-- [Managing delegation of authority datasets](Managing%20delegation%20of%20authority%20datasets.md)
+- [managing-delegation-of-authority-datasets](managing-delegation-of-authority-datasets.md)
     - Update approval rules at any time to fit your growing business
     
-- [Requests submodule](Requests%20submodule.md)
+- [requests-submodule](requests-submodule.md)
     - Save time by viewing all of your pending approvals in one place 
     
-- [Approval history and audit trails](Approval%20history%20and%20audit%20trails.md)
+- [approval-history-and-audit-trails](approval-history-and-audit-trails.md)
     - Permanent, downloadable approval histories for crystal clear approval trails
 
 Zudello's approval features work together to automate your approval processes while maintaining proper controls. You get the flexibility to configure approvals exactly how you need them, while automation ensures they're applied consistently every time.

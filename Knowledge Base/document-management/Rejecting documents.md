@@ -2,7 +2,7 @@
 
 Zudello makes it easy to reject documents and send them back to suppliers or customers. You can either email rejected documents back to suppliers or simply mark them as rejected within Zudello. 
 
-> This guide explains how to reject documents *outside of the approval process*. For information about rejecting documents during approvals, see [Approving and rejecting documents](Approving%20and%20rejecting%20documents.md).
+> This guide explains how to reject documents *outside of the approval process*. For information about rejecting documents during approvals, see [approving-and-rejecting-documents](../approval-management/approving-and-rejecting-documents.md).
 
 ## Best practices
 
