@@ -25,14 +25,16 @@ The Purchasing module supports your complete purchasing workflow from initial re
 - Uploading and processing credit notes
 - Supplier statement reconciliation
 
+See [Standard purchasing flows](standard-purchasing-flows.md) for more information on the flow of purchasing documents through Zudello.
+
 ## Creating, uploading, and processing documents
 
 You can create new documents or upload existing ones directly into each submodule based. The exact flow will depend on the type of document uploaded. To learn more, see:
 
+- [Uploading Purchasing Documents](uploading-purchasing-documents.md)
+- [Converting a quote to a requisition or purchase order](converting-a-quote-to-a-requisition-or-purchase-order.md)
 - [Creating and Coding a Purchase Order](creating-and-coding-a-purchase-order.md)
 - [Creating and Coding a Requisition](creating-and-coding-a-requisition.md)
-- [Uploading Purchasing Documents](uploading-purchasing-documents.md)
-- [Converting Documents in Zudello](converting-documents-in-zudello.md)
 - [Processing an Invoice](processing-an-invoice.md)
 - [Processing a Credit](processing-a-credit.md)
 <!-- - Two-way matching 
