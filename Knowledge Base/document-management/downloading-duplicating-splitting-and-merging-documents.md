@@ -48,7 +48,7 @@ When splitting documents:
 
 Use document merging to combine separate documents into one. For example, if a supplier has sent two pages of the same invoice as individual PDFs, they can be merged. 
 
-> Merging should not be used to merge different documents that are related, like an invoice and evidence of the work provided. For this case, use [Related documents and attachments](Related%20documents%20and%20attachments.md).
+> Merging should not be used to merge different documents that are related, like an invoice and evidence of the work provided. For this case, use [related-documents-and-attachments](related-documents-and-attachments.md).
 
 To merge documents:
 

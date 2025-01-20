@@ -1,91 +1,92 @@
-# Table of Contents
+# Table of contents
 
-## Getting Started with Zudello
-* [Logging into Zudello](logging-in-to-zudello.md)
-* [Navigating Zudello](navigating-zudello.md)
-* [Contacting Zudello Support](contacting-zudello-support.md)
-<!-- * Zudello Glossary --> 
+## Getting started with Zudello
+* [Logging into Zudello](getting-started-with-zudello/logging-in-to-zudello.md)
+* [Navigating Zudello](getting-started-with-zudello/navigating-zudello.md)
+* [Contacting Zudello support](getting-started-with-zudello/contacting-zudello-support.md)
+<!-- * Zudello glossary --> 
 
-## Managing Your Account
-* [Overview](overview.md)
-* [Resetting Your Password](resetting-your-password.md)
-* [Managing Notification Settings](managing-notification-settings.md)
-* [Setting Up Approval Delegation](setting-up-approval-delegation.md)
-* [Setting Your Default Team](setting-your-default-team.md)
-* [Setting Up Default Coding](setting-up-default-coding.md)
+## Managing your account
+* [Overview](managing-your-account/overview.md)
+* [Resetting your password](managing-your-account/resetting-your-password.md)
+* [Managing notification settings](managing-your-account/managing-notification-settings.md)
+* [Setting up approval delegation](managing-your-account/setting-up-approval-delegation.md)
+* [Setting your default team](managing-your-account/setting-your-default-team.md)
+* [Setting up default coding](managing-your-account/setting-up-default-coding.md)
 
-## User Management and Security
-* [User Management Overview](user-management-overview.md)
-* [Organisation-Level Settings](organisation-level-settings.md)
-* [User Security Best Practices](user-security-best-practices.md)
-* [User Management](user-management.md)
-* [User Groups](user-groups.md)
-* [Data Permissions](data-permissions.md)
-* [User Delegation and Defaults](user-delegation-and-defaults.md)
-<!-- * SSO and User Provisioning -->
+## User management and security
+* [User management overview](user-management-and-security/user-management-overview.md)
+* [Organisation-level settings](user-management-and-security/organisation-level-settings.md)
+* [User security best practices](user-management-and-security/user-security-best-practices.md)
+* [User management](user-management-and-security/user-management.md)
+* * [Microsoft Entra (Azure D) - SSO](user-management-and-security/microsoft-entra-azure-ad-sso.md)
+* [User groups](user-management-and-security/user-groups.md)
+* [Data permissions](user-management-and-security/data-permissions.md)
+* [User delegation and defaults](user-management-and-security/user-delegation-and-defaults.md)
+<!-- * SSO and user provisioning -->
 
-## Document Management 
-* [Document Management Overview](document-management-overview.md)
-* [Applying Trained Rules](applying-trained-rules.md)
-* [Assigning Users to Documents](assigning-users-to-documents.md)
-* [Bulk Actions](bulk-actions.md)
-* [Chat Function](chat-function.md)
-* [Converting Documents in Zudello](converting-documents-in-zudello.md)
-* [Deleting and Archiving Documents](deleting-and-archiving-documents.md)
-<!-- * Document Errors --> 
-<!-- * Document Statuses --> 
-* [Downloading, Duplicating, Splitting, and Merging Documents](downloading-duplicating-splitting-and-merging-documents.md)
-* [Duplicate Document Checking in Zudello](duplicate-document-checking-in-zudello.md)
-* [Inboxes in Zudello](inboxes-in-zudello.md)
-* [Moving Documents Between Teams](moving-documents-between-teams.md)
-* [Rejecting Documents](rejecting-documents.md)
-* [Related Documents and Attachments](related-documents-and-attachments.md)
-* [Reverting Documents](reverting-documents.md)
-* [Tagging Documents](tagging-documents.md)
-* [Uploading Documents](uploading-documents.md)
-* [Using the Inbox Tab on Documents](using-the-inbox-tab-on-documents.md)
-* [Viewing and Downloading Audit History](viewing-and-downloading-audit-history.md)
+## Document management 
+* [Document management overview](document-management/document-management-overview.md)
+* [Applying trained rules](document-management/applying-trained-rules.md)
+* [Assigning users to documents](document-management/assigning-users-to-documents.md)
+* [Bulk actions](document-management/bulk-actions.md)
+* [Chat function](document-management/chat-function.md)
+* [Converting documents in Zudello](document-management/converting-documents-in-zudello.md)
+* [Deleting and archiving documents](document-management/deleting-and-archiving-documents.md)
+<!-- * Document errors --> 
+<!-- * Document statuses --> 
+* [Downloading, duplicating, splitting, and merging documents](document-management/downloading-duplicating-splitting-and-merging-documents.md)
+* [Duplicate document checking in Zudello](document-management/duplicate-document-checking-in-zudello.md)
+* [Inboxes in Zudello](document-management/inboxes-in-zudello.md)
+* [Moving documents between teams](document-management/moving-documents-between-teams.md)
+* [Rejecting documents](document-management/rejecting-documents.md)
+* [Related documents and attachments](document-management/related-documents-and-attachments.md)
+* [Reverting documents](document-management/reverting-documents.md)
+* [Tagging documents](document-management/tagging-documents.md)
+* [Uploading documents](document-management/uploading-documents.md)
+* [Using the inbox tab on documents](document-management/using-the-inbox-tab-on-documents.md)
+* [Viewing and downloading audit history](document-management/viewing-and-downloading-audit-history.md)
 
-## Business Rules
-* [Business Rules Overview](business-rules-overview.md)
-* [Keyword Coding Rules](keyword-coding-rules.md)
-* [Dependencies](dependencies.md)
-<!-- * Item Alternatives --> 
-* [Item Default Coding](item-default-coding.md)
-<!-- * Supplier Alternatives --> 
-* [Supplier Default Coding](supplier-default-coding.md)
+## Business rules
+* [Business rules overview](business-rules/business-rules-overview.md)
+* [Keyword coding rules](business-rules/keyword-coding-rules.md)
+* [Dependencies](business-rules/dependencies.md)
+<!-- * Item alternatives --> 
+* [Item default coding](business-rules/item-default-coding.md)
+<!-- * Supplier alternatives --> 
+* [Supplier default coding](business-rules/supplier-default-coding.md)
 
-## Relationships Module
-* [Relationships Overview](relationships-overview.md)
-* [Managing Customer Records](managing-customer-records.md)
-* [Managing Employee Records](managing-employee-records.md)
-* [Managing Supplier Records](managing-supplier-records.md)
+## Relationships module
+* [Relationships overview](relationships-module/relationships-overview.md)
+* [Managing customer records](relationships-module/managing-customer-records.md)
+* [Managing employee records](relationships-module/managing-employee-records.md)
+* [Managing supplier records](relationships-module/managing-supplier-records.md)
 
-## Approval Management
-* [Approval Overview](approval-overview.md)
-* [Approval Process in Zudello](approval-process-in-zudello.md)
-* [Approving and Rejecting Documents](approving-and-rejecting-documents.md)
-* [Approval History and Audit Trails](approval-history-and-audit-trails.md)
-* [Managing Delegation of Authority Datasets](managing-delegation-of-authority-datasets.md)
-<!-- * Managing Approval Limits -->
-* [Requests Submodule](requests-submodule.md)
+## Approval management
+* [Approval overview](approval-management/approval-overview.md)
+* [Approval process in Zudello](approval-management/approval-process-in-zudello.md)
+* [Approving and rejecting documents](approval-management/approving-and-rejecting-documents.md)
+* [Approval history and audit trails](approval-management/approval-history-and-audit-trails.md)
+* [Managing delegation of authority datasets](approval-management/managing-delegation-of-authority-datasets.md)
+<!-- * Managing approval limits -->
+* [Requests submodule](approval-management/requests-submodule.md)
 
-## Data Management
-* [Data Management Overview](data-management-overview.md)
-* [Dimension Data](dimension-data.md)
-* [Exporting](exporting.md)
-* [Importing](importing.md)
+## Data management
+* [Data management overview](data-management/data-management-overview.md)
+* [Dimension data](data-management/dimension-data.md)
+* [Exporting](data-management/exporting.md)
+* [Importing](data-management/importing.md)
 
-## Purchasing Module
-* [Purchasing Overview](purchasing-overview.md)
-* [Standard Purchasing Flows](standard-purchasing-flows.md)
-* [Uploading Purchasing Documents](uploading-purchasing-documents.md)
-* [Converting a Quote to a Requisition or Purchase Order](converting-a-quote-to-a-requisition-or-purchase-order.md)
-* [Creating and Coding a Purchase Order](creating-and-coding-a-purchase-order.md)
-* [Creating and Coding a Requisition](creating-and-coding-a-requisition.md)
-<!-- * Closing a Purchase Order -->
-* [Processing an Invoice](processing-an-invoice.md)
-<!-- * Three-Way Matching -->
-* [Two-Way Matching](two-way-matching.md)
-* [Processing a Credit](processing-a-credit.md)
-<!-- * Supplier Statement Reconciliation -->
+## Purchasing module
+* [Purchasing overview](purchasing-module/purchasing-overview.md)
+* [Standard purchasing flows](purchasing-module/standard-purchasing-flows.md)
+* [Uploading purchasing documents](purchasing-module/uploading-purchasing-documents.md)
+* [Converting a quote to a requisition or purchase order](purchasing-module/converting-a-quote-to-a-requisition-or-purchase-order.md)
+* [Creating and coding a purchase order](purchasing-module/creating-and-coding-a-purchase-order.md)
+* [Creating and coding a requisition](purchasing-module/creating-and-coding-a-requisition.md)
+<!-- * Closing a purchase order -->
+* [Processing an invoice](purchasing-module/processing-an-invoice.md)
+<!-- * Three-way matching -->
+* [Two-way matching](two-way-matching.md)
+* [Processing a credit](purchasing-module/processing-a-credit.md)
+<!-- * Supplier statement reconciliation -->

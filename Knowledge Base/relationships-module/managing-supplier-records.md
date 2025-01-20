@@ -88,24 +88,24 @@ To inactivate multiple suppliers:
 
 ### Default coding
 
-Configure supplier default coding options to streamline transaction processing. For more information, see [Supplier default coding](../business-rules/Supplier%20default%20coding.md).
+Configure supplier default coding options to streamline transaction processing. For more information, see [supplier-default-coding](../business-rules/supplier-default-coding.md).
 
 <!-- ### Supplier alternatives -->
 ### Dependencies
 
-View and manage supplier dependencies by clicking the **Dependencies** tab. For more information, see [Dependencies](../business-rules/Dependencies.md).
+View and manage supplier dependencies by clicking the **Dependencies** tab. For more information, see [dependencies](../business-rules/dependencies.md).
 
 ### Chat function
 
-Use the chat feature to discuss supplier-related changes. For more information, see [Chat function](../document-management/Chat%20function.md).
+Use the chat feature to discuss supplier-related changes. For more information, see [chat-function](../document-management/chat-function.md).
 
 ### Audit history
 
-Track changes to supplier records through the audit history. For more information, see [Viewing and downloading audit history](../document-management/Viewing%20and%20downloading%20audit%20history.md).
+Track changes to supplier records through the audit history. For more information, see [viewing-and-downloading-audit-history](../document-management/viewing-and-downloading-audit-history.md).
 
 ### Attachments
 
-Add and view related information in the related documents and related attachments sections. For more information, see [Related documents and attachments](../document-management/Related%20documents%20and%20attachments.md).
+Add and view related information in the related documents and related attachments sections. For more information, see [related-documents-and-attachments](../document-management/related-documents-and-attachments.md).
 
 ## Need help?
 

@@ -6,7 +6,7 @@ Save time on purchasing by converting supplier quotes into requisitions or purch
 
 - Review the target submodule before converting
 - Double-check your selection before starting the conversion
-- Make sure you are familiar with [Converting documents in Zudello](../document-management/Converting%20documents%20in%20Zudello.md) before you begin
+- Make sure you are familiar with [converting-documents-in-zudello](../document-management/converting-documents-in-zudello.md) before you begin
 
 ## Converting a quote
 

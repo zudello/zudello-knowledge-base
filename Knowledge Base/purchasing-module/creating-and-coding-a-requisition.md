@@ -15,7 +15,7 @@ To ensure smooth document processing:
 
 This article details how to create a requisition and submit it for approval. This process can also be used to code and submit requisitions that were converted from a quote or duplicated from an existing requisition. 
 
-> If your team creates and approves purchase orders directly, see [Creating and coding a purchase order](Creating%20and%20coding%20a%20purchase%20order.md).
+> If your team creates and approves purchase orders directly, see [creating-and-coding-a-purchase-order](creating-and-coding-a-purchase-order.md).
 
 Contact your organisation administrator if you are unsure of the document flow for your team.
 
@@ -30,7 +30,7 @@ To begin coding a new purchase order, you can either:
 - Find a converted requisition
 	1. Find the existing requisition using filters or the search bar if needed
 	2. Click the requisition to open it
-> For help converting a quote to a requisition, see [Converting a quote to a requisition or purchase order](Converting%20a%20quote%20to%20a%20requisition%20or%20purchase%20order.md).
+> For help converting a quote to a requisition, see [converting-a-quote-to-a-requisition-or-purchase-order](converting-a-quote-to-a-requisition-or-purchase-order.md).
 - Duplicate and edit an existing requisition:
 	1. Find the existing requisition using filters or the search bar if needed
 	2. Click the requisition to open it
@@ -62,7 +62,7 @@ Code the requisition:
 
 The requisition will then move through your team's approval process. Once approved, it will automatically convert into a purchase order and continue through the purchasing document flow. 
 
-For more information on the standard flow of purchasing documents, see [Standard purchasing flows](Standard%20purchasing%20flows.md).
+For more information on the standard flow of purchasing documents, see [standard-purchasing-flows](standard-purchasing-flows.md).
 
 ## Need help?
 
