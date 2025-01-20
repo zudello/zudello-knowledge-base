@@ -7,7 +7,7 @@
 <!-- * Zudello glossary --> 
 
 ## Managing your account
-* [Overview](managing-your-account/overview.md)
+* [Overview](managing-your-account/managing-your-account.md)
 * [Resetting your password](managing-your-account/resetting-your-password.md)
 * [Managing notification settings](managing-your-account/managing-notification-settings.md)
 * [Setting up approval delegation](managing-your-account/setting-up-approval-delegation.md)
