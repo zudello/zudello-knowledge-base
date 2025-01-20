@@ -4,14 +4,14 @@ Minimise the time you spend updating data with Zudello's data management tools. 
 
 Transform how you handle business data with:
 
-- [dimension-data](dimension-data.md)
+- [Dimension Data](dimension-data.md)
 	- Zudello automatically pulls data from your ERP, ensuring your systems are always in sync 
 
-- [importing](importing.md)
+- [Importing](importing.md)
     - Create or update all types of Zudello records in bulk, including transactions and their lines
 
-- [exporting](exporting.md)
-    - Get only the data you need, when you need it, with Zudello's custom export templates    
+- [Exporting](exporting.md)
+    - Get only the data you need, when you need it, with Zudello's custom export templates
 
 Zudello integrates seamlessly with your ERP, automatically keeping records in sync while giving you the freedom to work where it makes the most sense. You also get powerful tools for bulk operations while maintaining data integrity and accuracy.
 

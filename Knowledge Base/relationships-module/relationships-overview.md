@@ -13,9 +13,9 @@ We know that managing business relationships across different areas can be compl
 
 The Relationships module gives you a central place to manage all business relationships, including:
 
-- Suppliers for accounts payable
-- Customers for accounts receivable
-- Employees for expense management and travel
+- Suppliers for accounts payable (see [Managing Supplier Records](managing-supplier-records.md))
+- Customers for accounts receivable (see [Managing Customer Records](managing-customer-records.md))
+- Employees for expense management and travel (see [Managing Employee Records](managing-employee-records.md))
 
 In the Relationships module, you can:
 

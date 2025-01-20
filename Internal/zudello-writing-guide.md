@@ -71,7 +71,7 @@ The following rules apply for the Zudello UI only. For all other documentation a
 
 Use Title Case for: 
 
-- Headers (modules and submodules) 
+- Headers (modules, submodules, and modals/pop-ups) 
 - Sidebars 
 - Toolbars 
 - Section Titles 

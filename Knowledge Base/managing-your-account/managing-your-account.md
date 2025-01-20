@@ -4,18 +4,18 @@ Zudello puts you in control of your account settings, making it easy to customis
 
 Quickly and easily manage your account by:
 
-- [resetting-your-password](https://github.com/zudello/zudello-knowledge-base/blob/main/Knowledge%20Base/managing-your-account/resetting-your-password.md)
-    
-- [setting-your-default-team](https://github.com/zudello/zudello-knowledge-base/blob/main/Knowledge%20Base/managing-your-account/setting-your-default-team.md)
+- [Resetting Your Password](resetting-your-password.md)
+
+- [Setting Your Default Team](setting-your-default-team.md)
     - Get to work straight away by choosing which team you want to see first when you log in
 
-- [setting-up-default-coding](https://github.com/zudello/zudello-knowledge-base/blob/main/Knowledge%20Base/managing-your-account/setting-up-default-coding.md)
+- [Setting Up Default Coding](setting-up-default-coding.md)
     - Save time on repetitive coding tasks, by automatically apply coding to manually uploaded documents
 
-- [setting-up-approval-delegation](https://github.com/zudello/zudello-knowledge-base/blob/main/Knowledge%20Base/managing-your-account/setting-up-approval-delegation.md)
+- [Setting Up Approval Delegation](setting-up-approval-delegation.md)
     - Hand over approval duties when you're away, so you can enjoy a worry-free holiday
 
-- [managing-notification-settings](https://github.com/zudello/zudello-knowledge-base/blob/main/Knowledge%20Base/managing-your-account/managing-notification-settings.md)
+- [Managing Notification Settings](managing-notification-settings.md)
     - Stay informed with what matters by choosing which updates you want to receive
 
 Zudello's account management features work together to create a personalised, efficient experience. You set up your account exactly how you need it, while maintaining security and staying connected to your team's activities.
