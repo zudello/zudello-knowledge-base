@@ -1,4 +1,4 @@
-# Welcome to the Zudello knowledge base
+## Welcome to the Zudello knowledge base
 
 Save time and elevate your team's performance with Zudello's business automation platform. Our comprehensive knowledge base guides you through every aspect of Zudello, from getting started to advanced features that streamline your operations.
 
