@@ -13,7 +13,7 @@ To ensure smooth invoice processing:
 
 ## Processing an invoice
 
-Processing an invoice begins with uploading the document to Zudello. For help with uploading invoices, see [uploading-purchasing-documents](uploading-purchasing-documents.md).
+Processing an invoice begins with uploading the document to Zudello. For help with uploading invoices, see [Uploading purchasing documents](uploading-purchasing-documents.md).
 
 Once an invoice has been uploaded and extracted, a user will need to:
 
