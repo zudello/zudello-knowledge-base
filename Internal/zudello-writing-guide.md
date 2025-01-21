@@ -71,7 +71,8 @@ The following rules apply for the Zudello UI only. For all other documentation a
 
 Use Title Case for: 
 
-- Headers (modules, submodules, and modals/pop-ups) 
+- Headers (modules, submodules)
+- Headers for modals or popups that require more than a confirmation action (e.g. where users are selecting from a drop-down or entering information)
 - Sidebars 
 - Toolbars 
 - Section Titles 
@@ -80,6 +81,7 @@ Use Title Case for:
 Use sentence case for: 
 
 - Buttons and toggles
+- Headers for popups that are just confirmation (e.g. the popup asking to confirm deletion of a record)
 - Field names, including drop-downs
 - Field placeholders 
 - System messages, regardless of length
