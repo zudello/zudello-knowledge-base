@@ -1,5 +1,7 @@
 # Table of contents
 
+- [Welcome to Zudello](homepage.md)
+
 ## Getting started with Zudello
 * [Logging into Zudello](getting-started-with-zudello/logging-in-to-zudello.md)
 * [Navigating Zudello](getting-started-with-zudello/navigating-zudello.md)
