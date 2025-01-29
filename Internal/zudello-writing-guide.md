@@ -81,13 +81,10 @@ Use Title Case for:
 Use sentence case for: 
 
 - Buttons and toggles
-- Headers for popups that are just confirmation (e.g. the popup asking to confirm deletion of a record)
+- Headers for confirmation pop-ups (e.g. the popup asking to confirm deletion of a record)
 - Field names, including drop-downs
 - Field placeholders 
 - System messages, regardless of length
-  
-
-## Capitalisation
 
 ### Headings
 
