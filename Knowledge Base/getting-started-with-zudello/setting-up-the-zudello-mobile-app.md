@@ -23,7 +23,7 @@ To configure the app
 To access Zudello on your iPhone:
 
 1. Open your Safari browser
-> You must use Safari as your browser. Other mobile browsers will not function correctly
+> For iPhone users, you must use Safari as your browser
 2. Navigate to [app.zudello.io](app.zudello.io)
 3. Log in with your Zudello username and password
 
