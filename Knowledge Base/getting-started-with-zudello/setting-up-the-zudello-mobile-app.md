@@ -1,4 +1,4 @@
-# Setting up the mobile app
+# Setting up the Zudello mobile app
 
 No desktop, no problem! Install Zudello directly on your device to access the app when you're on the go. This guide explains how to set up and access Zudello on both iOS and Android devices.
 
