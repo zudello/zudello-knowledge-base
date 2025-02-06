@@ -18,7 +18,7 @@ Focus your work by showing or hiding specific statuses. To do so:
 
 > Tip: Click **Select/Deselect all** to save time when selecting multiple statuses
 
-For more information on standard system statuses, see [Document Statuses](document-management/document-statuses.md)
+For more information on standard system statuses, see [Document Statuses](/document-management/document-statuses.md)
 ## Customising your view
 
 ### Change layout
