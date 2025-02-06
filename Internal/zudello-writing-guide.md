@@ -103,8 +103,8 @@ Use sentence case:
 
 ### System buttons and functions
 
-- Match case formatting exactly and use bold when directly referencing buttons or system actions.  
-    E.g. Scroll down on the sidebar, and click Data sets. ✅
+- Match case formatting exactly and use bold when directly referencing buttons, system actions, or statuses.  
+    E.g. Scroll down on the sidebar, and click Datasets. ✅
 - Don't capitalise the name of system functions, areas, or items.  
     Select the purchase order that you want to match to the invoice. ✅  
     Bulk updates can be performed using the importing feature. ✅  
