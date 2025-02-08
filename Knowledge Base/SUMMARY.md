@@ -37,7 +37,7 @@
 * [Converting documents in Zudello](document-management/converting-documents-in-zudello.md)
 * [Deleting and archiving documents](document-management/deleting-and-archiving-documents.md)
 <!-- * Document errors --> 
-<!-- * Document statuses --> 
+- [Document statuses](document-management/document-statuses.md)
 * [Downloading, duplicating, splitting, and merging documents](document-management/downloading-duplicating-splitting-and-merging-documents.md)
 * [Duplicate document checking in Zudello](document-management/duplicate-document-checking-in-zudello.md)
 * [Inboxes in Zudello](document-management/inboxes-in-zudello.md)
