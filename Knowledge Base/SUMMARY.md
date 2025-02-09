@@ -90,6 +90,6 @@
 <!-- * Closing a purchase order -->
 * [Processing an invoice](purchasing-module/processing-an-invoice.md)
 <!-- * Three-way matching -->
-* [Two-way matching](two-way-matching.md)
+* [Two-way matching](purchasing-module/two-way-matching.md)
 * [Processing a credit](purchasing-module/processing-a-credit.md)
 <!-- * Supplier statement reconciliation -->
