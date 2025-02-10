@@ -75,7 +75,8 @@ Use Title Case for:
 - Headers for modals or popups that require more than a confirmation action (e.g. where users are selecting from a drop-down or entering information)
 - Sidebars 
 - Toolbars 
-- Section Titles 
+- Section titles 
+- Table column headers
 - Statuses 
 
 Use sentence case for: 

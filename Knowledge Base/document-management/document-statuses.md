@@ -16,47 +16,48 @@ Zudello uses the standard statuses below to represent where documents are in the
 
 ### General processing statuses
 
-| Status            | Description                                                                                                                               |
-| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| Scanning          | Document is being processed through optical character recognition. No user action required at this stage.                                 |
-| Analysing         | Document has been flagged for system review. Automatic validation checks are being performed. No user action required at this stage.      |
-| User review       | Document requires review or action before continuing. Check the document for any highlighted issues. Make corrections as needed.          |
-| Ready             | Document has passed all validation checks. Ready for review and processing. You can now code and submit the document.                     |
-| Reject review     | Document was rejected during approval. Review rejection comments. Make required changes and resubmit.                                     |
-| Approval          | Document is with approvers. No action needed until approved or rejected. You can view the current approval step in the audit trail.       |
-| Processing        | Document is moving between statuses or being sent to your external system. No user action required at this stage.                         |
-| Completed         | Document has successfully processed into your external system. No further action required.                                                |
-| Unable to process | Document failed to transfer to your external system. Check error messages and resolve any issues. Contact support if you need assistance. |
-| Deleted           | Document has been removed from the system. No document details are retained. Cannot be reversed.                                          |
-| Archived          | Document has been archived for record keeping. Document details are retained. Can be found using search and filters.                      |
-| Unsupported       | Document type is not supported. Document has not been extracted. Contact support if you believe this is incorrect.                        |
+| Status            | Description                                                                                                                                                                                   |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Scanning          | Document is being extracted. No user action required at this stage.                                                                                                                           |
+| Ready             | Document has passed all validation checks. You can now code and submit the document.                                                                                                          |
+| User Review       | Document has failed one or more validation checks. Check the document for any highlighted issues, then code and submit the document.                                                          |
+| Reject Review     | Document was rejected during approval. Review rejection comments, make required changes and resubmit.                                                                                         |
+| Approval          | Document is awaiting approval. Action is required from the approver/s shown under the current approval step.                                                                                  |
+| Processing        | Document is moving between statuses or being sent to your ERP. No user action required at this stage.                                                                                         |
+| Completed         | Document has successfully processed to your ERP. No further action required.                                                                                                                  |
+| Unable to Process | Document failed to transfer to your ERP. Review error messages and resolve any issues. Contact support if you need assistance.                                                                |
+| Deleted           | Document has been deleted. The document can still be opened and reviewed for audit purposes.                                                                                                  |
+| Archived          | Document has been archived. Document details remain unchanged, but the document will not move through any further workflow. The document can still be opened and reviewed for audit purposes. |
+| Unsupported       | Document type is not supported. Document has not been extracted.                                                                                                                              |
 
-### Purchase order statuses
+### Purchase order specific statuses
 
-|Status|Description|
-|---|---|
-|Partially received|Purchase order has been partially allocated to a receipt but not matched to an invoice. Wait for remaining goods to be received or process partial invoice matching.|
-|Fully received|Purchase order has been fully allocated to a receipt but not matched to an invoice. Document is ready for invoice matching.|
-|Partially invoiced|Purchase order has been partially matched to an invoice and either partially or fully matched to a receipt. Monitor for remaining invoice matching.|
-|Invoiced|Purchase order has been fully matched to both an invoice and a goods receipt. No further action required.|
+| Status             | Description                                                                                                                                                                       |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Partially Received | The purchase order has been partially allocated to a receipt, but not matched to an invoice. The purchase order is available for remaining receipt matching and invoice matching. |
+| Fully Received     | The purchase order has been fully allocated to a receipt, but not matched to an invoice. The purchase order is available for invoice matching.                                    |
+| Partially Invoiced | The purchase order has been partially matched to an invoice, and either partially or fully matched to a receipt. The purchase order is available for invoice matching.            |
+| Invoiced           | The purchase order has been fully matched to both an invoice and a goods receipt. No further action required.                                                                     |
 
-### Invoice matching statuses
+### Invoice specific statuses
 
-|Status|Description|
-|---|---|
-|PO Missing|Invoice requires a purchase order but has no allocations to a PO. Review the invoice and either allocate it to an existing PO or create a new one.|
-|GR Pending|Invoice is fully or partially allocated to a PO but requires goods receipt allocation. Check if goods have been received and process the receipt if needed.|
-|PO Variance|Invoice has a discrepancy over the allowed tolerance limit. For 2-way matching, check PO allocation. For 3-way matching, verify both PO and receipt allocations.|
+| Status      | Description                                                                                                                                                                                                                                                 |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| PO Missing  | The invoice requires a purchase order, but has no allocations to a purchase order. Review the invoice and allocate it to an approved purchase order.                                                                                                        |
+| GR Pending  | The invoice is fully or partially allocated to a purchase order, but has no allocations to a goods receipt. Check if goods have been received and match a goods receipt when available.                                                                     |
+| PO Variance | The invoice has a discrepancy over the allowed tolerance, and requires further approval. For 2-way matching, check the purchase order allocation before approving. For 3-way matching, verify both purchase order and receipt allocations before approving. |
+> Contact your organisation administrator to check your team's allowed discrepancy tolerance
 
 ## Viewing document status
 
-To check the status of your documents:
+Documents under each submodule are grouped by status. The status name and colour are displayed at the top of each grouping. 
+
+To show or hide document statuses:
 
 1. Open the relevant submodule
-2. Look for the status name at the top of each document
-3. Click the document to view more details
-
-You can also filter documents by status to focus on specific items. For help with filtering, see [Navigating Zudello](../getting-started-with-zudello/navigating-zudello.md).
+2. Click **Status**
+3. Select the statuses you would like to view from the drop-down
+4. Click **Done**
 
 ## Need help?
 
