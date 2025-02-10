@@ -78,7 +78,7 @@
 * [Data management overview](data-management/data-management-overview.md)
 * [Dimension data](data-management/dimension-data.md)
 - [Exporting](data-management/exporting-records.md)
-* [Importing](data-management/importing.md)
+- [Importing](data-management/importing-records.md)
 
 ## Purchasing module
 * [Purchasing overview](purchasing-module/purchasing-overview.md)
