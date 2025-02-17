@@ -1,6 +1,8 @@
 # Zudello glossary
 
-We know that learning a new system comes with learning new terminology. The Zudello glossary provides clear explanations of common terms you'll encounter while using the platform, from document statuses and system features to approval workflows and account settings. Whether you're new to Zudello or need a quick refresh, this comprehensive guide helps you understand the exact meaning of terms within our platform, making it easier to navigate the system and work efficiently with your team.
+We know that learning a new system comes with learning new terminology. The Zudello glossary provides clear explanations of terms you'll encounter while using the platform, from document statuses and approval workflows to system features and account settings. 
+
+Whether you're new to Zudello or need a quick refresh, this guide helps you understand the exact meaning of terms within our platform.
 
 ## Glossary
 
@@ -108,7 +110,7 @@ We know that learning a new system comes with learning new terminology. The Zude
 
 **Quote**: A document from a supplier showing the cost of goods or services before you commit to buying them.
 
-**Reject review**: The status of a transaction that an approver has rejected and needs to be reviewed. After review, the transaction will either be fixed and sent for approval again or permanently rejected.
+**Reject review status**: The status of a transaction that an approver has rejected and needs to be reviewed. After review, the transaction will either be fixed and sent for approval again or permanently rejected.
 
 **Related documents**: Documents that are linked to each other in Zudello, such as a purchase order and its corresponding invoice.
 
