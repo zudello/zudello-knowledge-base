@@ -7,7 +7,7 @@
 * [Navigating Zudello](getting-started-with-zudello/navigating-zudello.md)
 * [Contacting Zudello support](getting-started-with-zudello/contacting-zudello-support.md)
 * [Setting up the Zudello mobile app](getting-started-with-zudello/setting-up-the-zudello-mobile-app.md)
-<!-- * Zudello glossary --> 
+- [Zudello glossary](getting-started-with-zudello/zudello-glossary.md)
 
 ## Managing your account
 * [Overview](managing-your-account/managing-your-account.md)
