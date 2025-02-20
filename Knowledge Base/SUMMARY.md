@@ -22,7 +22,7 @@
 * [Organisation-level settings](user-management-and-security/organisation-level-settings.md)
 * [User security best practices](user-management-and-security/user-security-best-practices.md)
 * [User management](user-management-and-security/user-management.md)
-* * [Microsoft Entra (Azure D) - SSO](user-management-and-security/microsoft-entra-azure-ad-sso.md)
+* [Microsoft Entra (Azure D) - SSO](user-management-and-security/microsoft-entra-azure-ad-sso.md)
 * [User groups](user-management-and-security/user-groups.md)
 * [Data permissions](user-management-and-security/data-permissions.md)
 * [User delegation and defaults](user-management-and-security/user-delegation-and-defaults.md)
@@ -41,7 +41,7 @@
 * [Downloading, duplicating, splitting, and merging documents](document-management/downloading-duplicating-splitting-and-merging-documents.md)
 * [Duplicate document checking in Zudello](document-management/duplicate-document-checking-in-zudello.md)
 * [Inboxes in Zudello](document-management/inboxes-in-zudello.md)
-* [Moving documents between teams](document-management/moving-documents-between-teams.md)
+<!-- * [Moving documents between teams](document-management/moving-documents-between-teams.md)  -->
 * [Rejecting documents](document-management/rejecting-documents.md)
 * [Related documents and attachments](document-management/related-documents-and-attachments.md)
 * [Reverting documents](document-management/reverting-documents.md)

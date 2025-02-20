@@ -6,7 +6,7 @@ Whether you're new to Zudello or need a quick refresh, this guide helps you unde
 
 ## Glossary
 
-**Active status**: A setting that shows whether a user account is currently in use. When active, users can log in and use Zudello. When inactive, users can't access the system.
+**Active status**: A setting that shows whether records such as items or suppliers. When active, records can be selected on documents. Inactive records will now show as available for selection.
 
 **Approval flow**: The step-by-step path a document takes to get approved, showing who needs to approve it and in what order.
 
@@ -26,13 +26,13 @@ Whether you're new to Zudello or need a quick refresh, this guide helps you unde
 
 **Bulk actions**: Features that let you perform the same task on multiple documents at once, such as assigning users or changing statuses.
 
-**Convert**: A feature that lets you change a document from one type to another, such as turning a purchase order into an invoice.
+**Convert**: A feature that lets you move a document from one module and/or submodule to another, such as turning a quote into a purchase order.
 
-**Credit**: A document from a supplier that reduces the amount you owe them, often issued to correct an invoice or provide a refund.
+**Credit**: A document from a supplier that reduces the amount you owe them, often issued to correct an invoice or provide a refund. Also known as a credit note, a credit memo, a refund, or an adjustment.
 
-**CSV file**: A file that stores data in a simple text format, with each piece of information separated by commas. These files are commonly used for importing and exporting data.
+**CSV file**: A file that stores data in a simple text format, with each piece of information separated by commas. These files are commonly used for importing and exporting data. Excel files and Google sheets can be saved as CSV files. 
 
-**Customer**: An individual or organization that buys goods or services from your business.
+**Customer**: An individual or organisation that buys goods or services from your business.
 
 **Customer record**: Information about a customer stored in Zudello, including their name, billing details, and default settings for their transactions.
 
@@ -40,7 +40,7 @@ Whether you're new to Zudello or need a quick refresh, this guide helps you unde
 
 **Default settings**: A section in your profile where you set team-specific preferences like default coding and default team selection.
 
-**Default team**: The team you see when you log in to Zudello. If you work with multiple teams, you can change your default team in your settings.
+**Default team**: The team you see when you log in to Zudello. If you work with multiple teams, you can change your default team in your Profile settings.
 
 **Default team settings**: Options that control which team you see when you log in and how documents are processed for that team.
 
@@ -48,7 +48,7 @@ Whether you're new to Zudello or need a quick refresh, this guide helps you unde
 
 **Detailed view**: A way to view audit history that shows changes in a table format, making it easy to see exactly what changed in each field.
 
-**Dimensions**: Classification codes you assign to transaction lines, such as department, account, cost center, and tax rate. Dimensions help organize transactions in your accounting system and can affect who needs to approve them.
+**Dimensions**: Classification codes you assign to transaction lines, such as department, account, cost centre, and tax rate. Dimensions help organise transactions in your accounting system and can affect who needs to approve them.
 
 **Document chat**: A feature that lets you discuss a document directly within Zudello.
 
@@ -64,7 +64,7 @@ Whether you're new to Zudello or need a quick refresh, this guide helps you unde
 
 **Email upload**: A way to add documents to Zudello by sending them as email attachments to your team's Zudello mailbox address.
 
-**Employee**: A person who works for your organization and may need reimbursement for expenses or travel costs.
+**Employee**: A person who works for your organisation and may need reimbursement for expenses or travel costs.
 
 **Employee record**: Information about an employee stored in Zudello, including their name, payment details for reimbursements, and which departments they belong to.
 
@@ -90,9 +90,11 @@ Whether you're new to Zudello or need a quick refresh, this guide helps you unde
 
 **List view**: A way to view your documents as a vertical list, with each document showing as a card with key information.
 
-**Management tree approvals**: An approval process that follows your organization's management structure. Documents are sent to each manager up the chain until someone with a high enough approval limit approves the transaction.
+**Management tree approvals**: An approval process that follows your organisation's management structure. Documents are sent to each manager up the chain until someone with a high enough approval limit approves the transaction.
 
 **Manual upload**: A way to add documents to Zudello by dragging and dropping files or selecting them from your computer, rather than sending them by email.
+
+**Mention**: A feature that let's you send another user a notification about a message in the document chat. 
 
 **Module**: A main section of Zudello that groups related features together, such as purchasing, sales, or inventory.
 
@@ -124,13 +126,13 @@ Whether you're new to Zudello or need a quick refresh, this guide helps you unde
 
 **Submodule**: A section within a module that handles specific types of documents or tasks, such as invoices within the purchasing module.
 
-**Supplier**: An individual or organization that provides goods or services to your business.
+**Supplier**: An individual or organisation that provides goods or services to your business.
 
 **Supplier record**: Information about a supplier stored in Zudello, including their name, payment details, and default settings for their transactions.
 
 **Table view**: A way to view your documents in a spreadsheet-like format with rows and columns, making it easy to sort and compare information.
 
-**Tag**: A label you can add to documents to help organize them and make them easier to find. Tags can have different colors and names to help identify different types of documents.
+**Tag**: A label you can add to documents to help organise them and make them easier to find. Tags can have different colors and names to help identify different types of documents.
 
 **Three-way matching**: A process that compares an invoice against both its purchase order and goods receipt to verify that everything matches before payment.
 
@@ -142,7 +144,7 @@ Whether you're new to Zudello or need a quick refresh, this guide helps you unde
 
 **Unable to process status**: A document status showing that Zudello couldn't send the document to your accounting system. The error message will explain what went wrong.
 
-**Unsupported status**: A document status showing that Zudello doesn't recognize the type of document and can't process it.
+**Unsupported status**: A document status showing that Zudello doesn't recognise the type of document and can't process it.
 
 **Until date**: The date when approval delegation ends, returning approval responsibilities to the original user.
 

@@ -61,8 +61,8 @@ To edit an existing users settings:
 3. Click the **Team settings** drop-down and select the team you want to modify their settings for
 4. Make changes such as:
    - Adjusting user group membership using the **User groups** drop-down
-   - Updating delegation settings under the **Delegation** tab (see [user-delegation-and-defaults](user-delegation-and-defaults.md))
-   - Updating default settings under the **Default settings** tab (see [user-delegation-and-defaults](user-delegation-and-defaults.md))
+   - Updating delegation settings under the **Delegation** tab (see [User delegation and defaults](user-delegation-and-defaults.md))
+   - Updating default settings under the **Default settings** tab (see [User delegation and defaults](user-delegation-and-defaults.md))
 5. Repeat steps 3 and 4 for any additional team that need settings changed
 6. Click **Update** to save your changes
 
@@ -85,6 +85,7 @@ Once deactivated, the user will appear greyed out in the users table.
 ### Resetting a user's password
 
 You can also perform these additional actions by clicking **Advanced**:
+
 - Click **Reset password** to send the user a password reset email
 - Click **Set new password** to manually change the user's password
 

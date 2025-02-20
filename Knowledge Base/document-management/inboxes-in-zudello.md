@@ -12,7 +12,7 @@ When an email is received, Zudello will:
 
 You don't need to open the original email or tell Zudello which documents to extract. All valid documents will automatically show in the relevant submodule, and you can process them as soon as they have finished extraction.  
 
-The email message will be visible on the document. For more information on the inbox tab, see [using-the-inbox-tab-on-documents](using-the-inbox-tab-on-documents.md).
+The email message will be visible on the document. For more information on the inbox tab, see [Using the inbox tab on documents](using-the-inbox-tab-on-documents.md).
 
 
 ### Key inbox features

@@ -30,6 +30,7 @@ Contact your organisation administrator to check or modify your permissions.
 Your import file must meet these criteria:
 
 - Use CSV or TXT format (Excel files must be converted to CSV)
+- When saving the CSV, select the CSV UTF-8 format
 - Include a header row to define columns
 - Use unique column headers for accurate field mapping
 - Format dates as YYYY-MM-DD
