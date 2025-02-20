@@ -53,7 +53,7 @@
 ## Business rules
 * [Business rules overview](business-rules/business-rules-overview.md)
 * [Keyword coding rules](business-rules/keyword-coding-rules.md)
-* [Dependencies](business-rules/dependencies.md)
+* [Dependencies](business-rules/data-dependencies.md)
 <!-- * Item alternatives --> 
 * [Item default coding](business-rules/item-default-coding.md)
 <!-- * Supplier alternatives --> 
