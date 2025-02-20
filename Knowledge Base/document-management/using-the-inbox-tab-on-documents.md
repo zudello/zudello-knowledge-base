@@ -39,7 +39,7 @@ Your reply will be sent from the **From** email address configured for the inbox
 
 ## Managing inbox settings
 
-For information about viewing and editing inbox configuration, see [inboxes-in-zudello](inboxes-in-zudello.md).
+For information about viewing and editing inbox configuration, see [Inboxes in Zudello](inboxes-in-zudello.md).
 
 ## Need help?
 

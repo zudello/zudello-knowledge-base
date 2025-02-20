@@ -21,7 +21,7 @@ To revert a document, you need the following permissions for the document's subm
 	- To revert documents from **Approval** status
 - Revert Completed
 	- To revert documents from **Completed** status
-- Revery
+- Revert
 	- To revert documents from all other non-editable statuses
 
 Contact your organisation administrator to review your permissions.
