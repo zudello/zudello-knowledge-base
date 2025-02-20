@@ -13,7 +13,7 @@ Transform how you handle incoming documents with:
 * [Item Default Coding](item-default-coding.md)
    * Automatically apply line values such as account or tax rate when an item is selected.
 
-* [Dependencies](dependencies.md)
+* [Dependencies](data-dependencies.md)
    * Get your document coding right first time, every time. Dependencies limit options in one field based on what you select in another field, ensuring only valid combinations can be selected.
 
 Zudello's business rules allow your team to focus on higher-value activities that drive your business forward. You gain the flexibility to configure rules that match your business needs, while Zudello handles the heavy lifting of applying them consistently across all transactions.

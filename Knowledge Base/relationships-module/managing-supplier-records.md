@@ -24,7 +24,7 @@ To locate specific suppliers quickly:
    - Filter by specific criteria
    - Change your view layout
    - Sort by different fields
-> For help with filtering or sorting options, see [navigating-zudello](../getting-started-with-zudello/navigating-zudello.md).
+> For help with filtering or sorting options, see [Navigating Zudello](../getting-started-with-zudello/navigating-zudello.md).
 
 ## Managing supplier records
 
@@ -93,19 +93,19 @@ Configure supplier default coding options to streamline transaction processing. 
 <!-- ### Supplier alternatives -->
 ### Dependencies
 
-View and manage supplier dependencies by clicking the **Dependencies** tab. For more information, see [dependencies](../business-rules/dependencies.md).
+View and manage supplier dependencies by clicking the **Dependencies** tab. For more information, see [Dependencies](../business-rules/data-dependencies.md).
 
 ### Chat function
 
-Use the chat feature to discuss supplier-related changes. For more information, see [chat-function](../document-management/chat-function.md).
+Use the chat feature to discuss supplier-related changes. For more information, see [Chat function](../document-management/chat-function.md).
 
 ### Audit history
 
-Track changes to supplier records through the audit history. For more information, see [viewing-and-downloading-audit-history](../document-management/viewing-and-downloading-audit-history.md).
+Track changes to supplier records through the audit history. For more information, see [Viewing and downloading audit history](../document-management/viewing-and-downloading-audit-history.md).
 
 ### Attachments
 
-Add and view related information in the related documents and related attachments sections. For more information, see [related-documents-and-attachments](../document-management/related-documents-and-attachments.md).
+Add and view related information in the related documents and related attachments sections. For more information, see [Related documents and attachments](../document-management/related-documents-and-attachments.md).
 
 ## Need help?
 

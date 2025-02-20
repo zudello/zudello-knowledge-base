@@ -25,7 +25,7 @@ To locate specific customers quickly:
     - Change your view layout
     - Sort by different fields
 
-> For help with filtering or sorting options, see [navigating-zudello](../getting-started-with-zudello/navigating-zudello.md).
+> For help with filtering or sorting options, see [Navigating Zudello](../getting-started-with-zudello/navigating-zudello.md).
 
 ## Managing customer records
 
@@ -89,23 +89,23 @@ To inactivate multiple customers:
 
 ### Default coding
 
-Configure supplier default coding options to streamline transaction processing. For more information, see [supplier-default-coding](../business-rules/supplier-default-coding.md).
+Configure customer default coding options to streamline transaction processing. For more information, see [Customer default coding](../business-rules/customer-default-coding.md).
 
 ### Dependencies
 
-View and manage supplier dependencies by clicking the **Dependencies** tab. For more information, see [dependencies](../business-rules/dependencies.md).
+View and manage customer dependencies by clicking the **Dependencies** tab. For more information, see [Dependencies](../business-rules/data-dependencies.md).
 
 ### Chat function
 
-Use the chat feature to discuss supplier-related changes. For more information, see [chat-function](../document-management/chat-function.md).
+Use the chat feature to discuss customer-related changes. For more information, see [Chat function](../document-management/chat-function.md).
 
 ### Audit history
 
-Track changes to supplier records through the audit history. For more information, see [viewing-and-downloading-audit-history](../document-management/viewing-and-downloading-audit-history.md).
+Track changes to customer records through the audit history. For more information, see [Viewing and downloading audit history](../document-management/viewing-and-downloading-audit-history.md).
 
 ### Attachments
 
-Add and view related information in the related documents and related attachments sections. For more information, see [related-documents-and-attachments](../document-management/related-documents-and-attachments.md).
+Add and view related information in the related documents and related attachments sections. For more information, see [Related documents and attachments](../document-management/related-documents-and-attachments.md).
 
 ## Need help?
 
