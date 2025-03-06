@@ -1,6 +1,6 @@
 # Microsoft Entra ID (Azure AD) - Single sign-on (SSO)
 
-Set up Microsoft Entra ID (Azure AD) authentication to enable secure single sign-on for your Zudello implementation. This guide explains how to configure the required application settings and permissions in Entra ID.
+Set up Microsoft Entra ID (formerly Azure AD) authentication to enable secure single sign-on for your Zudello implementation. This guide explains how to configure the required application settings and permissions in Entra ID.
 
 ## Best practices
 
@@ -23,34 +23,33 @@ To set up Entra ID SSO for your Zudello team, you will first need to:
 
 ### Registering a new client
 
-- Browse to the [App registration menus create dialog](https://portal.azure.com/#view/Microsoft_AAD_RegisteredApps/CreateApplicationBlade/quickStartType~/null/isMSAApp~/false) to create a new app
+1. Open the [App registration menus create dialog](https://portal.azure.com/#view/Microsoft_AAD_RegisteredApps/CreateApplicationBlade/quickStartType~/null/isMSAApp~/false) 
+2. Enter **Zudello** as the name of the application a name
+3. Select who should be able to login (Single-Tenant, Multi-Tenant, Personal Accounts). This setting will impact how you configure the provider later on in Zudello.
+4. Select **Web** under **Redirect URI** and paste the following Zudello callback URL 
+	https://auth.1.global.zudello.io/ui/login/login/externalidp/callback
+5. Save the **Application (client) ID** and the **Directory (tenant) ID** from the detail page in a secure location
+6. Click **Register**
 
-- Give the application a name and choose who should be able to login (Single-Tenant, Multi-Tenant, Personal Accounts, etc.) This setting will have an impact on how to configure the provider later on in Zudello.
-
-- Select "Web" in the redirect URI field and paste the following Zudello callback URL:
-  https://auth.1.global.zudello.io/ui/login/login/externalidp/callback
-
-- Save the **Application (client) ID** and the **Directory (tenant) ID** from the detail page in a secure location
-
-- Click **Register**
-
-Example registration page
+*Example registration page*
 
 ![](../images/Pasted%20image%2020250113093632.png)
 
-Example Application (client) ID and Directory (tenant) ID
+*Example Application (client) ID and Directory (tenant) ID*
 
 ![](../images/Pasted%20image%2020250113093644.png)
 ### Adding a client secret
 
 To generate a new client secret to authenticate your user:
 
-1. Click **Client credentials** on the detail page of the application, or **Certificates & secrets** in the side menu
-2. Click **New client secret** 
-3. Enter a clear description and an expiry date
-4. Click **Add**
-5. Copy the secret value
-> Ensure you copy the secret now as you will not be able to see it again 
+7. Click **Client credentials** on the detail page of the application, or **Certificates & secrets** in the side menu
+8. Click **New client secret** 
+9. Enter a clear description and a suitable expiry date
+> Record the expiry date in your organisation's calendar with suitable notice to avoid any future disruptions when refreshing tokens
+10. Click **Add**
+11. Copy the secret value
+> Ensure you copy the secret now as you will not be able to see it again.
+
 
 ![](../images/Pasted%20image%2020250113093653.png)
 
@@ -58,9 +57,9 @@ To generate a new client secret to authenticate your user:
 
 Configure the token to return required user information:
 
-1. Click **Token configuration** in the side menu
-2. Click **Add optional claim**
-3. Add the following claims to the id token:
+12. Click **Token configuration** in the side menu
+13. Click **Add optional claim**
+14. Add the following claims to the id token:
     - email
     - family_name
     - given_name
@@ -72,8 +71,8 @@ Configure the token to return required user information:
 
 Configure the correct API permissions to enable all required functionality:
 
-1. Click **API permissions** in the side menu
-2. Verify the following Microsoft Graph permissions are included:
+15. Click **API permissions** in the side menu
+16. Verify the following Microsoft Graph permissions are included:
     - email
     - profile
     - User.Read
@@ -81,18 +80,19 @@ Configure the correct API permissions to enable all required functionality:
 
 ![](../images/Pasted%20image%2020250113093741.png)
 
-3. Click **Grant consent** to apply the permissions
+17. Click **Grant consent** to apply the permissions
 
 ![](../images/Pasted%20image%2020250113093755.png)
 
 ## Completing implementation
 
-Provide these authentication keys to Zudello:
+Once you have completed the above steps, please securely provide these authentication keys to Zudello:
 
 - Application (Client) ID
 - Directory (tenant) ID
 - Client Secret value
 
+To ensure your information is kept confidential, use a secure password sharing tool like 1Password or LastPass. If you do not have access to any such tool, please send Client IDs and Client Secret values in separate messages. 
 ## Need help?
 
 Contact your organisation administrator or Zudello support for assistance with Azure AD authentication setup.

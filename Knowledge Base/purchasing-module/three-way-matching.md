@@ -1,8 +1,8 @@
 # Two-way matching
 
-Save time and reduce errors by automatically matching each invoice to the corresponding purchase order, ensuring you only pay for what you ordered. This guide explains how to review automatic two-way matching, and manually match if needed.
+Only pay for what you've ordered and received, by automatically matching each invoice to both the corresponding purchase order and goods receipt. This guide explains how to review automatic three-way matching, and manually match if needed.
 
-If you'd like to learn more about what two-way matching is and why your organisation may use it, see [Understanding two-way and three-way matching](understanding-two-way-and-three-way-matching.md).
+If you'd like to learn more about what three-way matching is and why your organisation may use it, see [Understanding two-way and three-way matching](understanding-two-way-and-three-way-matching.md).
 ## Best practices
 
 - Check quantities and prices match between documents when automatically matched
@@ -11,11 +11,11 @@ If you'd like to learn more about what two-way matching is and why your organisa
 
 ## Automatic matching
 
-When an invoice is uploaded to Zudello, the purchase order number will be extracted where one exists. If a purchase order with that number is found in Zudello, the system automatically matches the two documents.
+When an invoice is uploaded to Zudello, the purchase order number will be extracted where one exists. If a purchase order with that number is found in Zudello, the system automatically matches the two documents. If a goods receipt with the number exists, or a goods receipt has been matched to the purchase order, the receipt will also be matched.
 
-![](../images/CleanShot%202025-03-07%20at%2007.21.40@2x.png)
+![](../images/CleanShot%202025-03-07%20at%2007.54.32@2x.png)
 
-Each line item on the invoice is automatically matched to the corresponding line on the purchase order. For quantity-based matching, common for stock invoices, matching is based on one of the following:
+Each line item on the invoice is automatically matched to the corresponding lines on the purchase order and goods receipt. For quantity-based matching, common for stock invoices, matching is based on one of the following:
 - Stock code
 - Description
 - Quantity and unit price
@@ -47,8 +47,8 @@ If invoice lines can't be automatically matched to purchase order lines, you can
 6. To match lines on the current purchase order, click **Match line** on a purchase order line
    ![](../images/CleanShot%202025-03-07%20at%2007.39.36@2x.png)
    
-8. The line will automatically match with the lesser of the invoice line quantity and the remaining purchase order line quantity
-9. To adjust the matched quantity, use the arrows next to the allocated quantity
+7. The line will automatically match with the lesser of the invoice line quantity and the remaining purchase order line quantity
+8. To adjust the matched quantity, use the arrows next to the allocated quantity
    ![](../images/CleanShot%202025-03-07%20at%2007.42.50@2x.png)
    
 10. To match lines on a different purchase order, click **View other purchase orders**
