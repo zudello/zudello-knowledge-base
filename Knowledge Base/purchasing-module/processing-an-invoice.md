@@ -41,7 +41,7 @@ To code an invoice:
 	- Selecting stock codes or dimensions from drop-down menus
 	- Entering descriptions, quantities or prices
 8. Allocate invoice lines to a purchase order and/or goods receipt if applicable
-> See [Two-way matching](two-way-matching.md) and [Three-way matching](three-way-matching.md)] for more 
+<!-- > See [Two-way matching](two-way-matching.md) and [Three-way matching](three-way-matching.md) for more -->
 9. Review the overall document totals
 	- Check that the document total matches the original invoice
 	- If line prices include tax, turn on **Are the line totals inclusive of tax?**
