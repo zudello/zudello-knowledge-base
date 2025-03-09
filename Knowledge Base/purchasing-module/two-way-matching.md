@@ -25,7 +25,7 @@ For amount-based matching, common for service invoices, invoice line items can b
 Matching results are displayed with the following icons:
    - Green ticks indicate fully matched quantities.
    - Green equal signs indicate fully matched prices.
-   - Yellow icons indicate unmatched items or price variances. You can review and action these discrepancies in line with you business's process.
+   - Yellow icons indicate unmatched items or price variances. You can review and action these discrepancies in line with your business's process.
 
 ![](../images/CleanShot%202025-03-07%20at%2007.25.09@2x.png)
 
@@ -40,26 +40,36 @@ If invoice lines can't be automatically matched to purchase order lines, you can
 1. Open the invoice
 2. Scroll down to the **Items** section
 3. Look for icons indicating unmatched items
-   ![](../images/CleanShot%202025-03-07%20at%2007.36.11@2x.png)
+![](../images/CleanShot%202025-03-07%20at%2007.36.11@2x.png)
    
 4. Click the icon on the line you'd like to match
 5. The purchase order matching modal will open to the current matched purchase order
-6. To match lines on the current purchase order, click **Match line** on a purchase order line
-   ![](../images/CleanShot%202025-03-07%20at%2007.39.36@2x.png)
+6. To match lines on the current purchase order, click **Match line** 
+![](../images/CleanShot%202025-03-07%20at%2007.39.36@2x.png)
    
-8. The line will automatically match with the lesser of the invoice line quantity and the remaining purchase order line quantity
-9. To adjust the matched quantity, use the arrows next to the allocated quantity
-   ![](../images/CleanShot%202025-03-07%20at%2007.42.50@2x.png)
-   
-10. To match lines on a different purchase order, click **View other purchase orders**
-11. Find the relevant purchase order by scrolling or searching
+7. The line will automatically match with the lesser of the invoice line quantity and the remaining purchase order line quantity
+8. To adjust the matched quantity, use the arrows next to the allocated quantity
+![](../images/CleanShot%202025-03-07%20at%2007.42.50@2x.png)
+
+9. To match lines on a different purchase order, click **View other purchase orders** 
+10. Find the relevant purchase order by scrolling or searching
  > Purchase orders will be limited to only those with the same supplier as the current invoice
-12. Repeat steps 6-9
-13. Click **Close**
-14. Review the matching results on the invoice:
+11. Repeat steps 6-8
+12. Click **Close**
+13. Review the matching results on the invoice:
    - Green ticks indicate fully matched quantities
    - Green equal signs indicate fully matched prices
    - Yellow icons indicate remaining unmatched items or price variances
+
+## Reviewing and editing matching
+
+To review and edit existing matching, click the expand icon at the start of a line.
+
+![](../images/CleanShot%202025-03-09%20at%2009.20.25@2x.png)
+
+This will show the purchase order to the line, including the allocated quantity and price. Click the **Document #** to open the related purchase order.
+
+To edit existing matching, click the edit icon next to **Purchase Order**. This will open the matching modal, and you can follow the steps for manual matching above. 
 
 ## Processing matched documents
 
