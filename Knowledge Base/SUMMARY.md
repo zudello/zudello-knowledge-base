@@ -89,7 +89,7 @@
 * [Creating and coding a requisition](purchasing-module/creating-and-coding-a-requisition.md)
 <!-- * Closing a purchase order -->
 * [Processing an invoice](purchasing-module/processing-an-invoice.md)
-<!-- * Three-way matching -->
-<!-- *  [Two-way matching](purchasing-module/two-way-matching.md) -->
+* [Two-way matching](purchasing-module/two-way-matching.md)
+* [Three-way matching](purchasing-module/three-way-matching.md)
 * [Processing a credit](purchasing-module/processing-a-credit.md)
 <!-- * Supplier statement reconciliation -->
