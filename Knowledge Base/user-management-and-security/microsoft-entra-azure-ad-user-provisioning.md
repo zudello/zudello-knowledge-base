@@ -17,7 +17,7 @@ To ensure smooth and secure user provisioning:
 ### Creating an Entra group
 
 1. Search for and select **Groups**
-![](../images/CleanShot%202025-03-06%20at%2009.52.55@2x%201.png)
+![](../images/sso-azure-groups.png)
 2. From the sidebar, click **All groups**
 ![](../images/CleanShot%202025-03-06%20at%2009.57.13@2x.png)
 3. Click **New group**

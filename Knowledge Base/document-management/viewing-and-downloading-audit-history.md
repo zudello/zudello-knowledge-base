@@ -13,6 +13,8 @@ We know that accurate audit logs are essential for your security. This guide exp
 1. Open the document or record you want to review
 2. Click **History** at the top right of the modal
 
+![](../images/CleanShot%202025-03-22%20at%2016.18.43@2x%201.png)
+
 ## Understanding audit views
 
 Zudello offers two ways to view audit history:
@@ -21,6 +23,9 @@ Zudello offers two ways to view audit history:
 	- Shows changes in chronological order
 	- Groups related changes for easier reading
 	- Allows expanding and collapsing of grouped items
+
+![](../images/CleanShot%202025-03-22%20at%2016.21.12@2x.png)
+	
 - Detailed view
 	- Presents changes in a table format
 
@@ -38,6 +43,9 @@ To save a PDF copy of the audit history:
 
 1. Click **...** at the top of the document
 2. Click **Download audit log**
+
+![](../images/CleanShot%202025-03-22%20at%2016.15.41@2x.png)
+
 3. Open the downloaded PDF to view the complete audit history
 
 ## Need help?
