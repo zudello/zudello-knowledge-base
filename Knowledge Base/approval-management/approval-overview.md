@@ -4,7 +4,7 @@ Send every document to the right approver, right away. Zudello's approval automa
 
 Stop wasting time on approvals with:
 
-- [Approval Process in Zudello](approval-process-in-zudello.md)
+- [Approval Process in Zudello](approval-process.md)
     - Handle complex flows with ease and send transactions to the right approver, every time
 
 - [Approving and Rejecting Documents](approving-and-rejecting-documents.md)
