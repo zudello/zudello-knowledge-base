@@ -26,7 +26,7 @@ To approve documents directly in Zudello:
    - Confirm all coding is complete and correct
    - Verify all document totals are correct
 3. Click **Approve** once satisfied with all details
-   
+
 ![](../images/CleanShot%202025-03-22%20at%2015.52.36@2x.png)
 
 The document will proceed through any remaining approval steps after you complete your approval.
