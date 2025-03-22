@@ -13,12 +13,16 @@ We know that keeping track of approval flows is essential for maintaining accoun
 
 Approval histories remain visible on all partially and fully approved documents. You can find the approval flow at the top left of any document with approvals. Click the arrow to collapse or expand the approval history view.
 
+![](../images/CleanShot%202025-03-22%20at%2016.12.04@2x.png)
+
 Approval histories include:
 
 - The names of all approvers
 - How many approvals were required at each step
 - Each approver's response
 - Details of any special approval actions like force approval, change of approver, or escalation
+  
+![](../images/CleanShot%202025-03-22%20at%2016.22.43@2x%201.png)
 
 ## Downloading approval histories
 
@@ -26,6 +30,8 @@ To save an approval history externally:
 
 1. Click **...** at the top of the document
 2. Click **Download approval history**
+   
+![](../images/CleanShot%202025-03-22%20at%2016.14.20@2x.png)
 
 The system generates a PDF containing:
 

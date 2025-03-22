@@ -78,7 +78,3 @@ Three-way matching works best for:
 - Purchases where quantity verification is critical
 
 Many organisations use a combination of both approaches, applying the appropriate matching method based on the type of purchase.
-
-## Need help?
-
-Contact your organisation administrator or Zudello support for assistance with two-way and three-way matching.
