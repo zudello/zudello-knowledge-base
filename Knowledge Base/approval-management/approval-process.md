@@ -55,11 +55,11 @@ Some users will have the ability to reassign their own approvals, or all approva
 To change an approver:
  
 1. Click the **Change User** icon next to the approver's name
-   
+
 ![](../images/CleanShot%202025-03-22%20at%2015.20.32@2x.png)
    
 2. Select the new approver from the drop-down menu
-   
+
 ![](../images/CleanShot%202025-03-22%20at%2015.22.35@2x.png)
    
 3. Enter a reason for the change
@@ -67,12 +67,14 @@ To change an approver:
 ![](../images/CleanShot%202025-03-22%20at%2015.28.08@2x.png)
    
 4. Click **Confirm** to finalise the change.
- 
+
+
 Any approver that has been manually changed will be listed under the new approver. To view any previously assigned approvers and the reason/s for the change:
 
-5.  Click the **Others** arrow
-6. Hover your mouse over the **changed** label
-   ![](../images/CleanShot%202025-03-22%20at%2015.37.28@2x.png)
+1. Click the **Others** arrow
+2. Hover your mouse over the **changed** label
+
+![](../images/CleanShot%202025-03-22%20at%2015.37.28@2x.png)
 
 ## Additional notes
 

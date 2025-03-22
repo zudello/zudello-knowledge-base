@@ -21,7 +21,7 @@ Approval histories include:
 - How many approvals were required at each step
 - Each approver's response
 - Details of any special approval actions like force approval, change of approver, or escalation
-  
+
 ![](../images/CleanShot%202025-03-22%20at%2016.22.43@2x%201.png)
 
 ## Downloading approval histories
@@ -30,7 +30,7 @@ To save an approval history externally:
 
 1. Click **...** at the top of the document
 2. Click **Download approval history**
-   
+
 ![](../images/CleanShot%202025-03-22%20at%2016.14.20@2x.png)
 
 The system generates a PDF containing:
