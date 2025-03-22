@@ -2,6 +2,8 @@
 
 Zudello automatically codes transaction lines with predefined values based on each line's item code. This guide explains how to set up and manage default coding for your items.
 
+![](../images/CleanShot%202025-03-23%20at%2007.17.37@2x.png)
+
 ## Best practices
 
 - Review item default coding settings regularly to ensure they match your business requirements
@@ -40,7 +42,15 @@ To set default coding directly in Zudello:
     - From the **Inventory** module:
         - Click the **Items** submodule
         - Find and open the relevant item
+
+![](../images/CleanShot%202025-03-23%20at%2007.08.34@2x.png)
+
+![](../images/CleanShot%202025-03-23%20at%2007.09.27@2x.png)
+
 2. Locate the default coding section
+
+![](../images/CleanShot%202025-03-23%20at%2007.20.10@2x.png)
+
 3. Click the field you want to set a default for
 4. Select your desired value
 5. Click **Save**

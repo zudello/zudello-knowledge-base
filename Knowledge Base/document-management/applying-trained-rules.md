@@ -8,6 +8,9 @@ To apply trained rules to a document:
 
 1. Click **...** at the top of the document
 2. Click **Apply trained rules**
+
+![](../images/CleanShot%202025-03-23%20at%2007.41.08@2x.png)
+
 3. Wait while the document refreshes and the rules are applied
 4. When "A new version of this Invoice is available" appears, click **Refresh Invoice** to view the updated invoice
 
