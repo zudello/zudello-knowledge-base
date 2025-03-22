@@ -1,13 +1,14 @@
 # Supplier default coding
 
-Zudello saves you time by automatically coding supplier documents with predefined values. This guide explains how to set up and manage default coding for your suppliers.
+Zudello saves you time by automatically coding purchasing documents with predefined values for each of your suppliers. This guide explains how to set up and manage default coding for your suppliers.
+
+![](../images/CleanShot%202025-03-23%20at%2007.24.43@2x.png)
 
 ## Best practices
 
 - Review default coding settings regularly to ensure they match your business requirements
-- Make all changes to supplier defaults in one system, either within Zudello or within your ERP
+- Ensure supplier defaults are consistent between Zudello and your ERP 
 - Consider the impact on existing processes before making changes
-- Verify default coding is working as expected after setup
 
 ## Understanding default coding
 
@@ -40,7 +41,15 @@ To set default coding directly in Zudello:
     - From the **Relationships** module:
         - Click the **Supplier** submodule
         - Find and open the relevant supplier
+
+![](../images/CleanShot%202025-03-23%20at%2006.42.45@2x.png)
+
+![](../images/CleanShot%202025-03-23%20at%2006.44.23@2x%201.png)
+
 2. Locate the default coding section
+
+![](../images/CleanShot%202025-03-23%20at%2006.48.18@2x%202.png)
+
 3. Click the field you want to set a default for
 4. Select your desired value
 5. Click **Save**
