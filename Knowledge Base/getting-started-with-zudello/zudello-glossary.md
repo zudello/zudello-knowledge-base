@@ -1,6 +1,6 @@
 # Zudello glossary
 
-We know that learning a new system comes with learning new terminology. The Zudello glossary provides clear explanations of terms you'll encounter while using the platform, from document statuses and approval workflows to system features and account settings. 
+We know that learning a new system comes with learning new terminology. This glossary gives clear explanations of terms you'll encounter while using the platform, from document statuses and approval workflows to system features and account settings. 
 
 Whether you're new to Zudello or need a quick refresh, this guide helps you understand the exact meaning of terms within our platform.
 

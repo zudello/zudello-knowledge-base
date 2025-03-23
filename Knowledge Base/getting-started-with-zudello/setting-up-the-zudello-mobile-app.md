@@ -13,9 +13,6 @@ To ensure smooth mobile access:
 
 Zudello's mobile app uses your device's web browser to provide secure access to your Zudello account. You can access all your regular Zudello features through the mobile interface.
 
-To configure the app
-
-
 ## Setting up mobile access
 
 ### iOS setup (iPhone, iPad)
@@ -32,7 +29,13 @@ To add Zudello to your iPhone's home screen:
 1. Navigate to your preferred default team and module
 2. Click the share icon in your browser
 3. Select **Add to Home Screen**
-4. Click **Add**
+
+![](../images/CleanShot%202025-03-23%20at%2012.57.29@2x.png)
+
+4. The name will default to **Zudello** but can be edited to suit your preference
+5. Click **Add**
+
+![](../images/CleanShot%202025-03-23%20at%2012.58.29@2x.png)
 
 The Zudello app will be added to your device's home screen.
 

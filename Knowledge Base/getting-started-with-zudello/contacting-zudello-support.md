@@ -29,19 +29,27 @@ All requests will come through to our support team, so use whichever method is e
 
 1. Click the company menu at the top right of your screen
 2. Click **Help**
+
+![](../images/CleanShot%202025-03-23%20at%2013.00.07@2x.png)
+
 3. Look for the help pop-up at the bottom right of your screen
 4. Search for relevant help articles in the search bar
+
+![](../images/CleanShot%202025-03-23%20at%2013.02.35@2x.png)
+
 5. If you can't find an answer, click **Leave us a message**
 6. Your name and email address will populate automatically, though you can update the contact email if needed
 7. Provide a detailed description of your issue, following the best practice guidelines above
 8. Include any relevant record links or screenshots
+
+![](../images/CleanShot%202025-03-23%20at%2013.06.59@2x%201.png)
 
 You don't need to keep the support chat open after sending your message. Our reply will come via email to continue the conversation.
 
 ### Sending an email
 
 1. Send your support request directly to support@zudello.com
-2. Include all the same detailed information as you would in the chat
+2. Include all the same detailed information as you would in the chat (detailed above)
 3. Optionally, CC anyone that you would like to be included in the email chain
 
 ## Adding record links
