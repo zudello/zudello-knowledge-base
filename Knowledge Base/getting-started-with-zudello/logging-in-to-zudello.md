@@ -16,17 +16,28 @@ SSO allows you to login using your existing Entra AD (Microsoft) login.
 
 1. Go to  **[https://app.zudello.io](https://app.zudello.io)**
 2. Enter your email address and click **Next**
-4. Zudello will redirect you to your organisation's Microsoft login page
+
+![](../images/CleanShot%202025-03-23%20at%2012.21.34@2x.png)
+
+3. Zudello will redirect you to your organisation's Microsoft login page
 > If you have an active Microsoft session, you will be logged in automatically
-5. Sign in with your Microsoft credentials
-6. You will then be returned to Zudello
+4. Sign in with your Microsoft credentials
+5. You will then be returned to Zudello
 
 ### Logging in with a password
 
 1. Go to  **[https://app.zudello.io](https://app.zudello.io)**
 2. Enter your email address and click **Next**
-4. Enter your password
-5. Click **Next**
+
+![](../images/CleanShot%202025-03-23%20at%2012.21.34@2x%201.png)
+
+3. Enter your password
+
+![](../images/CleanShot%202025-03-23%20at%2012.24.08@2x.png)
+
+4. Click **Next**
+
+You will be logged into Zudello. 
 
 ### Resetting your password
 
@@ -34,9 +45,15 @@ To reset your password:
 
 1. Go to  **[https://app.zudello.io](https://app.zudello.io)**
 2. Enter your email address and click **Next**
-2. Click **Reset password** 
-3. An email will be sent with instructions to reset your password
-4. Follow the prompts to create a new password
+
+![](../images/CleanShot%202025-03-23%20at%2012.21.34@2x%202.png)
+
+3. Click **Reset password** 
+
+![](../images/CleanShot%202025-03-23%20at%2012.23.25@2x.png)
+
+4. An email will be sent with instructions to reset your password
+5. Follow the prompts to create a new password
 
 ## Switching teams
 
@@ -44,6 +61,8 @@ When you log in, Zudello takes you to your default team. If you are a user on mu
 
 1. Click the company menu at the top right
 2. Click the team name that you want to access
+   
+![](../images/CleanShot%202025-03-23%20at%2012.27.28@2x.png)
 
 ## Logging out
 
