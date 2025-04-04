@@ -16,6 +16,7 @@ You can configure default document types for different submodules. For example, 
 We extract default document types as part of the extraction process. Importantly, we won't apply default document types when you manually match suppliers, customers, or employees to a transaction, or when an automation sets them after the extraction process has already finished.
 
 See [Item default coding](../business-rules/item-default-coding.md) or [Supplier default coding](../business-rules/supplier-default-coding.md) for more. 
+
 ### Allocations - any line to any line matching
 
 Zudello's [two-way and three-way matching](../purchasing-module/understanding-two-way-and-three-way-matching.md) plays an integral role in ensuring compliance and accuracy across the procurement lifecycle. 

@@ -101,3 +101,14 @@
 * [Data permissions](user-management-and-security/data-permissions.md)
 * [User delegation and defaults](user-management-and-security/user-delegation-and-defaults.md)
 <!-- * SSO and user provisioning -->
+
+## Release notes
+- [e3.3.3 - 10 Oct 2024](release-notes/release-notes-3.3.3.md)
+- [e3.3.4 - 17 Oct 2024](release-notes/release-notes-3.3.4.md)
+- [e3.3.5 - 31 Oct 2024](release-notes/release-notes-3.3.5.md)
+- [e3.3.6 - 05 Nov 2024](release-notes/release-notes-3.3.6.md)
+- [e3.3.7 - 11 Nov 2024](release-notes/release-notes-3.3.7.md)
+- [e3.3.8 - 20 Nov 2024](release-notes/release-notes-3.3.8.md)
+- [e3.3.9 - 26 Nov 2024](release-notes/release-notes-3.3.9.md)
+- [e3.3.10 - 11 Dec 2024](release-notes/release-notes-3.3.10.md)
+- [e3.3.11 - 18 Dec 2024](release-notes/release-notes-3.3.11.md)

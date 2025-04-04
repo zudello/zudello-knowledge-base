@@ -32,15 +32,13 @@ If the above rules produce multiple subsidiaries/locations (i.e. there are diffe
 
 For more information, see [Dependencies](../business-rules/data-dependencies.md).
 
-<!-- ### Mileage expenses
+### Mileage expenses
 
 Calculating and tracking mileage is simpler than ever with our new mileage expenses for reimbursement claims.
 
 You can now create mileage expenses by entering the locations you've travelled to and from, and Zudello will calculate the route and distance between the two points. This distance can then be used with preset mileage rates to quickly and easily determine the value of mileage reimbursement expenses.
 
 The new mileage expense form uses Google Maps to determine the route and distance between points. You can add multiple stops to ensure you track all required travel, without needing to process multiple mileage expenses for a single day of travel.
-
-To learn more about mileage expenses, see MILEAGE ARTICLE -->
 
 ### Validation tolerance on forms
 
