@@ -4,13 +4,6 @@ We know that managing your purchasing process efficiently and accurately is cruc
 
 This guide explains the differences between two-way and three-way matching and why your organisation might use either approach.
 
-## Best practices
-
-- Implement matching for all purchasing workflows where possible
-- Review matched documents carefully before approval
-- Address matching discrepancies in line with your business's policies
-- Document your matching requirements and workflows for team training
-
 ## What is matching?
 
 Matching is a verification process that compares documents in your procurement workflow to ensure accuracy and prevent errors or fraud. By automatically linking related documents, matching helps:
@@ -19,6 +12,15 @@ Matching is a verification process that compares documents in your procurement w
 - Ensure you only pay for items you ordered
 - Verify you've received what you're paying for
 - Detect pricing discrepancies early
+
+## Benefits of automated matching
+
+Implementing automated matching in your procurement process delivers several key advantages:
+
+- Time savings, by eliminating manual document comparison
+- Error reduction, by catching discrepancies humans might miss
+- Fraud prevention, by making it difficult for unauthorised purchases to be paid
+- Better supplier relationships, by ensuring accurate, timely payments
 
 ## Two-way matching
 
@@ -49,20 +51,31 @@ This provides the most comprehensive verification and is ideal for physical good
 
 To learn more about the three-way matching process, see [Three-way matching](three-way-matching.md).
 
-## Benefits of automated matching
+## Quantity-based matching vs amount-based matching
 
-Implementing automated matching in your procurement process delivers several key advantages:
+When implementing matching in your procurement workflow, you can choose between two matching methods: quantity-based matching and amount-based matching.
 
-- Time savings
-	- Automatic matching eliminates manual document comparison
-- Error reduction
-	- System verification catches discrepancies humans might miss
-- Fraud prevention
-	- Makes it difficult for unauthorised purchases to be paid
-- Process efficiency
-	- Standardises your purchasing and approval workflows
-- Better supplier relationships
-	- Accurate, timely payments improve vendor relations
+Quantity-based matching compares specific quantities across documents. This approach ensures the exact number of units are reflected in purchase orders, goods receipts (for three-way matching), and invoices. For example, when ordering 100 components at $5 each, quantity-based matching verifies you received and are being billed for the correct number of components.
+
+Quantity-based matching is best suited for:
+
+- Inventory and stock items
+- Any purchases where tracking precise quantities is important
+
+Amount-based matching focuses on comparing the monetary values across documents. This approach "draws down" on the approved amount until the purchase order is exhausted. For example, when ordering consulting services for $5,000, amount-based matching ensures the total invoiced amount doesn't exceed the approved purchase order value.
+
+Amount-based matching is best suited for:
+
+- Professional services
+- Recurring subscriptions
+- Maintenance contracts
+- Any purchases where the total cost matters more than specific unit quantities
+
+Your organisation can implement different matching methods for different types of purchases, using the approach that provides the most appropriate controls for each category.
+
+## Bidirectional matching
+
+Matching is bidirectional, meaning when an invoice is matched to a purchase order, the purchase order is also matched to the invoice. This applies for all matching, regardless of document type.
 
 ## When to use each approach
 

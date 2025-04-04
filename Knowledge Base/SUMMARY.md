@@ -17,6 +17,21 @@
 * [Setting your default team](managing-your-account/setting-your-default-team.md)
 * [Setting up default coding](managing-your-account/setting-up-default-coding.md)
 
+## Purchasing module
+* [Purchasing overview](purchasing-module/purchasing-overview.md)
+* [Standard purchasing flows](purchasing-module/standard-purchasing-flows.md)
+* [Uploading purchasing documents](purchasing-module/uploading-purchasing-documents.md)
+* [Converting a quote to a requisition or purchase order](purchasing-module/converting-a-quote-to-a-requisition-or-purchase-order.md)
+* [Creating a purchase order](purchasing-module/creating-and-coding-a-purchase-order.md)
+* [Creating a requisition](purchasing-module/creating-and-coding-a-requisition.md)
+<!-- * Closing a purchase order -->
+* [Processing an invoice](purchasing-module/processing-an-invoice.md)
+* [Understanding matching](purchasing-module/understanding-two-way-and-three-way-matching.md)
+* [Two-way matching](purchasing-module/two-way-matching.md)
+* [Three-way matching](purchasing-module/three-way-matching.md)
+* [Processing a credit](purchasing-module/processing-a-credit.md)
+<!-- * Supplier statement reconciliation -->
+
 ## Document management 
 * [Document management overview](document-management/document-management-overview.md)
 * [Applying trained rules](document-management/applying-trained-rules.md)
@@ -62,20 +77,6 @@
 * [Managing delegation of authority datasets](approval-management/managing-delegation-of-authority-datasets.md)
 <!-- * Managing approval limits -->
 * [Requests submodule](approval-management/requests-submodule.md)
-
-## Purchasing module
-* [Purchasing overview](purchasing-module/purchasing-overview.md)
-* [Standard purchasing flows](purchasing-module/standard-purchasing-flows.md)
-* [Uploading purchasing documents](purchasing-module/uploading-purchasing-documents.md)
-* [Converting a quote to a requisition or purchase order](purchasing-module/converting-a-quote-to-a-requisition-or-purchase-order.md)
-* [Creating and coding a purchase order](purchasing-module/creating-and-coding-a-purchase-order.md)
-* [Creating and coding a requisition](purchasing-module/creating-and-coding-a-requisition.md)
-<!-- * Closing a purchase order -->
-* [Processing an invoice](purchasing-module/processing-an-invoice.md)
-<!-- * Three-way matching -->
-<!-- *  [Two-way matching](purchasing-module/two-way-matching.md) -->
-* [Processing a credit](purchasing-module/processing-a-credit.md)
-<!-- * Supplier statement reconciliation -->
 
 ## Data management
 * [Data management overview](data-management/data-management-overview.md)

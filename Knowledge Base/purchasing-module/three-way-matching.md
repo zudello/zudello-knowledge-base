@@ -10,23 +10,43 @@ If you'd like to learn more about what three-way matching is and why your organi
 - Check all line items are matched correctly
 - Ensure any discrepancies are approved in line with your organisation's policies
 
+## Quantity-based vs amount-based matching
+
+Zudello offers two approaches to matching invoice lines to purchase order and goods receipt lines:
+
+- Quantity-based matching compares specific quantities across documents, ensuring the exact number of units are reflected in purchase orders, goods receipts, and invoices. 
+	- For example, when ordering 100 components at $5 each, quantity-based matching verifies you received and are being billed for the correct number of components.
+
+- Amount-based matching compares monetary values across documents, and "draws down" on the approved amount until the purchase order is exhausted.
+	- For example, when ordering consulting services for $5,000, amount-based matching ensures the total invoiced amount has been delivered and doesn't exceed the approved purchase order value.
+
 ## Automatic matching
 
 When an invoice is uploaded to Zudello, the purchase order number will be extracted where one exists. If a purchase order with that number is found in Zudello, the system automatically matches the two documents. 
 
 If a goods receipt with the same number exists, or a receipt has been matched to the purchase order, the receipt will also be matched.
 
-![](../images/CleanShot%202025-03-07%20at%2007.54.32@2x.png)
+![](../images/CleanShot%202025-04-04%20at%2008.42.56.png)
 
-Each line item on the invoice is automatically matched to the corresponding lines on the purchase order and goods receipt. Matching is based on one of the following:
+Each line item on the invoice is automatically matched to the corresponding lines on the purchase order and goods receipt. For quantity-based matching, common for stock invoices, matching is based on one of the following:
 - Stock code
 - Description
 - Quantity and unit price
 
+For amount-based matching, common for service invoices, invoice line items can be matched with the methods above. Alternatively, lines can be matched top-to-bottom to any available purchase order line, until either all lines are matched or the purchase order is exhausted.
+
 Matching results are displayed with the following icons:
-   - Green ticks indicate fully matched quantities.
-   - Green equal signs indicate fully matched prices.
-   - Yellow icons indicate unmatched items or price variances. You can review and action these discrepancies in line with your business's process.
+
+| Icon                                                         | Matched status                                                                           |
+| ------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
+| ![](../images/CleanShot%202025-04-04%20at%2009.20.31@2x.jpg) | Fully matched                                                                            |
+| ![](../images/rrrrrrrrrr%201.jpg)                            | Partially matched; the number indicates the missing quantity                             |
+| ![](../images/bgerwqrwfrgfwrq3frgf.jpg)                      | Line not matched                                                                         |
+| ![](../images/Untitled.jpg)                                  | The price of the matched transactions matches the price of the current transaction       |
+| ![](../images/CleanShot%202025-04-04%20at%2009.31.57@2x.jpg) | The price of the matched transaction is higher than the price of the current transaction |
+| ![](../images/CleanShot%202025-04-04%20at%2009.31.42@2x.jpg) | The price of the matched transaction is lower than the price of the current transaction  |
+| ![](../images/CleanShot%202025-04-04%20at%2009.38.34@2x.jpg) | Multiple icons appear if you are matching to multiple transactions                       |
+
 
 ![](../images/CleanShot%202025-03-07%20at%2008.59.53@2x.png)
 
