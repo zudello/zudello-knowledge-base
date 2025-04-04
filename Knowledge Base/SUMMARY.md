@@ -9,7 +9,7 @@
 * [Setting up the Zudello mobile app](getting-started-with-zudello/setting-up-the-zudello-mobile-app.md)
 - [Zudello glossary](getting-started-with-zudello/zudello-glossary.md)
 
-## Commonly used articles
+## Popular articles
 - [Uploading documents](document-management/uploading-documents.md)
 - [Approving documents](approval-management/approving-and-rejecting-documents.md)
 - [Creating a purchase order](purchasing-module/creating-and-coding-a-purchase-order.md)
