@@ -3,17 +3,28 @@
 Save time and reduce errors by automatically matching each invoice to the corresponding purchase order, ensuring you only pay for what you ordered. This guide explains how to review automatic two-way matching, and manually match if needed.
 
 If you'd like to learn more about what two-way matching is and why your organisation may use it, see [Understanding two-way and three-way matching](understanding-two-way-and-three-way-matching.md).
+
 ## Best practices
 
 - Check quantities and prices match between documents when automatically matched
 - Check all line items are matched correctly
 - Ensure any discrepancies are approved in line with your organisation's policies
 
+## Quantity-based matching vs amount-based matching
+
+Zudello supports two approaches to matching invoice lines to purchase order lines:
+
+- Quantity-based matching compares specific quantities across documents, ensuring the exact number of units are reflected in purchase orders and invoices. 
+	- For example, when ordering 20 software licences at $150 each, quantity-based matching verifies are being billed for the correct number of licences, even if there is a change in price.
+
+- Amount-based matching focuses on comparing monetary values across documents, and "draws down" on the approved amount until the purchase order is exhausted. 
+	- For example, when ordering consulting services for $5,000, amount-based matching ensures the total invoiced amount doesn't exceed the approved purchase order value, regardless of how the amount is split between invoices.
+
 ## Automatic matching
 
 When an invoice is uploaded to Zudello, the purchase order number will be extracted where one exists. If a purchase order with that number is found in Zudello, the system automatically matches the two documents.
 
-![](../images/CleanShot%202025-03-07%20at%2007.21.40@2x.png)
+![](../images/CleanShot%202025-04-04%20at%2008.41.38.png)
 
 Each line item on the invoice is automatically matched to the corresponding line on the purchase order. For quantity-based matching, common for stock invoices, matching is based on one of the following:
 - Stock code
@@ -23,9 +34,17 @@ Each line item on the invoice is automatically matched to the corresponding line
 For amount-based matching, common for service invoices, invoice line items can be matched with the methods above. Alternatively, lines can be matched top-to-bottom to any available purchase order line, until either all lines are matched or the purchase order is exhausted.
 
 Matching results are displayed with the following icons:
-   - Green ticks indicate fully matched quantities.
-   - Green equal signs indicate fully matched prices.
-   - Yellow icons indicate unmatched items or price variances. You can review and action these discrepancies in line with your business's process.
+
+| Icon                                                         | Matched status                                                                           |
+| ------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
+| ![](../images/CleanShot%202025-04-04%20at%2009.20.31@2x.jpg) | Fully matched                                                                            |
+| ![](../images/rrrrrrrrrr%201.jpg)                            | Partially matched; the number indicates the missing quantity                             |
+| ![](../images/bgerwqrwfrgfwrq3frgf.jpg)                      | Line not matched                                                                         |
+| ![](../images/Untitled.jpg)                                  | The price of the matched transactions matches the price of the current transaction       |
+| ![](../images/CleanShot%202025-04-04%20at%2009.31.57@2x.jpg) | The price of the matched transaction is higher than the price of the current transaction |
+| ![](../images/CleanShot%202025-04-04%20at%2009.31.42@2x.jpg) | The price of the matched transaction is lower than the price of the current transaction  |
+| ![](../images/CleanShot%202025-04-04%20at%2009.38.34@2x.jpg) | Multiple icons appear if you are matching to multiple transactions                       |
+
 
 ![](../images/CleanShot%202025-03-07%20at%2007.25.09@2x.png)
 
