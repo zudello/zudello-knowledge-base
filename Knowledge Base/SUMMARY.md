@@ -3,19 +3,18 @@
 - [Welcome to Zudello](homepage.md)
 
 ## Getting started with Zudello
-* [Logging into Zudello](getting-started-with-zudello/logging-in-to-zudello.md)
+* [Logging in](getting-started-with-zudello/logging-in-to-zudello.md)
 * [Navigating Zudello](getting-started-with-zudello/navigating-zudello.md)
 * [Contacting Zudello support](getting-started-with-zudello/contacting-zudello-support.md)
 * [Setting up the Zudello mobile app](getting-started-with-zudello/setting-up-the-zudello-mobile-app.md)
 - [Zudello glossary](getting-started-with-zudello/zudello-glossary.md)
 
-## Managing your account
-* [Overview](managing-your-account/managing-your-account.md)
-* [Resetting your password](managing-your-account/resetting-your-password.md)
-* [Managing notification settings](managing-your-account/managing-notification-settings.md)
-* [Setting up approval delegation](managing-your-account/setting-up-approval-delegation.md)
-* [Setting your default team](managing-your-account/setting-your-default-team.md)
-* [Setting up default coding](managing-your-account/setting-up-default-coding.md)
+## Commonly used articles
+- [Uploading documents](document-management/uploading-documents.md)
+- [Approving documents](approval-management/approving-and-rejecting-documents.md)
+- [Creating a purchase order](purchasing-module/creating-and-coding-a-purchase-order.md)
+- [Three-way matching](purchasing-module/three-way-matching.md)
+- [Exporting](data-management/exporting-records.md)
 
 ## Purchasing module
 * [Purchasing overview](purchasing-module/purchasing-overview.md)
@@ -83,6 +82,14 @@
 * [Dimension data](data-management/dimension-data.md)
 - [Exporting](data-management/exporting-records.md)
 - [Importing](data-management/importing-records.md)
+
+## Managing your account
+* [Overview](managing-your-account/managing-your-account.md)
+* [Resetting your password](managing-your-account/resetting-your-password.md)
+* [Managing notification settings](managing-your-account/managing-notification-settings.md)
+* [Setting up approval delegation](managing-your-account/setting-up-approval-delegation.md)
+* [Setting your default team](managing-your-account/setting-your-default-team.md)
+* [Setting up default coding](managing-your-account/setting-up-default-coding.md)
 
 ## User management and security
 * [User management overview](user-management-and-security/user-management-overview.md)
