@@ -9,13 +9,6 @@
 * [Setting up the Zudello mobile app](getting-started-with-zudello/setting-up-the-zudello-mobile-app.md)
 - [Zudello glossary](getting-started-with-zudello/zudello-glossary.md)
 
-## Popular articles
-- [Uploading documents](document-management/uploading-documents.md)
-- [Approving documents](approval-management/approving-and-rejecting-documents.md)
-- [Creating a purchase order](purchasing-module/creating-and-coding-a-purchase-order.md)
-- [Three-way matching](purchasing-module/three-way-matching.md)
-- [Exporting](data-management/exporting-records.md)
-
 ## Purchasing module
 * [Purchasing overview](purchasing-module/purchasing-overview.md)
 * [Standard purchasing flows](purchasing-module/standard-purchasing-flows.md)
