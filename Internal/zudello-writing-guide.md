@@ -2,6 +2,20 @@
 
 This guide is for anyone writing public-facing content or communication for Zudello. Aligning all documentation with this guide ensures a consistent experience for our customers across all Zudello communication. 
 
+## Font and colours
+
+# Title - Figtree Normal, Size 25, Hex #85149b, RGB (133,20,155), Markdown Heading level 1
+
+## Heading 1 - Figtree Light, size 20, Hex #85149b, RGB (133,20,155), Markdown Heading level 2
+
+### Heading 2 - Figtree Normal, size 16, Hex #2b2b2b, RGB (43,43,43), Markdown Heading level 3
+
+#### Heading 3 - Figtree Normal, size 14, Hex #2b2b2b, RGB (43,43,43), Markdown Heading level 4
+
+##### Heading 4 - Figtree Medium, size 12, Hex #2b2b2b, RGB (43,43,43), Markdown Heading level 5
+
+Body (Normal text) - Figtree Light, size 12, Hex #2b2b2b, RGB (43,43,43)
+
 ## Voice and tone
 
 What is voice and tone? Zudello’s voice is a reflection of who we are. We should always sound like Zudello. At the same time, some aspects of our personality might be more or less apparent, depending on the audience and their context; that’s tone.
