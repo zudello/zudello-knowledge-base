@@ -24,6 +24,15 @@
 * [Processing a credit](purchasing-module/processing-a-credit.md)
 <!-- * Supplier statement reconciliation -->
 
+## Expenses and travel
+
+- [Expenses overview](expenses/expenses-overview.md)
+- [Uploading expenses](expenses/uploading-expenses.md)
+- [Coding and validating expenses](expenses/coding-and-validating-expenses.md)
+- [Mileage expenses](expenses/mileage-expenses.md)
+- [Submitting a claim](expenses/submitting-a-claim.md)
+- [Approving claims](expenses/approving-claims.md)
+
 ## Document management 
 * [Document management overview](document-management/document-management-overview.md)
 * [Applying trained rules](document-management/applying-trained-rules.md)

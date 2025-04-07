@@ -8,13 +8,14 @@ Every section of our knowledge base is carefully structured so you can find exac
 
 If you're just getting started with Zudello, follow these steps:
 
-1. Learn how to [log in to Zudello](getting-started-with-zudello/logging-in-to-zudello.md)
+1. [Log in to Zudello](getting-started-with-zudello/logging-in-to-zudello.md)
 2. Set up your [account preferences](managing-your-account/managing-your-account.md) and [notification settings](managing-your-account/managing-notification-settings.md)
 3. Learn how to [navigate the platform](getting-started-with-zudello/navigating-zudello.md)
+4. Explore some of the popular articles below
 
 ## Popular articles
 
-Get familiar with the Zudello basics with these popular knowledge base articles:
+Get familiar with common Zudello functions with these useful knowledge base articles:
 
 - [Uploading documents](document-management/uploading-documents.md)
 - [Approving documents](approval-management/approving-and-rejecting-documents.md)
