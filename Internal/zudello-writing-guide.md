@@ -107,6 +107,7 @@ Use passive voice only when:
 
 > e.g.
 > Invoices are created monthly and emailed to mark.li@email.com ✅
+> 
 > Zudello creates and emails your invoices monthly to simon.r@email.com ❌
 
 ## Grammar and mechanics
@@ -186,7 +187,7 @@ Use title case for:
 
 Use sentence case for:
 
-- Everything else
+- Everything else (including all headings)
 - Don't capitalise generic features
 
 #### Referencing system buttons and functions
