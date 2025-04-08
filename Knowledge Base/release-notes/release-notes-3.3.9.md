@@ -34,4 +34,6 @@ The following limitations apply when running quick actions in bulk:
 
 # Have some ideas?
 
-Do you have an idea for a new feature or how we can improve our current features? Please let us know at [support@zudello.com](mailto:support@zudello.com). Your ideas and feedback are an important part of our product planning process to make Zudello better for everyone.
+Do you have an idea for a new feature or how we can improve our current features? Please let us know at [support@zudello.com](mailto:support@zudello.com). 
+
+Your ideas and feedback are an important part of our product planning process to make Zudello better for everyone.

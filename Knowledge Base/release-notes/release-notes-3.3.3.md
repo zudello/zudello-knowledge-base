@@ -1,6 +1,6 @@
 # Release notes edition 3.3.3
 
-Release date: 10th October 2024  
+Release date: 10 October 2024  
 Version: v3
 
 Here's the latest summary of what’s new and improved in Zudello, as well as what was resolved in the latest release.
@@ -79,4 +79,6 @@ Please reach out to your Organisation Administrator to discuss importing Item Al
 
 # Have some ideas?
 
-Do you have an idea for a new feature or how we can improve our current features? Please let us know at [support@zudello.com](mailto:support@zudello.com). Your ideas and feedback are an important part of our product planning process to make Zudello better for everyone.
+Do you have an idea for a new feature or how we can improve our current features? Please let us know at [support@zudello.com](mailto:support@zudello.com). 
+
+Your ideas and feedback are an important part of our product planning process to make Zudello better for everyone.
