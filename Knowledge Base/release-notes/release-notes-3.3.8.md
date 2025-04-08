@@ -10,8 +10,8 @@ Here's the latest summary of what's new and improved in Zudello, as well as what
 ### Document type default statuses
 
 Document types now have configurable default statuses that are applied when documents are created or reopened:
-    - Transactions (invoices, purchase orders, etc.) default to **Review** status when created and **Ready** status when reopened
-    - Non-transactions (items, suppliers, customers, dimensions) default to **Active** status for both creation and reopening
+- Transactions (invoices, purchase orders, etc.) default to **Review** status when created and **Ready** status when reopened
+- Non-transactions (items, suppliers, customers, dimensions) default to **Active** status for both creation and reopening
 
 You can customise these settings in the document type settings.
 
@@ -31,11 +31,11 @@ All teams are now automatically opted into our LLM (Large Language Model) extrac
 
 We've made several improvements to Zudello's performance, helping you work faster and more efficiently:
 
-- **Faster document enrichment and allocations**: We've streamlined how documents are processed during enrichment, reducing the time it takes to extract and code your documents. We've also optimised how we calculate allocation variances, making the matching process faster.
+- We've streamlined how documents are processed during enrichment, reducing the time it takes to extract and code your documents. We've also optimised how we calculate allocation variances, making the matching process faster.
   
-- **Improved transaction loading**: Opening transactions with allocations is now faster, as we've reduced the amount of background information loaded when viewing these documents.
+- Opening transactions with allocations is now faster, as we've reduced the amount of background information loaded when viewing these documents.
   
-- **Faster claim processing**: Processing claims with multiple linked expenses is now significantly faster. We've reduced processing time for claims with 20-30 linked expenses from nearly 2 minutes down to about 45 seconds.
+- Processing claims with multiple linked expenses is now significantly faster. We've reduced processing time for claims with 20-30 linked expenses from nearly 2 minutes down to about 45 seconds.
 
 We're committed to ongoing performance improvements and will continue to make Zudello faster with each release.
 
@@ -55,4 +55,6 @@ We're committed to ongoing performance improvements and will continue to make Zu
 
 # Have some ideas?
 
-Do you have an idea for a new feature or how we can improve our current features? Please let us know at [support@zudello.com](mailto:support@zudello.com). Your ideas and feedback are an important part of our product planning process to make Zudello better for everyone.
+Do you have an idea for a new feature or how we can improve our current features? Please let us know at [support@zudello.com](mailto:support@zudello.com). 
+
+Your ideas and feedback are an important part of our product planning process to make Zudello better for everyone.

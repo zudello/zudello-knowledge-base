@@ -275,6 +275,7 @@ Use a bulleted list when items are related, but sequence or priority doesn’t m
 - Use nested bullet points for lists with explanations
 - Step name
 	- Displays the name that will appear on each approval step when documents are sent for approval ✅
+- Don't use colons, semicolons, or dashes for nested lists or explanations
 - Step name: Displays the name that will appear on each approval step when documents are sent for approval ❌
 - Step name - Displays the name that will appear on each approval step when documents are sent for approval ❌
 

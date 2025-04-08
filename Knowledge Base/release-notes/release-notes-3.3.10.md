@@ -37,8 +37,11 @@ Document classification helps Zudello organise your documents into the correct s
 # Resolutions
 
 - We've resolved an issue where document views didn't refresh correctly when users changed the selected statuses
+  
 - We've fixed a display issue with the Group Membership Management page where inactive users weren't correctly shown as inactive in single-team organisations
 
 # Have an idea?
 
-Do you have an idea for a new feature or how we can improve our current features? Please let us know at [support@zudello.com](mailto:support@zudello.com). Your ideas and feedback are an important part of our product planning process to make Zudello better for everyone.
+Do you have an idea for a new feature or how we can improve our current features? Please let us know at [support@zudello.com](mailto:support@zudello.com). 
+
+Your ideas and feedback are an important part of our product planning process to make Zudello better for everyone.
