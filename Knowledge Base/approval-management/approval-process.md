@@ -6,7 +6,7 @@ Zudello provides a consistent approval process across your organisation. This gu
 
 The Zudello approval process automatically assigns the appropriate approver/s to a document based on a predetermined approval flow. 
 
-![](../images/CleanShot%202025-03-22%20at%2015.15.18@2x.png)
+![](../images/approval-flow.png)
 
 When you open a document in Approval status, you'll see the approval flow at the top left. The approval flow consists of three main elements:
 
@@ -18,7 +18,7 @@ When you open a document in Approval status, you'll see the approval flow at the
 
 Approval milestones represent distinct parts of the approval process. 
 
-![](../images/CleanShot%202025-03-22%20at%2014.59.13@2x.png)
+![](../images/approval-milestone.png)
 
 Each milestone:
 
@@ -39,7 +39,7 @@ If a milestone is approved, it continues to the next step in processing. If a mi
 
 Each milestone contains one or more approval steps. Each step is approved independently, but all steps in a milestone must be approved for the flow to continue.
 
-![](../images/CleanShot%202025-03-22%20at%2015.03.01@2x.png)
+![](../images/approval-step.png)
 
 Each approval step:
 

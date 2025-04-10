@@ -30,7 +30,7 @@ To add Zudello to your iPhone's home screen:
 2. Click the share icon in your browser
 3. Select **Add to Home Screen**
 
-![](../images/CleanShot%202025-03-23%20at%2012.57.29@2x.png)
+![](../images/mobileimage.png)
 
 4. The name will default to **Zudello** but can be edited to suit your preference
 5. Click **Add**
