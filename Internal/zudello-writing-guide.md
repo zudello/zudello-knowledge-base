@@ -288,6 +288,7 @@ Apply the same grammar rules as per bulleted list.
 
 #### Dates
 
+- Day Month Year (8 April 2025)
 - Use months’ full name when possible:  
 	- 13 September ✅  
 	- 13 Sept. ❌

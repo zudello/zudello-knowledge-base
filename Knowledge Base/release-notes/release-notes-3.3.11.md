@@ -41,17 +41,11 @@ Automation logs help you track and troubleshoot your automated processes in Zude
 We're constantly working to refine Zudello functionality and ensure that we address any issues as soon as possible. As part of this release, we've made the following resolutions and improvements:
 
 - Units of measure can now be added to forms in the sales module
-  
 - You can now specify a date and time when filtering the automation log to assist in troubleshooting automation issues
-  
 - Required fields are now shown with a less intrusive asterisk (\*) when transactions are created, and will only show error banners if they are empty after a save or refresh
-  
 - We resolved an issue where standard users were unable to view the country list
-  
 - We fixed a navigation issue where users sometimes encountered a blank search page when moving through multiple pages
-  
 - We resolved an issue that prevented adding mileage expenses when clicking the add expenses button on a reimbursement claim
-  
 - We improved the messaging for documents in the unclassified section to better reflect their current status
 
 # Have an idea?

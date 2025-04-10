@@ -1,6 +1,6 @@
 # Release notes edition 3.4.0
 
-Release date: 8 January 2024  
+Release date: 8 January 2025  
 Version: v3
 
 Here's the latest summary of what's new and improved in Zudello, as well as what we resolved in the latest release.
@@ -46,13 +46,9 @@ We have removed the ability to import mileage expenses. Mileage expenses need to
 # Resolutions
 
 - We’ve resolved an issue where dependencies weren’t automatically deleted when related values were deleted. Now, deleting a record will properly remove any related dependency on other records.
-
 - An issue that prevented users from duplicating a Sales Order into a Purchase Order has been fixed.
-
 - We’ve fixed an error where some table views would fail to load, improving overall stability and performance.
-
 - An issue with audit logs displaying dimension UUIDs instead of names has been resolved, making logs easier to read.
-
 - We’ve continued our work on improving system performance, including converting more endpoints from asynchronous to synchronous processing.
 
 # Have some ideas?

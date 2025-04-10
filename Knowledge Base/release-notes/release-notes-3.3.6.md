@@ -57,18 +57,13 @@ For help with adjusting the validation tolerances on your forms, please reach ou
 We're constantly working to refine Zudello functionality and ensure that we address any issues as soon as possible. As part of this release, we've made the following resolutions and improvements:
 
 - We resolved an issue where keyword coding rules weren't correctly applied due to case sensitivity. All keyword lookup rules are now case insensitive.
-  
 - We've restricted which modules and submodules you can select when converting a document. The following conversions are NOT allowed (structure is Existing Submodule > Converted Submodule):
     - Expenses > Mileage
     - Expenses > Claim
     - All Modules (Expenses, Sales, Purchasing, Relationships) > Requests
-      
 - We've improved exporting selections and filter behaviour when selecting module and submodule.
-  
 - We've resolved an issue with document URLs displaying incorrectly when a document was opened from the inbox. When you navigate from the inbox to a document, the URL will now refresh properly and display the URL of the document.
-  
 - When you're making a configuration change to dataset fields, we now display a warning and await confirmation before clearing data to prevent accidental deletes. This is in addition to the existing warning that displays when you change the dataset type.
-  
 - You can now view the associated tax solution on a tax rate form if the field is enabled. If you'd like to discuss enabling this field, please contact [support@zudello.com](mailto:support@zudello.com).
 
 # Have an idea?
