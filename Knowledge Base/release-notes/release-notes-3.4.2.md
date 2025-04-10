@@ -15,7 +15,7 @@ We have launched our new keyword coding rules feature, which automatically appli
 
 For more information on setting up and managing these rules, see [Keyword coding rules](../business-rules/keyword-coding-rules.md) guide.
 
-### New feature: Create a goods receipt
+### New Create a goods receipt feature
 
 Goods receipts help you track when items have been received, ensuring accurate inventory management and supporting three-way matching for invoice processing.
 

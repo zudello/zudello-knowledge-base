@@ -14,7 +14,7 @@ Zudello has had a refresh! We've updated our logo across all teams. You'll see o
 ### Performance improvements
 
 We continuously work to make Zudello faster and more efficient. In this release, we've implemented system-wide caching for frequently used resources, such as document types, field settings, and statuses. This enhancement helps the system access information more quickly, resulting in faster response times and a smoother user experience.
-### Backend validation (Beta release)
+### Backend validation (beta release)
 
 Data validation helps ensure information is accurate and complete before documents are processed. Selected teams have been opted into our new backend validations feature, which provides enhanced validation capabilities.
 
