@@ -37,7 +37,6 @@ Document classification helps Zudello organise your documents into the correct s
 # Resolutions
 
 - We've resolved an issue where document views didn't refresh correctly when users changed the selected statuses
-  
 - We've fixed a display issue with the Group Membership Management page where inactive users weren't correctly shown as inactive in single-team organisations
 
 # Have an idea?

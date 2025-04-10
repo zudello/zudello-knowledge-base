@@ -1,6 +1,6 @@
 # Release notes edition 3.4.1
 
-Release date: 16 January 2024  
+Release date: 16 January 2025  
 Version: v3
 
 Here's the latest summary of what's new and improved in Zudello, as well as what we resolved in the latest release.
@@ -73,19 +73,12 @@ This new management page helps ensure your user group membership remains up to d
 We're constantly working to refine Zudello functionality and ensure that we address any issues as soon as possible. As part of this release, we've made the following resolutions and improvements:
 
 - Several performance improvements have been implemented across the platform, including a specific performance issue that affected dependency deletion
-  
 - We've fixed authentication issues related to Microsoft Entra ID (formerly Azure AD)
-  
 - We've resolved a MIME type issue that prevented certain documents from being uploaded
-  
 - Unit price exclusive calculations now work correctly when quantities are negative
-  
 - Unclassified documents are now rescanned automatically once you classify them
-  
 - The tax included flag is now set correctly when documents don't have a subtotal
-  
 - We've added a new payment reference field for suppliers, customers, and employees
-  
 - Delivery addresses are no longer overwritten when converting quotes to purchase orders
 
 ## Have an idea?

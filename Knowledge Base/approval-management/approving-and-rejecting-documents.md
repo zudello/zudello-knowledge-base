@@ -8,8 +8,6 @@ Zudello makes it easy to review and approve documents, whether you're working fr
 - Review all document details carefully before approving
 - Include detailed reasons when rejecting documents
 - Use document chat for questions or concerns before approving or rejecting
-- Verify coding information matches your organisation's requirements
-- Check that supplier details match the original document
 
 ## Approving in Zudello
 
@@ -44,9 +42,13 @@ The document will be moved to the **Reject Review** status and assigned to the s
 
 ## Approving via email
 
-If your approval notifications are enabled, you'll receive an email from noreply@zudello.com whenever a document needs your approval. The email includes:
+If your approval notifications are enabled, you'll receive an email from noreply@zudello.com whenever a document needs your approval. 
 
-- The document module, submodule and form type
+> **Important Note**: All approval emails will come from noreply@zudello.com. Any approval email from a different address is spam and should be reported to your organisation administrator and Zudello support. 
+
+The email includes:
+
+- The type of document
 - Supplier name
 - Document total and currency
 - Document date
@@ -54,6 +56,8 @@ If your approval notifications are enabled, you'll receive an email from noreply
 - The original document as an attachment
 - A link to view the document in Zudello
 - Approve and reject buttons (if enabled for your organisation)
+
+![](../images/CleanShot%202025-04-09%20at%2015.57.08%201.png)
 
 To approve a document via email:
 
@@ -63,17 +67,31 @@ To approve a document via email:
 4. Confirm all coding matches correctly
 5. Click **Click here to Approve**
 
+![](../images/CleanShot%202025-04-09%20at%2016.04.08.png)
+
 If you have questions before approving:
 
 1. Open the document in Zudello by clicking the link in the email
+
+![](../images/CleanShot%202025-04-09%20at%2016.04.08%201.png)
+
 2. Use the document chat function to contact the submitter
 3. Wait for clarification before proceeding
 
 To reject a document via email:
 
 1. Click **Click here to Reject**
-2. Enter a detailed reason for the rejection
-3. Confirm the rejection
+
+![](../images/CleanShot%202025-04-09%20at%2016.04.08%202.png)
+
+2. A new tab will be opened to collect a reason for the rejection
+3. Enter a detailed reason for the rejection
+
+![](../images/CleanShot%202025-04-09%20at%2016.09.47.png)
+
+4. Click **Reject**
+
+The document will be moved to the **Reject Review** status and assigned to the submitter. Your rejection message helps the team handle rejected documents efficiently, so include as much detail as possible.
 
 ## Need help?
 

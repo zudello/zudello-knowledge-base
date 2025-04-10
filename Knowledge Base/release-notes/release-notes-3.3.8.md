@@ -44,13 +44,9 @@ We're committed to ongoing performance improvements and will continue to make Zu
 ### Bank account and ABN validations 
 
 - We've resolved an issue where bank account and ABN validations were sometimes appearing when they shouldn't. Validations now properly respect their document type extension settings.
-  
 - We've corrected calculations for amount-based matching, ensuring that matching status and variance percentages are displayed accurately.
-
 - We've resolved an issue where users couldn't complete transactions with lengthy address information.
-  
 - We've added search functionality to the [keyword coding](../business-rules/keyword-coding-rules.md) page, making it easier to find and work with document coding settings.
-  
 - We've upgraded several front-end components to ensure ongoing compliance with security standards.
 
 # Have some ideas?

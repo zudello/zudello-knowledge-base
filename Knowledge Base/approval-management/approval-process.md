@@ -25,9 +25,9 @@ Each milestone:
 - Has a name to provide context 
 - Contains one or more approval steps
 - Shows its status through a coloured square indicator:
-  - Purple: Active milestone
-  - Green: Completed milestone
-  - Grey: Future milestone
+  - Purple indicates active milestones
+  - Green indicates completed milestones
+  - Grey indicates a future milestone
 
 ![](../images/CleanShot%202025-03-22%20at%2016.08.46@2x%201.png)
 
