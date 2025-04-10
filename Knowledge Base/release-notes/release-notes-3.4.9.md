@@ -19,7 +19,7 @@ When a document moves into a complete-type status:
 
 This enhancement provides a more comprehensive audit trail, making it easier to track when documents were finalised.
 
-### Bulk approve & bulk submit (Beta release)
+### Bulk approve & bulk submit (beta release)
 
 Processing multiple documents efficiently is key to streamlining your workflow. We've introduced two powerful new bulk actions to help you process documents faster.
 
@@ -43,7 +43,7 @@ You can now select multiple documents awaiting your approval and approve them al
 
 These features are currently in beta and only available for teams with backend validation enabled. Reach out to support@zudello.com to discuss enabling these features for your team.
 
-### Budgets (Beta release)
+### Budgets (beta release)
 
 Budget management helps you control spending and ensure procurement and AP costs stay within defined limits. We've launched a new budgets feature that gives you powerful capabilities to track and manage expenditure, including the ability to:
 

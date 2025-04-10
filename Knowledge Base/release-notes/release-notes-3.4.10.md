@@ -31,7 +31,7 @@ Allocations help you match corresponding transaction lines (e.g. purchase order 
 
 This update makes the allocation process more efficient by reducing unnecessary warnings and focusing your attention only on meaningful price discrepancies.
 
-### Budget interface improvements (Beta release)
+### Budget interface improvements (beta release)
 
 Budgets help you track and control spending against predefined limits. We've made several visual enhancements to the budget modal to improve readability and usability:
 
