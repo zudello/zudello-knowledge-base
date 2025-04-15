@@ -1,4 +1,4 @@
-# Placing and sending a purchase order
+# Placing an order
 
 Zudello's **Place order** function let's you instantly send approved purchase orders to your suppliers, without needing to switch systems. This guide explains how to place orders with or without sending emails, helping you efficiently manage your procurement process.
 
