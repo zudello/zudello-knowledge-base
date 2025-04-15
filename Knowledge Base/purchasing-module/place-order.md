@@ -43,7 +43,7 @@ To place a purchase order:
 To place the order and send a copy to your supplier:
 
 1. Click **Email order to supplier**
-2. The **To** address will be pre-filled with the supplier's email address, but you can change this if needed
+2. The **To** address will be pre-filled with the email address on the transaction, and can be changed if necessary
 
 ![](../images/CleanShot%202025-04-14%20at%2018.08.57.png)
 
@@ -54,7 +54,7 @@ To place the order and send a copy to your supplier:
 
 ![](../images/CleanShot%202025-04-14%20at%2018.12.45.png)
 
-5. Deselect **Attach a copy of this document** if you don't want to attach a copy of the purchase order to the email
+5. **Attach a copy of this document** is selected by default, and cannot be deselected
 6. Click **Place and send**
 
 ![](../images/CleanShot%202025-04-14%20at%2018.13.54.png)
