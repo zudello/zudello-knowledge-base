@@ -16,7 +16,7 @@
 * [Converting a quote to a requisition or purchase order](purchasing-module/converting-a-quote-to-a-requisition-or-purchase-order.md)
 * [Creating a requisition](purchasing-module/creating-and-coding-a-requisition.md)
 * [Creating a purchase order](purchasing-module/creating-and-coding-a-purchase-order.md)
-- [Placing an order](purchasing-module/place-order.md)
+- [place-order](purchasing-module/place-order.md)
 <!-- * Closing a purchase order -->
 * [Processing an invoice](purchasing-module/processing-an-invoice.md)
 * [Understanding matching](purchasing-module/understanding-two-way-and-three-way-matching.md)
