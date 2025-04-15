@@ -58,7 +58,6 @@ When duplicating a purchase order, the **Placed by** and **Placed at** fields ar
 
 We're constantly working to refine Zudello functionality and ensure that we address any issues as soon as possible. As part of this release, we've made the following resolutions and improvements:
 
-- We've implemented an automatic retry system for PDF generation to ensure reliability even during temporary service interruptions
 - We've optimised timezone settings for UK customers to improve performance
 - We've made improvements to the saving process for user groups with numerous permissions
 - We've resolved an issue where the **Created by** user field couldn't be added to forms, complementing the previously released ability to add **Placed by** and **Submitted by** fields

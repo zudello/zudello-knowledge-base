@@ -55,8 +55,11 @@ The system generates a PDF containing:
     - Their responses
     - Response timestamps
     - Reasons for forced, changed, or escalated responses
+- At the bottom of each downloaded approval history, you'll find:
+	- A link to the document in Zudello 
+	- Information about the user who downloaded the history
 
-At the bottom of each downloaded approval history, you'll find a direct link to open the document in Zudello and information about the user who downloaded the history. 
+![](../images/CleanShot%202025-04-15%20at%2014.13.44.png)
 
 ## Need help?
 

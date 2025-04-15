@@ -17,7 +17,7 @@ To convert a quote:
 3. Click **Convert**
 4. From the **Module** drop-down, select **Purchasing**
 5. From the **Submodule** drop-down, select **Quotes**
-6. Leave the **Duplicate** option turned off
+6. Select the **Duplicate** option 
 7. Click **Convert**
 
 The system then begins converting the document. Once complete, you will be redirected to a new tab with the converted document opened. 

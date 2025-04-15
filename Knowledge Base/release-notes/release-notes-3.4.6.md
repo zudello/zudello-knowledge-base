@@ -31,8 +31,7 @@ Reach out to [support@zudello.com](mailto:support@zudello.com) to discuss enabli
 We're constantly working to refine Zudello functionality and ensure that we address any issues as soon as possible. As part of this release, we've made the following resolutions and improvements:
 
 - We've resolved an issue where replies to system-generated emails were failing due to incorrect email domain settings
-- We've fixed an issue where exports could not send notifications
-- We've resolved an issue where supplier default business rules (coding) couldn't be configured due to dependency conflicts
+- We've resolved an issue where supplier default coding rules couldn't be configured due to dependency conflicts
 
 ## Have an idea?
 
