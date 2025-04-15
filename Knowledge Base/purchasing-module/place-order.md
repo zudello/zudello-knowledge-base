@@ -34,11 +34,11 @@ To place a purchase order:
 
 ![](../images/CleanShot%202025-04-14%20at%2018.04.15.png)
 
-1. You'll be presented with two options:
-	1. **Email order to supplier**
-	2. **Place order without emailing**
+4. You'll be presented with two options:
+	- **Email order to supplier**
+	- **Place order without emailing**
 
-#### Emailing order to supplier
+#### Email order to supplier
 
 To place the order and send a copy to your supplier:
 
@@ -63,7 +63,7 @@ To place the order and send a copy to your supplier:
 
 ![](../images/CleanShot%202025-04-14%20at%2018.15.43.png)
 
-#### Placing without emailing
+#### Place order without emailing
 
 To place the order without sending an email:
 
