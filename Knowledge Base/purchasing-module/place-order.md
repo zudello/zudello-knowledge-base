@@ -29,7 +29,7 @@ Only purchase orders that are in a pending-type status (e.g. the standard **Pend
 To place a purchase order:
 
 1. Open the purchase order in Pending status
-2. Click the three dots (**...**) at the top of the document
+2. Click the **...** at the top of the document
 3. Click **Place order**
 
 ![](../images/CleanShot%202025-04-14%20at%2018.04.15.png)
