@@ -9,7 +9,7 @@ Here's the latest summary of what's new and improved in Zudello, as well as what
 
 ### Place order (beta release)
 
-Purchase order management helps you track orders with suppliers from creation through to fulfilment. We've introduced a new [**Place order**](../purchasing-module/placing-a-purchase-order.md) action for purchase orders to streamline your ordering process.
+Purchase order management helps you track orders with suppliers from creation through to fulfilment. We've introduced a new [**Place order**](../purchasing-module/placing-an-order.md) action for purchase orders to streamline your ordering process.
 
 The new **Place order** action is available for purchase orders in **Pending** status and offers two options:
 
