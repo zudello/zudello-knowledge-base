@@ -13,30 +13,33 @@ Zudello makes it easy to review and approve documents, whether you're working fr
 
 Documents requiring approval will show in Approval status in their respective submodules. To view all of your outstanding approvals in a particular, click the **Requests** submodule (see [Requests submodule](requests-submodule.md)).
 
-![](../images/CleanShot%202025-03-22%20at%2015.50.45@2x.png)
+![](../images/CleanShot%202025-04-16%20at%2007.26.14.png)
 
 To approve documents directly in Zudello:
 
 1. Open the document
 2. Review the document thoroughly:
    - Verify the document number and date
-   - Check that the matched supplier matches the document
+   - Check that the matched supplier is correct
    - Confirm all coding is complete and correct
    - Verify all document totals are correct
-3. Click **Approve** once satisfied with all details
+   - For extracted documents, check that key details match the original document
+1. Click **Approve** once satisfied with all details
 
-![](../images/CleanShot%202025-03-22%20at%2015.52.36@2x.png)
+![](../images/CleanShot%202025-04-16%20at%2007.27.49.png)
 
 The document will proceed through any remaining approval steps after you complete your approval.
 
 To reject a document in Zudello:
 
 1. Click **Reject**
-2. Enter a detailed reason for the rejection
 
-![](../images/CleanShot%202025-03-22%20at%2015.56.27@2x%201.png)
-   
+![](../images/CleanShot%202025-04-16%20at%2007.27.49%201.png)
+
+2. Enter a detailed reason for the rejection   
 3. Click **Confirm**
+
+![](../images/CleanShot%202025-04-16%20at%2007.31.50%201.png)
 
 The document will be moved to the **Reject Review** status and assigned to the submitter. Your rejection message helps the team handle rejected documents efficiently, so include as much detail as possible.
 

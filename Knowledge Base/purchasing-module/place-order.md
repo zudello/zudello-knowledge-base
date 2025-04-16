@@ -28,8 +28,8 @@ Only purchase orders that are in a pending-type status (e.g. the standard **Pend
 
 To place a purchase order:
 
-1. Open the purchase order in Pending status
-2. Click the **...** at the top of the document
+1. Open the purchase order
+2. Click **...** at the top of the document
 3. Click **Place order**
 
 ![](../images/CleanShot%202025-04-14%20at%2018.04.15.png)
@@ -59,7 +59,7 @@ To place the order and send a copy to your supplier:
 
 ![](../images/CleanShot%202025-04-14%20at%2018.13.54.png)
 
-7. The order will be moved to Placed status and the email will be added to the Inbox tab in Zudello.
+7. The order will be moved to Placed status and the email will be added to the inbox tab in Zudello
 
 ![](../images/CleanShot%202025-04-14%20at%2018.15.43.png)
 
