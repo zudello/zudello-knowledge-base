@@ -102,6 +102,8 @@ Alternatively, you can add expenses from within the claim:
 
 After submitting a claim, it will enter your organisation's approval workflow. The claim status will update as it progresses through the approval process.
 
+Once fully approved, the claim will be sent to your ERP and will move into **Completed** status.
+
 ## Need help?
 
 Contact your organisation administrator or Zudello support for assistance with submitting expense claims.

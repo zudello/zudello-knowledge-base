@@ -25,13 +25,15 @@ To access your pending approvals:
 1. Open the relevant module (e.g. sales, purchasing, or expenses)
 2. Click **Requests** in the submodule menu
 
-![](../images/CleanShot%202025-03-22%20at%2015.57.46@2x%202.png)
+![](../images/CleanShot%202025-04-15%20at%2019.21.36.png)
    
-3. View your list of outstanding approval requests
+3. Review and action your outstanding approval requests
 
-The Requests submodule shows only documents awaiting your approval, helping you focus on items that need your attention. Review each document carefully before approving or rejecting it. See [Approving and rejecting documents](approving-and-rejecting-documents.md) for more information on approving documents.
+![](../images/CleanShot%202025-04-15%20at%2019.21.36%201.png)
 
-Once you action an approval request, it disappears from your requests submodule, helping you maintain a clean and current view of outstanding items.
+The Requests submodule shows only documents awaiting your approval, helping you focus on items that need your attention. Once you action an approval request, it disappears from your requests submodule.
+
+See [Approving and rejecting documents](approving-and-rejecting-documents.md) for more information on approving documents.
 
 ## Need help?
 
